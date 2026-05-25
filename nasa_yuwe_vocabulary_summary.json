@@ -1,0 +1,585 @@
+{
+  "total_vocabulary_entries": 28757,
+  "entries_with_direct_translation": 4731,
+  "entries_token_only": 24026,
+  "avg_translations_per_entry": 1.09,
+  "source_coverage": {
+    "bible_nt": 17149,
+    "broomva_instruct": 15620,
+    "living_dict": 5642,
+    "americasnlp_2024": 4804,
+    "broomva_translation": 1932,
+    "territorios_narrados": 839,
+    "kwesxyuwe_thematic": 696,
+    "procuraduria_institutional": 682,
+    "adres_health": 136
+  },
+  "top_50_most_frequent": [
+    {
+      "nasa_yuwe": "dxus",
+      "frequency": 5102,
+      "translations": [
+        "Dios"
+      ],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct",
+        "living_dict"
+      ]
+    },
+    {
+      "nasa_yuwe": "txãa",
+      "frequency": 4348,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "txã'wẽ",
+      "frequency": 4140,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "yu'",
+      "frequency": 3966,
+      "translations": [
+        "1. el agua; 2. líquido"
+      ],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "kwesxyuwe_thematic",
+        "living_dict"
+      ]
+    },
+    {
+      "nasa_yuwe": "aça'",
+      "frequency": 3352,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "yakh",
+      "frequency": 2655,
+      "translations": [],
+      "sources": [
+        "adres_health",
+        "bible_nt",
+        "broomva_instruct",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "sa'",
+      "frequency": 2585,
+      "translations": [
+        "y"
+      ],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict"
+      ]
+    },
+    {
+      "nasa_yuwe": "nawa",
+      "frequency": 2473,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "wala",
+      "frequency": 2275,
+      "translations": [
+        "grande, alto",
+        "mucho, muy",
+        "mucho (adj, adv)"
+      ],
+      "sources": [
+        "adres_health",
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "kwesxyuwe_thematic",
+        "living_dict",
+        "procuraduria_institutional",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "naa",
+      "frequency": 2156,
+      "translations": [],
+      "sources": [
+        "adres_health",
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict",
+        "procuraduria_institutional",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "adx",
+      "frequency": 1738,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "jxuka",
+      "frequency": 1694,
+      "translations": [],
+      "sources": [
+        "adres_health",
+        "bible_nt",
+        "broomva_instruct",
+        "procuraduria_institutional",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "yuhwa",
+      "frequency": 1373,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "jesusa'",
+      "frequency": 1302,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "ew",
+      "frequency": 1300,
+      "translations": [
+        "bien, bueno"
+      ],
+      "sources": [
+        "adres_health",
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict",
+        "procuraduria_institutional",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "nasa",
+      "frequency": 1286,
+      "translations": [
+        "1. indígena páez 2. gente, persona",
+        "persona (f)",
+        "páez (gente) (m,f)"
+      ],
+      "sources": [
+        "adres_health",
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict",
+        "procuraduria_institutional",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "jesus",
+      "frequency": 1255,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "i'kwe'sx",
+      "frequency": 1241,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "txajx",
+      "frequency": 1178,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "txajũ'",
+      "frequency": 1174,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "vxite'",
+      "frequency": 1161,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "yuu",
+      "frequency": 1084,
+      "translations": [],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict",
+        "procuraduria_institutional",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "dxusa'",
+      "frequency": 1054,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "pa'ga",
+      "frequency": 998,
+      "translations": [
+        "caro",
+        "precio, costo",
+        "precio (m)"
+      ],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict"
+      ]
+    },
+    {
+      "nasa_yuwe": "txãawe'sx",
+      "frequency": 982,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "jĩte'",
+      "frequency": 980,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "i'kwe'sxa'",
+      "frequency": 979,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "na'wẽ",
+      "frequency": 966,
+      "translations": [
+        "como, lo mismo que (adv)"
+      ],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict"
+      ]
+    },
+    {
+      "nasa_yuwe": "puutx",
+      "frequency": 935,
+      "translations": [],
+      "sources": [
+        "adres_health",
+        "bible_nt",
+        "broomva_instruct",
+        "kwesxyuwe_thematic",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "kiwete",
+      "frequency": 885,
+      "translations": [],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "procuraduria_institutional"
+      ]
+    },
+    {
+      "nasa_yuwe": "kxtey",
+      "frequency": 880,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "yuuna",
+      "frequency": 879,
+      "translations": [],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation"
+      ]
+    },
+    {
+      "nasa_yuwe": "we'we",
+      "frequency": 853,
+      "translations": [],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict"
+      ]
+    },
+    {
+      "nasa_yuwe": "teeçx",
+      "frequency": 834,
+      "translations": [
+        "Uno (1)"
+      ],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct",
+        "kwesxyuwe_thematic",
+        "procuraduria_institutional",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "adxa'",
+      "frequency": 824,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "kwe'sx",
+      "frequency": 811,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct",
+        "kwesxyuwe_thematic"
+      ]
+    },
+    {
+      "nasa_yuwe": "txã'wẽy",
+      "frequency": 804,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "vxite",
+      "frequency": 790,
+      "translations": [],
+      "sources": [
+        "adres_health",
+        "bible_nt",
+        "broomva_instruct",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "kĩh",
+      "frequency": 785,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "ki'",
+      "frequency": 770,
+      "translations": [],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation"
+      ]
+    },
+    {
+      "nasa_yuwe": "yuwe",
+      "frequency": 767,
+      "translations": [
+        "1. la boca; 2. el idioma; 3. el saludo; 4. asunto, noticia, razón",
+        "boca (f)",
+        "idioma (m)"
+      ],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict",
+        "procuraduria_institutional",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "jĩna",
+      "frequency": 750,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "na'wẽk",
+      "frequency": 693,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "tasxte",
+      "frequency": 682,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct",
+        "procuraduria_institutional"
+      ]
+    },
+    {
+      "nasa_yuwe": "dxusa's",
+      "frequency": 674,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "en",
+      "frequency": 667,
+      "translations": [
+        "el día, tiempo",
+        "tiempo (m)"
+      ],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "broomva_translation",
+        "living_dict",
+        "procuraduria_institutional",
+        "territorios_narrados"
+      ]
+    },
+    {
+      "nasa_yuwe": "seena'",
+      "frequency": 627,
+      "translations": [
+        "terrible, horrible"
+      ],
+      "sources": [
+        "americasnlp_2024",
+        "bible_nt",
+        "broomva_instruct",
+        "living_dict"
+      ]
+    },
+    {
+      "nasa_yuwe": "adxa's",
+      "frequency": 608,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "kristo",
+      "frequency": 605,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
+      "nasa_yuwe": "ũuste",
+      "frequency": 590,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+[submodule "authors-repo"]
+	path = authors-repo
+	url = https://github.com/juanks235/MT-Colombian-Indigenous-Languages.git

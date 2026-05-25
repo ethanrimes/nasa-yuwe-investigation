@@ -1,0 +1,47 @@
+{
+  "total_pairs": 24457,
+  "file": "nasa_yuwe_parallel_dataset.jsonl",
+  "format": "JSONL (one JSON object per line, UTF-8)",
+  "by_source": {
+    "bible_nt": 7906,
+    "broomva_instruct": 7367,
+    "americasnlp_2024": 3855,
+    "living_dict": 3508,
+    "broomva_translation": 1095,
+    "kwesxyuwe_thematic": 549,
+    "territorios_narrados": 154,
+    "adres_health": 16,
+    "procuraduria_institutional": 7
+  },
+  "by_domain": {
+    "religious": 7906,
+    "constitutional": 7367,
+    "lexical": 5152,
+    "mixed": 3855,
+    "literary": 154,
+    "government": 23
+  },
+  "schema": {
+    "nasa_yuwe": "Nasa Yuwe (Paez) text",
+    "spanish": "Spanish translation",
+    "source": "Data source identifier",
+    "domain": "Content domain (religious, lexical, constitutional, literary, government, mixed)",
+    "meta": "Optional metadata dict (varies by source)"
+  },
+  "sources_detail": {
+    "bible_nt": "New Testament parallel Bible (ebible.org pbb), verse-aligned",
+    "broomva_instruct": "Broomva instruct-tuning data, parsed from [INST] format, mainly Colombian constitution",
+    "americasnlp_2024": "AmericasNLP 2024 shared task training data, mixed domains",
+    "living_dict": "Living Dictionaries Paez project (livingdictionaries.app)",
+    "broomva_translation": "Broomva translation dataset, word/phrase level",
+    "kwesxyuwe_thematic": "17 KwesxYuwe thematic vocabulary PDFs (body parts, animals, food, etc.)",
+    "territorios_narrados": "4 bilingual children books from Territorios Narrados (MinCultura)",
+    "adres_health": "ADRES health rights pamphlet (bilingual government document)",
+    "procuraduria_institutional": "Procuraduria institutional pamphlet (bilingual government document)"
+  },
+  "notes": [
+    "Two orthographies exist: Traditional (1984, used in Bible) and New (2014, community standard). Not normalized.",
+    "Deduplicated by normalized text (lowercase + strip punctuation). ~30% overlap across dictionary sources.",
+    "Broomva instruct data parsed from <s>[INST] Traduce de Espanol a Paez: {SPA} [/INST] {NASA} </s> format."
+  ]
+}
