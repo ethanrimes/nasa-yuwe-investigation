@@ -25,6 +25,12 @@ SENTENCE_SOURCES = {
     "territorios_narrados", "adres_health", "procuraduria_institutional"
 }
 
+# Some nominally direct sources contain full sentence/article translations.
+# Keep those as token evidence only; otherwise entire constitutional articles
+# become vocabulary headwords.
+MAX_DIRECT_NASA_CHARS = 120
+MAX_DIRECT_SPANISH_CHARS = 250
+
 def normalise(word):
     """Lowercase + NFC normalise a single word."""
     return unicodedata.normalize("NFC", word.strip().lower())
@@ -33,6 +39,16 @@ def tokenise(text):
     """Split text into word tokens, stripping punctuation."""
     tokens = re.findall(r"[\w''\u2019çñüëïäöẽĩãũ]+", text.lower(), re.UNICODE)
     return [t for t in tokens if len(t) >= 2]
+
+def is_direct_vocab_entry(nasa_yuwe, spanish):
+    """Return True when a direct-source pair is word/phrase-like."""
+    if len(nasa_yuwe) > MAX_DIRECT_NASA_CHARS:
+        return False
+    if len(spanish) > MAX_DIRECT_SPANISH_CHARS:
+        return False
+    if re.match(r"(?i)^f['’]i['’]n['’]i\s+pe['’]la\s+\d+", nasa_yuwe.strip()):
+        return False
+    return True
 
 # ── Pass 1: load all pairs ────────────────────────────────────────────
 print("Loading dataset …")
@@ -64,7 +80,7 @@ for pair in pairs:
     spa = pair["spanish"].strip()
     src = pair["source"]
 
-    if src in DIRECT_SOURCES:
+    if src in DIRECT_SOURCES and is_direct_vocab_entry(ny, spa):
         # Treat whole field as one vocab entry
         key = normalise(ny)
         if not key or len(key) < 2:

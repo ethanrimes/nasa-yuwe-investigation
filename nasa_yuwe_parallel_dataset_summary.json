@@ -1,25 +1,25 @@
 {
-  "total_pairs": 24457,
+  "total_pairs": 24450,
   "file": "nasa_yuwe_parallel_dataset.jsonl",
   "format": "JSONL (one JSON object per line, UTF-8)",
   "by_source": {
     "bible_nt": 7906,
     "broomva_instruct": 7367,
-    "americasnlp_2024": 3855,
+    "americasnlp_2024": 3847,
     "living_dict": 3508,
     "broomva_translation": 1095,
     "kwesxyuwe_thematic": 549,
-    "territorios_narrados": 154,
-    "adres_health": 16,
-    "procuraduria_institutional": 7
+    "territorios_narrados": 164,
+    "procuraduria_institutional": 7,
+    "adres_health": 7
   },
   "by_domain": {
     "religious": 7906,
     "constitutional": 7367,
     "lexical": 5152,
-    "mixed": 3855,
-    "literary": 154,
-    "government": 23
+    "mixed": 3847,
+    "literary": 164,
+    "government": 14
   },
   "schema": {
     "nasa_yuwe": "Nasa Yuwe (Paez) text",
@@ -42,6 +42,7 @@
   "notes": [
     "Two orthographies exist: Traditional (1984, used in Bible) and New (2014, community standard). Not normalized.",
     "Deduplicated by normalized text (lowercase + strip punctuation). ~30% overlap across dictionary sources.",
-    "Broomva instruct data parsed from <s>[INST] Traduce de Espanol a Paez: {SPA} [/INST] {NASA} </s> format."
+    "Broomva instruct data parsed from <s>[INST] Traduce de Espanol a Paez: {SPA} [/INST] {NASA} </s> format.",
+    "Repair 2026-05: replaced contaminated territorios_narrados and adres_health PDF extraction with layout-aware sentence/paragraph pairs; current repaired counts are 164 Territorios rows and 7 ADRES rows, with AmericasNLP exact metadata/title leaks filtered."
   ]
 }

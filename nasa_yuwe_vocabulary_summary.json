@@ -1,35 +1,36 @@
 {
-  "total_vocabulary_entries": 28757,
-  "entries_with_direct_translation": 4731,
-  "entries_token_only": 24026,
+  "total_vocabulary_entries": 29958,
+  "entries_with_direct_translation": 4727,
+  "entries_token_only": 25231,
   "avg_translations_per_entry": 1.09,
   "source_coverage": {
     "bible_nt": 17149,
     "broomva_instruct": 15620,
     "living_dict": 5642,
-    "americasnlp_2024": 4804,
-    "broomva_translation": 1932,
-    "territorios_narrados": 839,
+    "americasnlp_2024": 4790,
+    "territorios_narrados": 2128,
+    "broomva_translation": 1928,
     "kwesxyuwe_thematic": 696,
     "procuraduria_institutional": 682,
-    "adres_health": 136
+    "adres_health": 213
   },
   "top_50_most_frequent": [
     {
       "nasa_yuwe": "dxus",
-      "frequency": 5102,
+      "frequency": 5103,
       "translations": [
         "Dios"
       ],
       "sources": [
         "bible_nt",
         "broomva_instruct",
-        "living_dict"
+        "living_dict",
+        "territorios_narrados"
       ]
     },
     {
       "nasa_yuwe": "txãa",
-      "frequency": 4348,
+      "frequency": 4351,
       "translations": [],
       "sources": [
         "bible_nt",
@@ -71,7 +72,7 @@
     },
     {
       "nasa_yuwe": "yakh",
-      "frequency": 2655,
+      "frequency": 2657,
       "translations": [],
       "sources": [
         "adres_health",
@@ -105,7 +106,7 @@
     },
     {
       "nasa_yuwe": "wala",
-      "frequency": 2275,
+      "frequency": 2290,
       "translations": [
         "grande, alto",
         "mucho, muy",
@@ -125,7 +126,7 @@
     },
     {
       "nasa_yuwe": "naa",
-      "frequency": 2156,
+      "frequency": 2163,
       "translations": [],
       "sources": [
         "adres_health",
@@ -140,7 +141,7 @@
     },
     {
       "nasa_yuwe": "adx",
-      "frequency": 1738,
+      "frequency": 1739,
       "translations": [],
       "sources": [
         "bible_nt",
@@ -150,7 +151,7 @@
     },
     {
       "nasa_yuwe": "jxuka",
-      "frequency": 1694,
+      "frequency": 1705,
       "translations": [],
       "sources": [
         "adres_health",
@@ -170,17 +171,8 @@
       ]
     },
     {
-      "nasa_yuwe": "jesusa'",
-      "frequency": 1302,
-      "translations": [],
-      "sources": [
-        "bible_nt",
-        "broomva_instruct"
-      ]
-    },
-    {
       "nasa_yuwe": "ew",
-      "frequency": 1300,
+      "frequency": 1325,
       "translations": [
         "bien, bueno"
       ],
@@ -196,8 +188,17 @@
       ]
     },
     {
+      "nasa_yuwe": "jesusa'",
+      "frequency": 1302,
+      "translations": [],
+      "sources": [
+        "bible_nt",
+        "broomva_instruct"
+      ]
+    },
+    {
       "nasa_yuwe": "nasa",
-      "frequency": 1286,
+      "frequency": 1299,
       "translations": [
         "1. indígena páez 2. gente, persona",
         "persona (f)",
@@ -234,7 +235,7 @@
     },
     {
       "nasa_yuwe": "txajx",
-      "frequency": 1178,
+      "frequency": 1179,
       "translations": [],
       "sources": [
         "bible_nt",
@@ -262,7 +263,7 @@
     },
     {
       "nasa_yuwe": "yuu",
-      "frequency": 1084,
+      "frequency": 1085,
       "translations": [],
       "sources": [
         "americasnlp_2024",
@@ -341,7 +342,7 @@
     },
     {
       "nasa_yuwe": "puutx",
-      "frequency": 935,
+      "frequency": 936,
       "translations": [],
       "sources": [
         "adres_health",
@@ -353,14 +354,15 @@
     },
     {
       "nasa_yuwe": "kiwete",
-      "frequency": 885,
+      "frequency": 886,
       "translations": [],
       "sources": [
         "americasnlp_2024",
         "bible_nt",
         "broomva_instruct",
         "broomva_translation",
-        "procuraduria_institutional"
+        "procuraduria_institutional",
+        "territorios_narrados"
       ]
     },
     {
@@ -397,7 +399,7 @@
     },
     {
       "nasa_yuwe": "teeçx",
-      "frequency": 834,
+      "frequency": 837,
       "translations": [
         "Uno (1)"
       ],
@@ -439,7 +441,7 @@
     },
     {
       "nasa_yuwe": "vxite",
-      "frequency": 790,
+      "frequency": 797,
       "translations": [],
       "sources": [
         "adres_health",
@@ -471,7 +473,7 @@
     },
     {
       "nasa_yuwe": "yuwe",
-      "frequency": 767,
+      "frequency": 769,
       "translations": [
         "1. la boca; 2. el idioma; 3. el saludo; 4. asunto, noticia, razón",
         "boca (f)",
@@ -574,11 +576,12 @@
     },
     {
       "nasa_yuwe": "ũuste",
-      "frequency": 590,
+      "frequency": 591,
       "translations": [],
       "sources": [
         "bible_nt",
-        "broomva_instruct"
+        "broomva_instruct",
+        "territorios_narrados"
       ]
     }
   ]
