@@ -1,0 +1,45 @@
+< Library La]
+
+MORFOSINTAXIS
+
+les y los cualificativos; los lexemas verbales pueden hacerlo siempre y cuan-
+do vayan acompañados por el morfema derivativo transcategorial (-sa), que
+los nominaliza. Ejemplos:
+
+Con lexema nominal
+nasath “soy gente / soy paez”
+(nasa-thuj
+/Igente o paez-1psASER//
+
+sxitana “como que es armadillo”
+(sxita-na)
+//armadillo-3psSUS.PE//
+
+musxkag “eres blanco”
+(musxka-gu)
+/Iblanco-2psASER//
+
+Con lexema verbonominal
+kwehne “es relámpago”
+(kwehne-a')
+
+/Irelámpago-3psASER.PE//
+
+yúsga “estás triste?”
+(yús-ga)
+/Itriste-2psINTE//
+
+Con lexema cualificativo
+talxthu “estoy flaco”
+ftalx-thu)
+//flaco-1psASER//
+
+wala “es/está grande”
+(wala-a)
+//grande-3psASER.PE//
+
+Con lexema verbal nominalizado
+mjisa “es trabajador”
+(mji-sa-a)
+/Itrabajar-NOM-3psASER.PE//
+

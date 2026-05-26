@@ -1,0 +1,53 @@
+<
+
+Library
+
+MORFOSINTAXIS
+
+La modalidad opcional
+
+En el paradigma de la modalidad opcional están los morfemas (-we-) “mo-
+dalidad volitiva” (VOL) y (-weje-) “modalidad desiderativa” (DES). Con la
+primera se expresa la intención y con la segunda el deseo de hacer algo; en
+este último caso se ve como más lejana la realización del acontecimiento.
+Ejemplos:
+
+umwéth “quiero tejer”
+fum-we-o-thuj
+/Itejer-VOL-AOR-IpsASER//
+
+ikhewejeth “quisiera tragar”
+fikhe-weje-9-thu)
+/Itragar-DES-AOR-1psASER//
+
+thegwejetx “(ellos) quisieran ver”
+(theg-wéje-o-tx)
+//ver-DES-AOR-3ppASER.PD//
+
+Existe otro morfema de modalidad, que se sitúa después del morfema
+
+de flexión modopersonal y que es opcional. Corresponde también a la mo-
+dalidad de conocimiento, pero aparece como modalidad suplementaria.
+El morfema (-kxi), que advierte de la posibilidad de que lo que se afirma no
+sea completamente cierto, es decir, deja un margen de duda, expresa una
+incertidumbre (INCER). Ejemplo:
+
+umkukxi “como que ella tejió”
+fum-o0-ku-kxi)
+/Itejer-AOR-3psASER.PD-INCER//
+
+El aspecto
+
+La zona aspectual se divide en dos paradigmas: uno de aparición obligatoria,
+en el que se expresa la perfectividad o imperfectividad del acontecimiento, y
+otro de aparición opcional, en el que se expresan las diferentes etapas en la
+realización del evento.
+
+Los morfemas del paradigma de aparición obligatoria son (-9-) (mor-
+fema cero) “aoristo” (AOR, el aspecto no marcado) y (-V-) “imperfecti-
+vo” (IMPF). Esta -V- representa una vocal que puede ser cualquiera de las
+cuatro vocales básicas de la lengua y que está determinada léxicamente, es
+decir, cada raíz verbal se acompaña de una determinada vocal, sin que sea
+
+91
+

@@ -1,0 +1,49 @@
+< Library La]
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+Como puede verse en la anterior tabla, la distinción entre las dos clases de
+predicación se hace para la tercera persona del singular en relación con las
+tres modalidades, y en la modalidad asertiva (mayor grado de conocimien-
+to) se hace también en la tercera persona del plural.
+
+Ejemplos de los morfemas predicativos con los diferentes lexemas:
+
+Con lexema verbal
+wewek “(él o ella) habla”
+(wew-e-ku)
+//hablar-IMPF-3psASER.PD//
+
+> < »
+yuhuga ¿vienes?
+
+fyuh-u-ga')
+/Ivenir-IMPFE-2psINTE//
+
+mjiitxna “como que trabajan”
+(mji-i-txna)
+/Itrabajar-IMPE-3ppSUS//
+
+¡ipha “(él o ella) tiene”
+(iph-o-a)
+//tener-AOR-3psASER.PE//
+
+Con lexema verbonominal
+kitena “es flor?”
+(kite-na)
+//or-3psINTE.PE//
+
+iteka “floreció?”
+(kite-ka)
+//florecer-3psINTE.PD//
+
+memtha'w “cantamos (pasado)”
+(mem-o-thaw)
+//cantar-AOR-1ppASER//
+
+Con lexema cualificativo
+wala “es grande”
+fwala-a)
+
+//grande-3psASER.PE//
+

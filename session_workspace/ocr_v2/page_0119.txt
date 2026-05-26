@@ -1,0 +1,56 @@
+Rocío DEL PILAR NIEVES OVIEDO
+Condicionales
+
+mji hyàçxa yuhen “si termino de trabajar, vendré"
+
+(mji hyà-çxa yuh-e-n)
+
+//trabajar/terminar-REST/venir-IMPE-1psFUT//
+
+Kse pajte puukx wewenhaw — “si llega José, hablamos con él”
+
+(kse-a paj-te puukx wew-e-nhaw)
+
+//José-TOP/llegar-INE/RECI/hablar-IMPF-1ppSUS//
+
+Entre las temporales, además de las ya presentadas, que expresan si-
+multaneidad de los acontecimientos, están las que indican que lo expresa-
+do en el predicado subordinado es anterior a lo expresado por el principal.
+Los morfemas que indican dicha anterioridad son (-mey-) (ANT.IS), cuando
+el sujeto de los dos predicados es el mismo, y (-meyna-) (ANT.DS), cuando
+los sujetos son diferentes. Ejemplos:
+
+ujmey acayakug upyu “antes de irte, ya estabas enfermo”
+
+fu'j-mey àça-yà-Ru-gu up-yu' +
+
+(/ir-ANT.IS/enfermo-INT-D2-2psASER/estar-ENF//
+
+adxa idx pajmeyna kucxna wputh “yo estaba aburrido antes de que llegaras”
+
+(adx-a' idx paj-meyna Ruçxna u'p-u-thul
+
+//yo(masc)-TOP/tú(masc)/llegar-ANT.DS/aburrido-estar-IMPF-1psASER//
+
+En las oraciones semánticamente concesivas el morfema de igual suje-
+to es f-exapa) (CONC.IS) y el de distinto sujeto es (-tepa)* (CONC.DS).
+Se recuerda aquí que las concesivas expresan lo que podría ser un obstáculo
+para que se cumpla un determinado evento pero no lo es, o lo que podría
+constituir razón suficiente para un acontecimiento pero no lo es.
+
+nasacxapa nasa yuwes wewecme
+
+ínasa-çxapa nasa yuwe-as wew-e-c-me-a')
+
+//paez-CONC-.IS/paez/idioma-OBJ/hablar-IMPE-INT-NEG-3psASER-PE//
+
+“aunque es paez, no habla la lengua paez”
+
+misxas puuckuth weepeyicmetepa
+
+ímisx-as puuc-9-ku-thu weepey-i-c-me-tepaj
+* Una hipótesis es que la forma (-pa) o (-wa) —según la región— que se les agrega a los morfemas
+
+(-çxal y (-te) corresponda al sufijo “aditivo”.
+
+140

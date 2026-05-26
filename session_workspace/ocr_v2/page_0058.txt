@@ -1,0 +1,57 @@
+MORFOLOGÍA
+circunstanciales, los cualificativos en función de modificadores del nombre
+y los conectores. Ejemplos:
+
+wnaha alku wkwe's wa kxku “ayer me mordió el perro”
+
+(unah-a alku u'kwe-as wa Rx-o-Rut
+
+(/ayer- TOP/perro/-yo(fem)-OBJ/morder- AOR-3psASER.PD//
+
+Kse yatte úsa “José está en la casa”
+
+(Rse-a' yat-te Us-9-a')
+
+//José-TOP/casa-INE/estar-AOR-3psASER.PE//
+
+ayte aça ptasxkitha'w “aquí entonces avisamos”
+
+(ay-te aç-a ptasx-ki-thawj
+
+//cerca-INE/entonces- TOP/avisar- D1-1ppASER//
+
+Las palabras del nasa yuvve también se pueden clasificar en léxicas y gra-
+maticales, según los mismos criterios que se aplicaron a la clasificación de
+los morfemas. Las palabras léxicas son las que tienen como núcleo o raíz
+un morfema léxico y las palabras gramaticales son las que tienen como
+núcleo un morfema gramatical o simplemente estàn formadas por un gra-
+mema libre.
+
+Son palabras léxicas:
+
+e El verbo. Se forma con un lexema verbal o un lexema verbonominal
+
+como núcleo. Siempre es palabra flexionada y predicativa.
+
+e El nombre. Se forma con un lexema nominal o un lexema verbonomi-
+nal como núcleo. Puede ser flexionada o no; puede ser predicativa o no.
+
+e La palabra cualificativa. Se forma con un lexema cualificativo y actúa
+como modificador semántico de palabras nominales o verbales.
+
+Son palabras gramaticales:
+
+e Los deícticos. Personales: pronombres personales. Espaciales: demos-
+trativos y deícticos espaciales (de localización). Temporales: pueden ser
+flexionadas o no flexionadas; pueden ser predicativas o no predicativas.
+
+e Los interrogativos. Son predicativos, se combinan con los morfemas
+del modo interrogativo.
+
+e Los cuantificadores: indefinidos y numerales. Pueden ser flexionadas
+o no; pueden ser predicativas o no.
+
+e Los conectores. No son flexionadas; no son predicativas.
+
+OA
+79

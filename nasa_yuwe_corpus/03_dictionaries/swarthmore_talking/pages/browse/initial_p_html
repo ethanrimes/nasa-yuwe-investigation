@@ -1,0 +1,1269 @@
+<!DOCTYPE HTML>
+<html lang="es">
+
+<head>
+	<title>Diccionario hablado de nasa yuwe</title>
+	<meta name="description" content="A searchable Nasa yuwe-English lexicon." />
+    <meta name="keywords" content="Nasa yuwe, Páez, paez, dictionary, lexicon, english" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/dictionaries/default/styles/webfonts.css?v=2.3.1" rel="stylesheet" type="text/css" />
+    	<link href="/dictionaries/default/styles/style.css?v=2.4.0" rel="stylesheet" type="text/css"
+media="only screen and (min-width : 481px), projection" />
+	<link href="/dictionaries/default/styles/handheld.css?v=2.4.0" rel="stylesheet"
+type="text/css" media="handheld, only screen and (max-device-width:
+480px),only screen and (min-device-width: 768px) and
+(max-device-width: 1024px), only screen and (min-device-width: 600px)
+and (max-device-width: 1024px),only screen and (min-width : 320px) and
+(max-width : 480px)" />
+
+	<meta name="twitter:widgets:csp" content="on">
+
+	<link rel="SHORTCUT ICON" href="" />
+	<script src="/dictionaries/default/scripts/jquery-3.6.0.min.js" type="text/javascript"></script>
+	<script src="/dictionaries/default/scripts/funcs.js?v=3.0.2" type="text/javascript"></script>
+	<script type="text/javascript">
+	var dictSettings = {
+	'GAacct': 'UA-29195701-1',
+	'GA4MeasurementID': 'G-91TVK07EE3',
+	};
+	</script>
+</head>
+<body>
+
+	<div id="header">
+	<a href="./?lang=en" class="trans-link">english</a>
+	<div id="titleText">
+    	<img id="logo"  class="flagThumb" src="/dictionaries/paez/images/paez.png" alt="diccionario hablado de nasa yuwe" />
+		<div style="clear:right;">
+			<h1>Nasa yuwe</h1>
+			<!-- <h1>Nasa yuwe <img class="trans-arrow" src="/dictionaries/paez/images/translate-logo.png" alt=" - " /> inglés</h1>-->
+		</div>
+		<h2>diccionario hablado</h2>
+	    <h3>lanzado en 1.0, 9.2012</h3>
+	</div>
+	<div style="clear:both"></div>
+</div>
+		<div id="content" onload="document.search.q.focus();">
+
+			<div id="searchContainer" class="searchbox">
+	<div><form name="search" id="search" method="GET" class="chunky" action="/paez/" accept-charset="utf-8">
+		 <p id="dropdown">
+		 	<label for="fields">Busca:</label>
+    		<select name="fields" id="fields" tabindex="1">
+<option value="all">el diccionario entero</option>
+<option value="lang" selected="selected">palabras en nasa yuwe</option>
+<option value="es_gloss">palabras en español</option>
+<option value="ipa">guía de pronunciación de nasa yuwe</option>
+			</select>
+		</p>
+		<p id="semantic_domains">
+			<label for="semantic_ids">Dominios semánticos:</label>
+			<select name="semantic_ids" id="semantic_ids" tabindex="2">
+    			<option value="">[todo]</option>
+<option value="animal">animal</option>
+<option value="birds">aves</option>
+<option value="human">human</option>
+<option value="insects">insectos</option>
+<option value="mammals">mamíferos</option>
+<option value="plants">plantas</option>
+			</select>
+		</p>
+
+		<div id="q">
+			<label for="searchtext">Busca:</label>
+			<input type="text" name="q" id="searchtext"  value=""  tabindex="3" />
+		</div>
+
+		<div class="toggle_div">
+			<a href="#" id="palette_toggle" title="cambiar de teclado"><span style="display:none">mostrar el teclado &#x25B8;</span><span>ocultar el teclado &#x25BE;</span></a>
+		</div>
+		<div id="character_palette" ><ul title="Haga clic en la letra para utilizarla en la búsqueda."><li>Todas las letras:</li><li><span>'</span></li><li><span>a</span></li><li><span>á</span></li><li><span>ã</span></li><li><span>b</span></li><li><span>c</span></li><li><span>d</span></li><li><span>e</span></li><li><span>ẽ</span></li><li><span>f</span></li><li><span>g</span></li><li><span>h</span></li><li><span>i</span></li><li><span>ĩ</span></li><li><span>í</span></li><li><span>j</span></li><li><span>l</span></li><li><span>m</span></li><li><span>n</span></li><li><span>ñ</span></li><li><span>o</span></li><li><span>ó</span></li><li><span>p</span></li><li><span>q</span></li><li><span>s</span></li><li><span>t</span></li><li><span>u</span></li><li><span>ú</span></li><li><span>ũ</span></li><li><span>v</span></li><li><span>w</span></li><li><span>y</span></li><li><span>z</span></li></ul></div>		<p id="submit">
+    		<input type="submit" value="Busca" tabindex="4" />
+    </p>
+		<div class="specialsearchcontainer">
+  		  	  			<a class="specialsearch imagegallery" href="./?gallery&amp;images&page=1" title="Mostrar entradas con imagenes" tabindex="6">galería de imágenes</a>
+  		  		<a class="specialsearch random" href="./?random" title="display a random entry" tabindex="7">¡Sorprendeme!</a>
+  		<a class="specialsearch reduplication" href="./?fields=all&amp;q=*&amp;reduplicated=2" title="show reduplicated words" tabindex="8">reduplicación</a>
+  	</div>
+ 	</form>
+  
+	
+		<div id="paged_browsing" >
+							<span>buscar el diccionario</span>&emsp;
+						<ul class="pages"  title="browse dictionary by Nasa yuwe words">
+
+				
+					<li>
+												<a href="?initial=b&amp;page=1" class="page">b</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=e&amp;page=1" class="page">e</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=f&amp;page=1" class="page">f</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=j&amp;page=1" class="page">j</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=k&amp;page=1" class="page">k</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=l&amp;page=1" class="page">l</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=m&amp;page=1" class="page">m</a>
+					</li>
+
+				
+					<li>
+													<span class="page_turn">
+								<a href="?initial=%C3%B1&amp;page=1" id="prev_page">&#x25C0;</a>
+							</span>
+												<a href="?initial=%C3%B1&amp;page=1" class="prev_page">ñ</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=p&amp;page=1" class="this_page">p</a>
+					</li>
+
+				
+					<li>
+													<span class="page_turn">
+								<a href="?initial=q&amp;page=1" id="next_page">&#x25B6</a>
+							</span>
+												<a href="?initial=q&amp;page=1" class="next_page">q</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=s&amp;page=1" class="page">s</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=t&amp;page=1" class="page">t</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=v&amp;page=1" class="page">v</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=w&amp;page=1" class="page">w</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=y&amp;page=1" class="page">y</a>
+					</li>
+
+				
+			</ul>
+
+			
+				<br />
+				<ul class="page_numbers">
+
+					
+						<li>
+							<a href="?initial=p&amp;page=1" class="this_page">1</a>
+						</li>
+
+					
+						<li>
+							<a href="?initial=p&amp;page=2" class="next_page">2</a>
+						</li>
+
+					
+						<li>
+							<a href="?initial=p&amp;page=3" class="page">3</a>
+						</li>
+
+					
+						<li>
+							<a href="?initial=p&amp;page=4" class="page">4</a>
+						</li>
+
+					
+						<li>
+							<a href="?initial=p&amp;page=5" class="page">5</a>
+						</li>
+
+					
+						<li>
+							<a href="?initial=p&amp;page=6" class="prev_page">6</a>
+						</li>
+
+					
+				</ul>
+
+			
+		</div>
+
+	
+
+
+ 	</div>
+
+</div>
+<div id="results">
+
+<p id="paged_alert" class="resultsReturned">This page ha encontrado <strong>100</strong> entradas</p>
+<div class="entry " id="entry2213">
+	<h3  >
+pã&#8217;	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">particle</span> 
+<span class="gloss">dizque</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2213" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2154">
+	<h3  >
+pa&#8217;ch-, pa&#8217;chi- (pã&#8217;ch-)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb reflexive</span> 
+<span class="gloss">cobijarse, taparse</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2154" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2155">
+	<h3  >
+pa&#8217;chnisa	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el pañolón (que usan las mujeres)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2155" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2214">
+	<h3  >
+pã&#8217;cj	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la semilla que vuelve a dar después de acosechado, sarapanga</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2214" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2151">
+	<h3  >
+pa&#8217;cj-, pa&#8217;cje- (pã&#8217;cj- T) 	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2151"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_26Jul2013_864remendar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">remendar </span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2151" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2152">
+	<h3  >
+pa&#8217;csha&#8217;w-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">soñar</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2152" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2153">
+	<h3  >
+pa&#8217;cy-, pa&#8217;qui-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2153"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_356sacarliquido.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">sacar líquido, servir comida</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2153" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2157">
+	<h3  >
+pa&#8217;ga	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">precio, costo</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2157" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2158">
+	<h3  >
+pa&#8217;ga	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adjetivo</span> 
+<span class="gloss">caro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2158" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2161">
+	<h3  >
+pa&#8217;ga yuu-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">ponerse caro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2161" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2162">
+	<h3  >
+pa&#8217;ga yuu-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">sufrir</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2162" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2156">
+	<h3  >
+pa&#8217;ga, pa&#8217;gate	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">particle</span> 
+<span class="gloss">por </span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2156" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2159">
+	<h3  >
+pa&#8217;gamée	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adjetivo</span> 
+<span class="gloss">barato</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2159" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2160">
+	<h3  >
+pa&#8217;gasa	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">noun, adjective</span> 
+<span class="gloss">costoso</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2160" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2165">
+	<h3  >
+pa&#8217;j	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">locative adverb</span> 
+<span class="gloss">hasta</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2165" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2166">
+	<h3  >
+pa&#8217;j yat	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la posada</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2166" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2163">
+	<h3  >
+pa&#8217;j-, pa&#8217;ja-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">llegar</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2163" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2164">
+	<h3  >
+pa&#8217;j-, pa&#8217;ja-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb auxilary</span> 
+<span class="gloss">llegar a ser</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2164" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2167">
+	<h3  >
+pa&#8217;jni	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">llegada (pasada)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2167" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2168">
+	<h3  >
+pa&#8217;jsa	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">persona que llega</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2168" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2169">
+	<h3  >
+pa&#8217;jwa&#8217;j	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">llegada (futura)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2169" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2170">
+	<h3  >
+pa&#8217;jy we&#8217;we-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">insinuar, hablar indirectamente de otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2170" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry24">
+	<h3  >
+pã&#8217;pã	</h3>
+<img class="imgExample entry_img" src="/media/paez/pix/pulga_gatos-scaled.jpg" alt="pã&#8217;pã" loading="lazy"/>	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">pulga</span></p>
+<p><span class="notes caption">Ejemplo: Una pulga de los gatos. Photo by Evanherk via Wikimedia. CC BY-SA 3.0  <span class="via">vía <a href="http://commons.wikimedia.org/wiki/File:Catflea_small.jpg" target="_blank">Wikimedia Commons</a></span></span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=24" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2215">
+	<h3  >
+pã&#8217;pã	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la pulga (insecto)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2215" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2171">
+	<h3  >
+pa&#8217;pchu-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">procurar, esforzarse, afanarse</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2171" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2172">
+	<h3  >
+pa&#8217;qui&#8217;cy-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2172"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_357servircomida.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">sacar agua, servir comida (repetidas veces)</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2172" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2173">
+	<h3  >
+pa&#8217;ya-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2173"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_702llamar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">llamar</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2173" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2174">
+	<h3  >
+paana-, paanáa-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2174"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_521negar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">negar, ocultar</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2174" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2175">
+	<h3  >
+paand-, paandúu-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2175"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_522poneratravesado.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">poner atravesado</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2175" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2178">
+	<h3  >
+paandee yat	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">posada</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2178" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2179">
+	<h3  >
+paandeesa 	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">huésped</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2179" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2176">
+	<h3  >
+paandej-, paandeje-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2176"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_523hospedar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">hospedar</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2176" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2177">
+	<h3  >
+paandewe-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">pagar por otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2177" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2180">
+	<h3  >
+paandlé	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">panderé (árbol)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2180" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2181">
+	<h3  >
+paanducj-, paanducje-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2181"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_649entregarvoluntariamente.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">entregar voluntariamente</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2181" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2195">
+	<h3  >
+paanu-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2195"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_529desconocer.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">desconocer</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2195" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2183">
+	<h3  >
+paañusu-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">compartir la tristeza de otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2183" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2182">
+	<h3  >
+paanwe&#8217;we-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">intervenir</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2182" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2184">
+	<h3  >
+paapechcanu-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">ser olvidadizo</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2184" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2185">
+	<h3  >
+paapeeygãj-, paapeeygãja- 	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">compartir el sufrimiento de otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2185" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2186">
+	<h3  >
+paapẽjy-, paapẽyĩ- 	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2186"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_524preguntar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">preguntar, consultar a otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2186" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2187">
+	<h3  >
+paashijca-, paashica-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2187"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_525reirseconlosquerein.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">reirse con los que se ríen</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2187" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2188">
+	<h3  >
+paatenz-, paatenzúu (ptenz-) 	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">llevar debajo del brazo, apretar</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2188" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2189">
+	<h3  >
+paatj-, paatje-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2189"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_26Jul2013_845poner.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">poner (ej. freno)</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2189" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2190">
+	<h3  >
+paatje-, paatjée-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2190"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_526aparar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">aparar</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2190" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2191">
+	<h3  >
+paatjeng-, paatjengu-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2191"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_527cuidarde.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">cuidar de, vigilar (en ausencia del dueño)</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2191" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2193">
+	<h3  >
+paatste 	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adverbio</span> 
+<span class="gloss">secretamente, en secreto</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2193" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2194">
+	<h3  >
+paatsu-, paatsúu-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2194"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_528ocultarse.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">desaparecer, ocultarse</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2194" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2192">
+	<h3  >
+paatundy-, paatundyi-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2192"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_358tomarbebidaregalada.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">tomar bebida regalada</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2192" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2216">
+	<h3  >
+pãatyjĩ&#8217;cj-, pãatyjĩ&#8217;cje-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">acusar, presentar queja contra otra persona</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2216" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2200">
+	<h3  >
+paaũ&#8217;cj-, paaũ&#8217;cju-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2200"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_435participarenlamoliendacut.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">participar en la molienda</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2200" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2197">
+	<h3  >
+paau&#8217;j-, paau&#8217;jue-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">ir, aprovechando la oportunidad de acompañar a otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2197" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2198">
+	<h3  >
+paau&#8217;jsa	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2198"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_733personaqueacompanavoluntariamente.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">persona que acompaña voluntariamente (al ir)</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2198" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2201">
+	<h3  >
+paaũ&#8217;ne-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2201"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_530compartirelllanodeotro.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">compartir el llanto de otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2201" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2202">
+	<h3  >
+paaũ&#8217;we-, (pũ&#8217;we-)	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2202"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_635compartirlacomidadeotro.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">compartir la comida de otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2202" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2204">
+	<h3  >
+paaũcjweete	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">timidez</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2204" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2196">
+	<h3  >
+paautyáa-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">acercarse voluntariamente</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2196" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2199">
+	<h3  >
+paauu-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">morir en lugar de otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2199" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2203">
+	<h3  >
+paaũucjsa	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">noun, adjective</span> 
+<span class="gloss">tímido, temeroso, miedoso</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2203" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2205">
+	<h3  >
+paawe&#8217;we-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2205"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_531encargar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">encargar</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2205" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2206">
+	<h3  >
+paawe&#8217;weni	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2206"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_532encargo.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">encargo</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2206" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2207">
+	<h3  >
+paawe&#8217;wesa	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2207"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_533personaqueencargaalgo.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">persona que encarga algo</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2207" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2208">
+	<h3  >
+paaya&#8217;ducj-, paaya&#8217;ducje-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2208"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_534entregarsevoluntariamente.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">entregarse voluntariamente</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2208" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2211">
+	<h3  >
+paayũs-, paayũsu-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2211"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_535compartirtristezadeotro.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">compartir tristeza de otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2211" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2209">
+	<h3  >
+paayuu-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">venir acompañado a otro voluntariamente</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2209" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2210">
+	<h3  >
+paayuusa	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2210"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_734veniracompanadoaotrocut.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">persona que acompaña voluntariamente (al venir)</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2210" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2111">
+	<h3  >
+pach-, pachíi-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">rasguñar, arañar, coger con las uñas</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2111" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2112">
+	<h3  >
+pachi&#8217;ch-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">rasguñar (repetidas veces)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2112" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2113">
+	<h3  >
+pachpach	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adverbio</span> 
+<span class="gloss">con las uñas, garras </span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2113" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2108">
+	<h3  >
+pacjẽ	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">trama, hilo horizontal del telar</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2108" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2109">
+	<h3  >
+pacue-, pacuée-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">buscar</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2109" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2110">
+	<h3  >
+pacuesá	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">que busca</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2110" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2114">
+	<h3  >
+pagay-, pagayúu- (paacay- T)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">mirar para arriba</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2114" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2115">
+	<h3  >
+pagayu&#8217;yu-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">mirar arriba (repetidas veces)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2115" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2116">
+	<h3  >
+pajnde-, pande-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">1. zafar, quitar  2. desenfrenar</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2116" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2117">
+	<h3  >
+pajnz	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adjetivo</span> 
+<span class="gloss">cuatro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2117" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2118">
+	<h3  >
+pajnztewe&#8217;sh	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">noun, adjective</span> 
+<span class="gloss">cuarto</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2118" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2119">
+	<h3  >
+pajy-, pajíi-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">ahuyentar pájaros</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2119" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2120">
+	<h3  >
+pal	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2120"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_679cura.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el cura, sacerdote</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2120" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2121">
+	<h3  >
+paletun (pleetun T)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">barretón</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2121" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2122">
+	<h3  >
+palsin	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adjetivo</span> 
+<span class="gloss">barsino</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2122" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2123">
+	<h3  >
+pand	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la viga transversal</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2123" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2124">
+	<h3  >
+pand-, pandu-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2124"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_26Jul2013_842barrer.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">barrer</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2124" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2125">
+	<h3  >
+pandende-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">quitar varias cosas</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2125" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2126">
+	<h3  >
+pandsa	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">que barre</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2126" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2127">
+	<h3  >
+pang-, pangúu-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">descoyuntar, dislocar</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2127" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2128">
+	<h3  >
+pangu	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">banca (para sentarse)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2128" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2129">
+	<h3  >
+panu&#8217;j-, panu&#8217;ju-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2129"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_404hacerpan.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">hacer pan</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2129" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2130">
+	<h3  >
+papa lul	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el abuelo, bisabuelo</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2130" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2131">
+	<h3  >
+papa wala	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el abuelo, bisabuelo</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2131" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2212">
+	<h3  >
+pãpa-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">dar paliza</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2212" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2132">
+	<h3  >
+pas-, pasu-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2132"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_516contestar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">1. contestar  2. comprometerse</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2132" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2133">
+	<h3  >
+pasiáa-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">pasear</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2133" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2134">
+	<h3  >
+pasni	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2134"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_517contestacion.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">contestación</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2134" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2135">
+	<h3  >
+passa	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2135"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_518quecontesta.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">que contesta</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2135" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2136">
+	<h3  >
+pastu	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el pasto</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2136" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2137">
+	<h3  >
+pasu&#8217;s-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">contestar (repetidas veces)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2137" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2138">
+	<h3  >
+pate-, patée-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2138"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_739zafarse.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">zafarse</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2138" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2139">
+	<h3  >
+patj	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el cañuto</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2139" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2462">
+	<h3  >
+patmu en	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2462"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_196boda.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la boda, día del casamiento</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2462" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+</div>
+<div id="footer">
+    <p>
+    	<a href="about">Sobre el diccionario</a> &emsp;
+				    </p>    
+    
+
+	<p id="total_entries" class="not_small">
+		Actualmente hay <strong>3934</strong> entradas, <strong>1002</strong> archivos de audio, y <strong>88</strong> imágenes.
+    </p>
+    
+    <p id="copyright">
+	    Todo el contenido es el derecho &copy; de la communidad nasa yuwe. (2012).<br/>
+	    El diccionario hablado fue producido por Jairo Arias, Loly Colderón, Yesena Rincón Jiménez, Ananía Piñacue, Prof. Pedro Marín Silva, K. David Harrison y Jeremy Fahringer (2012).<br />
+    	Todos los derechos reservados. Se prohibe distribuir o reproducir sin permiso.<br />
+	    <span class="reference"><strong>cómo citar:</strong>
+	    2012. 
+ <i>Nasa yuwe Talking Dictionary.</i>
+ <span class="hyphenate">http://www.talkingdictionary.org/paez</span>
+		</span>
+    </p>
+   
+    <p id="credits">
+    Interfaz y diseño de base de datos bajo la dirección de <a href="http://jeremyfahringer.com" target="_blank">Jeremy Fahringer</a> y <a href="https://www.swarthmore.edu/its" target="_blank">Swarthmore College ITS</a>.
+    </p>  
+    <p id="supported_by">
+    	<strong>Apoyado por</strong><br />
+    	<a href="http://www.caroycuervo.gov.co" target="_blank"><img src="/dictionaries/default/images/caro_y_cuervo.png" alt="Caro y Cuervo logo"  /></a>
+    	<a href="http://www.livingtongues.org" target="_blank"><img src="/dictionaries/default/images/livingtongueslogo-2012.gif" alt="Living Tongues Institute logo"  /></a>
+    	<br />
+    	<a href="https://www.nationalgeographic.org/archive/projects/enduring-voices/expeditions/" target="_blank"><img src="/dictionaries/default/images/nglogo-2012.gif" alt="National Geographic Society logo" /></a>
+    	<a href="http://www.swarthmore.edu"><img src="/dictionaries/default/images/swarthmorelogo-2012.gif" alt="Swarthmore College logo" /></a>
+	</p>
+    
+</div>
+		</div>
+
+	
+</body>
+</html>
+

@@ -1,0 +1,58 @@
+MORFOSINTAXIS
+con los morfemas de aspecto. Está formada mínimamente por LEXEMA
++ ASPECTO + MORFEMA MODOPERSONAL. Puede contener igualmente
+morfemas pertenecientes a otras categorías gramaticales: otras expresiones
+de modalidad, distancia nocional o temporal y la negación. Semánticamente
+se refiere a eventos.
+
+La palabra predicativa verbal puede tener como raíz un lexema verbal,
+un lexema verbonominal, un lexema cualificativo o un lexema nominal di-
+namizado mediante la derivación con el morfema derivativo transpositor
+(-yuuj). En todos los casos se entenderá que se refiere siempre a eventos
+(acciones o procesos); por lo tanto, cuando se forma con lexemas verbo-
+nominales o cualificativos, se trata de la faz dinámica de dichos lexemas.
+Ejemplos:
+
+Con lexema verbal
+
+umuth “(yo) tejo”
+
+(um-u-thut
+
+(/tejer-IMPF-1psASER//
+
+umthu “teji”
+
+fum-o-thuj
+
+//tejer-AOR-1psASER//
+
+Con lexema verbonominal
+
+kitek “floreció”
+
+(kite-o-ku)
+
+//florecer- AOR-3psASER.PD//
+
+yatku “hizo casa”
+
+(yat-o-Rul
+
+//casa- AOR-3psASER.PD//
+
+Con lexema cualificativo
+
+walag “creciste”
+
+(vala-g-gul
+
+//crecer- AOR-2psASER//
+
+le'lek “se pudrió”
+
+(le le-g-Rut
+
+(/podrir-AOR-3psASER.PD//
+
+89

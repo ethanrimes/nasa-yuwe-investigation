@@ -1,0 +1,51 @@
+< Library La]
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+ayteyu txaju' wakaswesxa nawé upta “entonces los blancos están así”
+(ay-te-yu” txaju” wakas-we'sx-a na'we up-ta)
+/Icerca-INE-ENF/entonces/blanco-COL-TOP/así/estar-3ppASER.PE//
+
+Siskayu dehmeneka petepce mutxi ahna
+(Siska-yu” deh-me-ne-ka pete-pce mutxi ah-na)
+/[Siska-ENF/dormir-NEG-D3-3psSUS.PD/amanecer-CONE/mote/
+
+cocinar-DUR//
+“La siska solía no dormir y amanecía cocinando mote”
+
+Los subordinadores son morfemas que se sufijan a las raíces en las formas
+verbales no finitas" que corresponden a predicados subordinados, indican
+que dicho predicado está subordinado a otro al tiempo que agregan la infor-
+mación semántica correspondiente a la relación existente entre el predicado
+subordinado y el principal (esto se presentará en el capítulo de Sintaxis). Son
+ellos, además del inesivo [-te) y el restrictivo (-exa), que también funcionan
+en la subordinación de predicados, los siguientes:
+
+(-pa”ka) subordinador causal (CAUS)
+f-paga) subordinador hipotético (HIP)
+
+f-wa) — subordinador de finalidad general (FIN.G)
+
+f-kan) subordinador de finalidad específica (FIN.E)
+
+(-mey) subordinador temporal de anterioridad, igual sujeto (ANT.IS)
+(-meyna) subordinador temporal de anterioridad, diferente sujeto (ANT.DS)
+1-exapa) subordinador concesivo igual sujeto (CONC.IS)
+
+f-tepa) subordinador concesivo distinto sujeto (CONC.DS)
+
+Ejemplos:
+nasacxapa “aunque es paez”
+(nasa-cxapa)
+/paez-REST-CONC.IS/
+
+zxicxkwepa'ka “porque es bonita”
+fzxiexkwe-pa'ka)
+/bonita-CAUS/
+
+% Comida muy común entre los nasa, a base de maíz pelado.
+
+*! Se trata de palabras verbales que no tienen el morfema flexivo modopersonal.
+
+74
+

@@ -1,0 +1,57 @@
+Rocío DEL PILAR NIEVES OVIEDO
+
+Se usa también el mecanismo de la yuxtaposición para «adicionar» ora-
+ciones que se refieren a eventos sucesivos o concatenados. Ejemplos:
+
+yuhyaja ujweçyaja “vino y ya se va”
+
+(yuh-o-yaj-a' uji-(w)e-çya-(j)a')
+
+//venir-AOR-EXT-3psASER.PE/ir-IMP-INC-3psASER.PE//
+
+Khwena kutxhas uja'k Tmigu pkhakhek
+
+(khwen-a' kutxh-a's uj-a-k tmigu pkhakh-e-kuj
+
+//Juan-TOP/maiz-OBJ/sembrar-IMP-3psASER.PD/Domingo/cosechar-
+
+IMP-3psASER.PD//
+
+Juan siembra el maíz y Domingo lo cosecha"
+
+acyu mji-ya tudumeça mawthejwa Rabane 7
+
+(ac-yu” mji-ya tudu-me-ç-a' mawthejwa Raba-ne-a't
+
+//entonces-ENF/trabajar-INCI/elaborar-NEG-INT-3psASER.PE/de
+
+cualquier
+
+manera/terminar-D3-3psASER.PE//
+
+“Entonces no pudo elaborar y terminó de cualquier manera”
+
+La coordinación se entiende como la unión de elementos sintácticamente
+equivalentes. Para el caso de las oraciones, se da cuando se unen oraciones
+simples cuyo nexo explícito está expresado por un elemento que funciona
+como conector de dichas oraciones en igualdad de condiciones, es decir, al
+mismo nivel sintáctico. Se puede hablar de coordinación de oraciones en
+nasa yuwe, teniendo en cuenta que cada una de las oraciones simples tiene
+un verbo flexionado —forma finita— que funciona como núcleo predicativo,
+lo que indica que no hay una diferencia jerárquica entre ellas. Esto es lo que
+caracteriza formalmente las oraciones coordinadas en esta lengua. Semánti-
+camente, hay oraciones coordinadas adversativas, disyuntivas y consecutivas.
+
+Las adversativas están unidas por el conector “napa”, que contrapone una
+idea a otra expresada primero. Ejemplos:
+
+vxu himeth napa ya jas wayu'n
+
+(vxu hi -me-thu napa yaja-as way-u'-nj
+
+//dinero/tener-NEG-1psASER/pero/mochila-OBJ/comprar-IMP-1psFUT//
+
+“no tengo plata, pero compraré la mochila”
+
+7 Tomado del Cuento del armadillo, recogido en Caldono.
+136

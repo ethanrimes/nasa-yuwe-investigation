@@ -1,0 +1,51 @@
+<
+
+Library
+
+MORFOSINTAXIS
+
+Con raíces cualificativas
+ew-u-ku “se pone bueno”
+(ew-u-kuj
+//bueno-IMPF-3psASER.PD//
+
+wetku “se volvió sabroso”
+(wét-o-ku)
+//sabroso-AOR-3psASER.PD//
+
+El paradigma que contiene los morfemas aspectuales que expresan las
+distintas fases del desarrollo de un acontecimiento se estructura en la opo-
+
+sición entre el adentro y el afuera del evento”. Para el interior (INT), está el
+morfema (-6-) y para el exterior (EXT), el morfema (-yá-). Además de es-
+tos morfemas, están el prospectivo (PROS, proyección del acontecimiento)
+1-yawa-), que se forma a partir de (-ya-), y el inminente (INM)
+(-yáwayá-)“, que se forma repitiendo la primera sílaba del morfema pros-
+pectivo. El incoativo (INCO), que señala el momento del inicio del evento, se
+forma juntando el interior y el exterior: [-gyá-). Y el terminativo, la finalización
+del acontecimiento, se expresa con el morfema de aspecto exterior (-yá-). Los
+aspectos relacionados con el aspecto exterior se combinan con el aoristo y siem-
+pre que vaya el aspecto interior aparece el imperfectivo. Las distintas fases del
+evento y su marcación aspectual se pueden representar de la siguiente manera:
+
+-yáwa- -yáwayá- -Gyá-
+
+Figura 3. Estructura del paradigma de aspecto no obligatorio
+
+Ejemplos:
+
+Con raíces verbales
+umyáwa “(ella) va a tejer”
+fum-o-yáwa-a')
+/Itejer-AOR-PROS-3psASER.PE//
+
+El sistema en la forma como aquí se presenta corresponde a datos de la región de Caldono; en otras
+
+regiones es ligeramente diferente. Puede consultarse Rojas (1998), que lo describe para la región de
+Munchique, o Yule (1991b), que lo describe para la región de Toribío.
+
+“1 En la región de Munchique aparece un solo morfema, (-ya'p), que Rojas llama “inminente”; Yule
+reporta para Toribío el morfema (-iap), que denomina “incoativo”.
+
+93
+

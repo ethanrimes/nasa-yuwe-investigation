@@ -1,0 +1,55 @@
+EXPRESIÓN DE LA DEÍXIS
+
+Cuando se trata de un verbo estativo, estos valores temporales se invier-
+ten y se observa que al combinarse con el aspecto aoristo aparece el morfe-
+ma modopersonal de la predicación estativa. Ejemplo:
+
+ji pha “(él o ella) tiene”
+
+Giph-o-a')
+
+(/tener-AOR-3psASER.PE//
+
+ji phux “(él o ella) tuvo”
+
+Giph-u-Rut
+
+(/tener-IMPF-3psASER.PD//
+
+La combinación con el aspecto obligatorio y el modo suspensivo arroja
+los siguientes valores temporales:
+
+Verbo dinámico + IMPF + SUS presente o futuro (no pasado)
+
+Verbo dinámico + AOR + SUS pasado reciente
+
+Verbo estativo + IMPF + SUS futuro
+
+Verbo estativo + AOR + SUS pasado
+
+La combinación de lexemas verbales dinámicos con imperfectivo y mor-
+femas del modo suspensivo tiene valor temporal de presente o futuro, es
+decir, no-pasado. Ejemplo:
+
+ew umuga “usted teje muy bien”
+
+fevv um-u-gal
+
+//bueno!tejer-IMPF-2psSUS.PD//
+
+memunha “cantare”
+
+(mem-u-nhat
+
+//cantar-IMPF-1psSUS//
+
+Si se combina un lexema verbal dinámico con el aoristo y el modo sus-
+pensivo, se obtiene un valor temporal de pasado reciente.
+
+umga “has tejido”
+
+(um-g-ga)
+
+/Itejer-AOR-2psSUS//
+
+157

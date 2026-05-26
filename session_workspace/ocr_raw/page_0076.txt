@@ -1,0 +1,45 @@
+< Library La]
+
+MORFOSINTAXIS
+
+f-ki-) distancia cercana (D1)
+(ku- distancia media (D2)
+(-ne-) distancia lejana (D3)
+
+Ejemplos:
+
+Con raíces verbales
+umkith “tejí (hace poco)”
+fum-o-ki-thu)
+/Itejer-AOR-D1-1psASER//
+
+umkuth “tejí (hace varios días)”
+fum-o-ku-thuj
+/Itejer-AOR-D2-1psASER//
+
+ummekith “no he tejido (pero lo voy a hacer)”
+fum-0-me-ki-thu)
+/Itejer-AOR-NEG-D1-1psASER//
+
+ummekuth “no tejí (y no lo voy a hacer)”
+fum-0-me-ku-thuj
+/Itejer-AOR-NEG-D2-1psASER//
+
+Con raíces verbonominales
+sek-Kki-th “yo fui sol (en un juego)”
+(sek-ki-thu)
+//sol-D1-1psASER//
+
+putawenetka “debí haber olido”
+(puta-we-ne-tka)
+//oler-VOL-D3-1psSUS//
+
+Con raíces cualificativas
+acanekwe “debías de estar enferma”*
+(aca-ne-kwe)
+//enfermo-D3-2ppSUS//
+
+% El morfema modopersonal de 2.: persona plural se usa también para dirigirse a mujeres con las
+
+que se tiene una relación de familiaridad.
+

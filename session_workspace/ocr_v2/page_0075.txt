@@ -1,0 +1,57 @@
+MORFOSINTAXIS
+yahtath “sacudí (una sola vez)”
+
+(yahta-0-thuj
+
+//sacudir-AOR-1psASER//
+
+yahtatath “sacudí (varias veces)
+
+(yahta-ta-o0-thu)
+
+//sacudir-ITE-AOR-1psASER//
+
+sxúk “chupó (una sola vez)"
+
+(sxú-o-Rut
+
+//chupar-AOR-3psASER.PD//
+
+sxúsxU-9-k “chupó (varias veces)”
+
+(sxú-sxú-g-Rul
+
+//chupar-ITE- AOR-3psASER.PD//
+
+Además de los morfemas gramaticales de aspecto en la palabra predicati-
+va, existen los morfemas aspectuales (-naj y (-nxi), que expresan las nocio-
+nes de “durativo” (DUR) y “resultativo” (RES), respectivamente. Ejemplos:
+
+umna “tejiendo”
+
+fum-naj
+
+/Itejer-DUR//
+
+umnxi “tejido”
+
+fum-nxi)
+
+/Itejer-RES//
+
+En la zona aspectual, en términos generales, los morfemas del aspecto
+externo se combinan con el aoristo y los del aspecto interno, con el imper-
+fectivo. Puede darse también la combinación de imperfectivo con aspecto
+externo, para referirse a eventos habituales. Ejemplo:
+
+deheyath “ya estoy acostumbrado a dormir”
+
+(deh-e-ya-thu)
+
+//dormir-IMPF-EXT-1psASER//
+
+En la tercera persona se da la distinción entre predicación dinámica
+(PD) y predicación estativa (PE). Los verbos dinámicos se combinan con
+la PD, tanto si tienen aspecto aoristo como si tienen aspecto imperfectivo.
+
+95

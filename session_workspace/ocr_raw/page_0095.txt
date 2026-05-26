@@ -1,0 +1,52 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+FUNCIONES
+
+Se entiende por función sintáctica el papel que cumplen los constituyen-
+tes de la oración dentro de su marco estructural. Se trata de relaciones que
+contraen entre ellos los elementos presentes en una estructura oracional
+en tanto son componentes de una unidad, que es la oración. Como fun-
+ciones sintácticas del nivel oracional se identifican la función predicativa,
+el sujeto, el complemento u objeto directo, el complemento u objeto indi-
+recto y los complementos circunstanciales —locativo, temporal, sociativo,
+instrumental, etcétera—.
+
+La función semántica, también llamada papel semántico o rol actan-
+cial, se refiere al papel que cumplen las entidades involucradas en un even-
+to. Hasta ahora no ha sido posible establecer una lista única y definitiva
+de las funciones semánticas, esto se encuentra en elaboración actualmente
+en la teoría lingúística. Sin embargo, se han identificado algunas como las
+más frecuentes: agente —el que hace la acción—, paciente o tema —el que
+recibe los efectos de una acción o es afectado en un determinado evento—,
+destinatario —la tercera entidad involucrada en la matriz actancial básica
+de un evento, entidad a la cual está destinada la acción—, beneficiario
+—entidad en cuyo beneficio se hace una acción—, sociativo o comitati-
+vo —la entidad que acompaña a otra en un evento—, instrumental —el
+objeto o instrumento del cual se vale el agente para hacer una acción—.
+Se consideran también funciones semánticas la localización espacial y
+temporal de un evento.
+
+En las funciones sintácticas es conveniente distinguir entre argumentos
+y adjuntos. Los primeros son los que el verbo selecciona según su valen-
+cia: el sujeto, el objeto directo y el objeto indirecto. Un verbo de valencia
+1 selecciona un sujeto, sea este agente o paciente; un verbo de valencia 2
+normalmente selecciona un sujeto y un objeto directo; un verbo de valencia
+3 selecciona además un destinatario. Los verbos que se refieren a ubicación
+espacial requieren de una indicación de lugar entre sus argumentos. Las
+otras informaciones que pueden aparecer, pero que no son requeridas por el
+verbo, son los adjuntos: complementos circunstanciales de tiempo, de lugar,
+de compañía, de instrumento, etcétera.
+
+El constituyente que cumple la función predicativa es el elemento n
+clear de la oración y, como se ha planteado, su sola presencia es suficien-
+te para que exista la oración. En adelante se le denominará predicado.
+Tal como se mostró en el capítulo 4, todos los lexemas pueden recibir el
+morfema de la predicación y constituir una palabra predicativa que cumpla
+esta función. Esto sucede igualmente con los morfemas gramaticales libres,
+
+114
+

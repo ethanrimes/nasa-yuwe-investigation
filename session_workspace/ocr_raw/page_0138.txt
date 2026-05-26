@@ -1,0 +1,47 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+La combinación de lexemas verbales estativos con imperfectivo y morfe-
+mas del modo suspensivo tiene valor temporal de futuro; en la tercera per-
+sona aparece la predicación estativa. Ejemplo:
+
+fxina upuna “estará escribiendo”
+(fxi-na wp-u-na)
+/lescribir-DUR/estar-IMPF-3psSUS.PE//
+
+yuhena “(él o ella) vendrá”
+fyuh-e-na)
+/Ivenir-IMPF-3psSUS.PE//
+
+Si se combina un lexema verbal estativo con el aoristo y con el modo
+suspensivo, se interpreta como pasado; en este caso aparece la predicación
+dinámica en la tercera persona. Ejemplo:
+
+upka “(él o ella) estaba””
+fup-o-ka)
+//estar-AOR-3psSUS.PD//
+
+Para examinar la combinación de los lexemas verbales con el aspecto
+obligatorio, los morfemas de distancia y los modos, hay que tener en cuenta
+que los morfemas de distancia cercana (-ki-) (D1) y media f-ku-) (D2) están
+asociados la mayoría de las veces con valores temporales; cuando se combi-
+nan con la negación, tienen un valor fundamentalmente modal. El morfema
+de distancia lejana (-ne-) (D3) tiene valor temporal cuando se combina con
+el modo asertivo y valor modal de inferencia o suposición cuando se com-
+bina con el modo suspensivo. Cuando está presente el morfema (-ne-), en la
+tercera persona aparece la predicación estativa. Se presentan a continuación
+los valores temporales de estas combinaciones.
+
+LV+IMPF+DIloD2+ASER pasado imperfecto o habitual
+
+LV + IMPF + D3 + ASER pasado imperfecto lejano
+LV+AOR+DIlIoD2+ASER pasado
+LV + AOR + D3 + ASER pasado lejano
+
+7% Aquíse afirma que la persona estaba en un determinado sitio y el uso del verbo wp- sugiere que se
+
+encontraba quieta o en reposo.
+

@@ -1,0 +1,47 @@
+< Library La]
+
+MORFOSINTAXIS
+
+im-), se dirige el hablante a un destinatario plural; esta forma se usa también
+con las mujeres. En la región de Caldono, la presencia del morfema (-we)
+es frecuentemente interpretada como forma cortés de hacer una solicitud,
+como un imperativo atenuado. Con el prohibitivo se da también una orden,
+pero para que alguien no haga algo. Con el exhortativo el hablante convida
+a otros a hacer algo. Con el incitativo se invita a hacer una determinada ac-
+ción. Ejemplos:
+
+Con raíces verbales
+mtugx “¡tome!”
+(m-tugx)
+//IMP-tomar//
+
+mkujwe “bailen (ustedes)”
+(m-kwj-we)
+//IMP-bailar-pl//
+
+wuwunu “¡no corra!”
+fwuwu-nuj
+//correr-PROH//
+
+weweka “hablemos”
+(wew-e-ka)
+/Mhablar-IMPFE-EXH*//
+
+vya “¡a comer?”
+tuya)
+//comer-INCI//
+
+Con raíces verbonominales
+pekwenu “¡no golpee!”
+(pekwe-nu)
+
+//golpear-PROH//
+
+memya “¡a cantar?”
+(mem-ya)
+//cantar-INCI//
+
+El exhortativo va siempre acompañado del imperfectivo.
+
+87
+

@@ -1,0 +1,56 @@
+Rocío DEL PILAR NIEVES OVIEDO
+
+Además de las funciones sintácticas que expresan los diferentes roles que
+los eventos involucran en su módulo semántico básico, existen también las
+funciones circunstanciales. Se han identificado: locativo espacial, temporal,
+beneficiario, sociativo e instrumental.
+
+El locativo temporal suele ir al principio de la oración, acompañado del
+morfema topicalizador (-a”). Para el locativo espacial hay un paradigma de
+morfemas de caso: inesivos (-te), [-ka), (-sul y (-khej; alativo (-na); elativo
+(-ju). Ejemplos:
+
+kuskaya” cxhabju u'jeçtha'vv “mañana nos vamos del pueblo”
+
+(kuskay-a' exhab-ju Wj-e-c-thawj
+
+//mañana-TOP/pueblo-ELA/ir-IMPE-INT-1ppASER//
+
+kusia” kabildote úsuth “esta mañana estuve en el Cabildo”
+
+[kusi-a' kabildo-te ús-u-thut
+
+//esta mafiana-TOP/cabildo-INE/estar-IMPF- 1psASER//
+
+Para las funciones de beneficiario, sociativo e instrumental existen los
+morfemas (-j1), (-yalchi y (-uh), respectivamente. Ejemplos:
+
+Beneficiario
+
+Lilia ya ja agxji vxitku “Lilia hizo una mochila para mí”
+
+(Lilia-a' yaja agx-ji vxit-o-kuj
+
+(/Lilia-TOP/mochila/yo(masc)- BEN/hacer-AOR-3psASER.PD//
+
+Mixia atx Selsuji umuca “María está tejiendo una ruana para Celso”
+
+(Mixia-d'atx Selsu-ji um-u-ç-a'l
+
+(/María- TOP/ruana/Celso-BEN/tejer-IMPF-INT-3psASER.PE//
+Sociativo
+
+Selsu' Silvxinayakh kujuk “Celso baila con Silvina”
+
+(Selsu-a' Silvxina-yakh kuj-u-kuj
+
+//Celso- TOP/Silvina-SOC/bailar-IM PF-3psASER.PD//
+
+Rixiana khasx pladyakh UR. “Julián comió sopa con plátano”
+
+(Rixian-a' khasx plad-yakh -90-kuj
+
+//Julián-TOP/sopa/plátano-SOC/comer- AOR-3psASER.PD//
+
+3. Lasílaba /si/ es acentuada, por esto aparece la forma larga del morfema TOP.
+122

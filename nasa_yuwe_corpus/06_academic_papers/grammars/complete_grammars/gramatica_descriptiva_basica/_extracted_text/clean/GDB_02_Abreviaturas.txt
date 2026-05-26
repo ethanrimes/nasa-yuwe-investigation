@@ -1,0 +1,43 @@
+ABREVIATURAS
+ADI aditivo                           IMP.pl imperativo plural
+ALA alativo (locativo)                IMPF imperfectivo
+ANT.DS anterioridad diferente sujeto  INCER incertidumbre
+ANT.IS anterioridad igual sujeto      INCI incitativo
+AOR aspecto aoristo                   INCO aspecto incoativo
+ASER modo asertivo                    INE inesivo (locativo: genérico o eje
+BEN benefactivo                          corporal vertical)
+C  conector                           INEh inesivo (eje corporal horizontal)
+CAUS causativo                        INEi inesivo (eje corporal ligeramente
+CM caso morfológico                      inclinado)
+COL colectivo                         INEp inesivo (eje corporal con fuerte
+CONC.DS concesivo diferente sujeto       pendiente)
+CONC.IS concesivo igual sujeto        INM aspecto inminente
+CONF confirmado                       INS instrumental
+CORR corroborativo                    INT aspecto interno
+D  deíctico                           INTE modo interrogativo
+DEM2 demostrativo lejano              ITE aspecto iterativo
+DES desiderativo                      LV lexema verbal
+DIM diminutivo                        MPN modo.persona.número
+DIN dinamizador                       N  nominal
+DUR aspecto durativo                  NEG negación
+DS distinto sujeto                    NOM nominalizador
+ELA elativo (locativo)                OBJ objeto (acusativo/dativo)
+ENF enfático                          OBJpl objeto plural
+EXH exhortativo                       PD predicación dinámica
+EXT aspecto externo                   PE predicación estativa
+FACT factitivo                        PROH prohibitivo
+FIN.G finalidad general               PROS aspecto prospectivo
+FIN.E finalidad específica            Q  cualificativo
+FUT futuro                            TOP topicalizador
+HIP hipotético                        RECI recíproco
+IMP imperativo                        REF reflexivo
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+                                                                                  RES   aspecto resultativo  VOL volitivo
+REST  restrictivo          1ps primera persona del singular
+SIMI  similativo           1pp primera persona del plural
+SOC   sociativo            2ps segunda persona del singular
+SUS   modo suspensivo      2pp segunda persona del plural
+TOP   topicalizador        3ps tercera persona del singular
+V     verbo                3pp tercera persona del plural
+VN    verbonominal
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.

@@ -1,0 +1,37 @@
+FONOLOGÍA
+Consonantes
+Tabla 4. Fonemas consonánticos básicos y grafemas correspondientes
+Palato- Graf
+Básicos Labial Apical Posterior a
+alveolar (letras)
+Oclusivos p t ts k P t c k
+Ocl. Aspirados po t ts” ke | ph th ch kh
+Oclusivos prenasalizados | "b "d "dz "g b d z g
+Fricativos sordos S h | S j
+Nasales m n m n
+Laterales l | 1
+Aproximantes VV j vv y
+Tabla 5. Fonemas consonánticos palatalizados y grafemas correspondientes
+A Palato- ,
+Palatalizados Labial  Apical Posterior Grafemas (letras)
+alveolar
+Oclusivos básicos p t ts k px tx Xx kx
+Oclusivos aspirados Pp” o ts" Ko pxh txh çxh kxh
+Ocl. Prenasalizados "bj "di "dz "gi bx dx ZX gx
+Fricativos sordos (0) si hi fx sx jx
+Fricativo sonoro g VX
+Nasal n nx
+Lateral V lx
+Vocales
+Tabla 6. Fonemas vocálicos y grafemas correspondientes
+| Oral Grafemas (letras) | Nasal Grafemas (letras)
+Breve i é a u i e a u i e a ú i e a ú
+Larga | i e a uu (ii ee aa uu | i €: à UÚ: | e àa úu
+Incrrupta  E a w e a vw PP es a er r a
+Aspirada | ea yw liheh ah uh | Pa à bn ãh õh
+En los siguientes capítulos de esta gramática, los ejemplos se escribirán
+con este sistema. Como hay variaciones regionales en relación con el uso de
+uno u otro fonema o con el rasgo de nasalidad en las vocales, se representará
+como se haya recogido el dato, es decir, en la forma correspondiente a la re-
+gión de donde provenga dicho dato. Por ejemplo: el sufijo “aditivo” es (-pa)
+55

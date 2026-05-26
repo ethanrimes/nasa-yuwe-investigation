@@ -1,0 +1,49 @@
+Rocío DEL PILAR NIEVES OVIEDO
+
+EL TIEMPO
+La categoría deíctica de tiempo se expresa en los deícticos temporales y en
+la morfología verbal. Los deícticos se presentaron en el capítulo de Morfolo-
+gía, dentro de los morfemas gramaticales libres. Son palabras que se refieren
+al tiempo relativo al acto de enunciación. Algunas de ellas son: àçxh “hoy/
+ahora, wnah “ayer”, kuskay “mañana”, kusi “esta mañana”.
+
+En cuanto a la morfología verbal, no existe en nasa yuwe un paradig-
+ma que se especialice en la expresión de la categoría gramatical de tiempo.
+Los morfemas de distancia contienen alguna indicación temporal, pero ex-
+presan también nociones modales. El tiempo se expresa mediante la combi-
+nación de morfemas, lo que puede incluir la clase de lexema verbal —diná-
+mico o estativo—, los morfemas aspectuales, los morfemas de distancia, los
+morfemas modopersonales y el tipo de predicación. *
+
+En la combinación de las clases de lexemas verbales con el paradigma
+de aspecto obligatorio (imperfectivo/aoristo) y el morfema modopersonal
+correspondiente al modo asertivo —con los dos tipos de predicación—, apa-
+recen los siguientes valores temporales:
+
+Verbo dinámico + AOR+PD pasado
+
+Verbo dinámico + IMPF + PD presente
+
+Verbo estativo + AOR + PE presente
+
+Verbo estativo + IMPF + PD pasado
+
+Los verbos dinámicos se combinan en ambos casos con el morfema
+modopersonal de la predicación activa. Combinado con el imperfectivo
+arroja un valor temporal de presente y con el aoristo, un valor de pasado.
+Ejemplo:
+
+umku “El o ella tejió"
+
+fum-o-kuj
+
+//tejer-AOR-3psASER.PD//
+
+umuk “El o ella teje”
+
+fum-u-kuj
+
+(/tejer-IMPF-3psASER.PD//
+
+** Esto se presenta también en el trabajo de Rojas (1994).
+156

@@ -1,0 +1,58 @@
+Rocío DEL PILAR NIEVES OVIEDO
+
+acxakitx “se calentaron (hace poco tiempo)”
+
+facxa-ki-tx)
+
+//calentar-D1-3ppASER.PD//
+
+Cuando aparece un morfema de distancia, independientemente de que
+el morfema aspectual sea aoristo o imperfectivo y de que existan en la
+palabra verbal otros morfemas —como los del aspecto opcional, por ejem-
+plo—, los morfemas de D1 y D2 se combinan con PD y el morfema de D3,
+con PE:
+
+Base verbal + aspecto + DI + PD um-u-ki-k(u) um-o-ki-k(u)
+
+Base verbal + aspecto + D2 + PD um-u-ku-k(u) um-9-ku-k(u)
+
+Base verbal + aspecto + D3 + PE um-u-ne-(a) um-9-ne-(a)
+
+La negación
+
+La negación (NEG) se expresa en nasa yuwe con el morfema (-me-), que
+se inserta en la palabra predicativa y se ubica entre la zona aspectual y el
+paradigma de la distancia modotemporal. En cuanto a su estatuto, no se
+puede afirmar categóricamente que se trate de un sufijo flexivo, si bien es
+así como funciona en las palabras predicativas, pues dicho morfema puede
+actuar también como raíz. Ejemplos:
+
+Como afijo en la palabra predicativa
+
+nasameth “no soy paez”
+
+(nasa-me-thul
+
+//paez-NEG-1psASER//
+
+umucmekik “(él o ella) no estuvo tejiendo”
+
+fum-u-c-me-ki-kuj
+
+(/tejer-IMPF-INT-NEG-DI-3psASER.PD//
+
+weteyawameg “no te vas a caer”
+
+(Wete-9-yawa-me-guj
+
+//caer-AOR-PROS-NEG-2psASER//
+
+Como raíz de palabra predicativa
+
+Kse úsna “está José?”
+
+(Rse-a ús-9-na')
+
+//José-TOP/estar- AOR-3psINTE.PE//
+
+98

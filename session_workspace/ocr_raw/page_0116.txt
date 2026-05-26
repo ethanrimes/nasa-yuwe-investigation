@@ -1,0 +1,55 @@
+< Library La]
+
+SINTAXIS
+
+ikheci'kwe napa kuskaya vxite wy pa'jexayu kutxhass itxhvxih túscxa
+pajahana
+
+(ikh-e-c-P kwe napa kuskay-a' vxite wWy paj-cxa-yu” kutxh-a's i- hvxih
+tús-cxa paj-a-ha-na)
+//matar-IMP-INT-2ppASER/pero/mañana-TOP/otra/mujer/llegar-REST-
+TOP/maíz-OBJ/con tusa/cargar-REST/llegar-IMP-ITE-3psSUS. PE//
+
+“me matas, pero mañana ha de llegar otra mujer cargando no más la tusa””
+
+Las disyuntivas tienen como nexo el conector “meecxa”, que une oracio-
+nes que se presentan como opciones de una alternativa; puede ir solamente
+entre las dos oraciones 0, como se ha encontrado con mayor frecuencia, al
+principio de cada una de las dos oraciones. Ejemplos:
+
+meecxa acxh wjun meecxa ayte dehen
+(meecxa acxh Wj-u-n meecxa ay-te deh-e'-n)
+//tal vez/hoy/ir-IMP-1psFUT/tal vez/aquí-INE/dormir-IMPF-1ps
+
+FUT//
+“tal vez me vaya hoy o tal vez duerma aquí”
+
+Las consecutivas son oraciones de las cuales la primera expresa la cau-
+
+sa y la segunda la consecuencia; están unidas por los conectores txaju y
+ag- —este último suele ir topicalizado por el morfema -a? o acompañado del
+enfático -yu —. Ejemplo:
+
+adxa' pejxmekuth aca idxa' majimekung
+
+(adx-a' pejx-o-me-ku-thu ac-a' idx-a maji-o-me-ku-gu)”
+/1yo(masc)/preguntar- AOR-NEG-D2-1psASER/entonces- TOP/tú
+(masc)-TOP/decir-AOR-NEG-D2-2psASER//
+
+“yo no pregunté, entonces tú no me dijiste (no me diste la información)”
+
+fxtúu pesatu úskik txaju wetekith
+(f£xtúu pesatu ús-0-ki-ku txaju wete-o-ki-thu)
+/Ipalo/atravesado/estar-AOR-D1-3psASER.PD/así que/caer- AOR-
+
+D1-1psASER//
+“había un palo atravesado, así que me caí”
+
+Tomado del cuento de la Siska, una mujer que se convierte en el gusanito de la mazorca. Tusa es el
+corazón de la mazorca al que se adhieren los granos de maíz.
+Parece que en la base “ma'ji” hubiera una composición entre el interrogativo ma'w = “cómo” (que
+
+pierde su último fonema) y la raíz del verbo j?' = “decir”.
+
+137
+

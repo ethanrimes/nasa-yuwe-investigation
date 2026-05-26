@@ -1,0 +1,45 @@
+< Library La]
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+Predicación de un proceso
+nxiisxku “se engordó”
+(nxiisx-0-ku)
+//gordo-AOR-3psASER.PD//
+
+Predicación de un estado
+duha “está pesado”
+(duh-a
+/Ipesado-3psASER.PE//
+
+Predicación de un fenómeno natural
+sekuk “hace sol”
+(sek-u-ku)
+//sol-IMPF-3psASER.PD//
+
+Como puede verse en los ejemplos, las propiedades y las características se
+predican sin necesidad de un verbo que actúe como cópula, en tanto las pa-
+labras nominales reciben directamente el morfema de la predicación. Pero
+sí es necesaria una cópula para la predicación de la existencia y la ubicación
+espacial. En estos casos actúan como cópula los mismos verbos que funcio-
+
+nan como auxiliares y que contienen información acerca del eje corporal de
+la entidad a la cual se refieren: (ús-) y (u'p-) “estar”.
+
+Para la predicación de la posesión, es decir, la pertenencia de una entidad
+a otra, se sufija el morfema (-ji) “benefactivo” al nombre del poseedor, y la
+palabra así construida constituye el núcleo del predicado. Ejemplos:
+
+jiba Lamusji “el caballo es de Ramos”
+fjiba-a Lamus-ji-a')
+/Icaballo-TOP/Ramos-BEN-3psASER.PE//
+
+na yaja ukweji “esta mochila es mía”
+ina yaja-a Wkwe-ji-a)
+//DEM1/mochila-TOP/yo(fem)-BEN-3psASER.PE//
+
+Las oraciones asertivas pueden tener explicitación léxica del sujeto, ex-
+cepto aquellas cuyo predicado se refiere a fenómenos naturales expresados
+por lexemas verbonominales. Se trata de eventos que no son atribuibles a
+una entidad y por lo tanto no es posible explicitar un sujeto. Ejemplo:
+

@@ -1,0 +1,61 @@
+SINTAXIS
+
+Las oraciones declarativas asertivas se construyen con los morfemas
+modopersonales correspondientes a los modos asertivo (ASER) —aserción
+fuerte— y suspensivo (SUS) —aserción débil—, que expresan dos grados
+distintos de certeza o de conocimiento sobre lo que se dice.
+
+Con las oraciones asertivas se predica la existencia, la ubicación espa-
+cial, las propiedades o la pertenencia a un determinado conjunto, las carac-
+terísticas, las acciones, los procesos, los estados, los fenómenos naturales.
+Ejemplos:
+
+Predicación de existencia
+
+bahç úsa “hay fique”
+
+(bahç ús-9-a')
+
+//fique/estar- AOR-3psASER.PE//
+
+Predicación de ubicación espacial
+
+Peklu yatte úsa “Pedro está en la casa”
+
+(Peklu-a' yat-te ús-o-a
+
+//Pedro-TOP/casa-INE/estar- AOR-3psASER.PE//
+
+Predicación de propiedad
+
+uythu “soy mujer”
+
+(u'y-thu)
+
+//mujer-1psASER//
+
+Predicación de identificación
+
+na kweta “esto es (una) piedra”
+
+ína-a kwet-a)
+
+//DEM1-TOP/piedra-3psASER.PE//
+
+Predicación de una característica
+
+wala “es grande”
+
+(vvala-a'
+
+//grande-3psASER.PE//
+
+Predicación de una acción
+
+wewgu “hablaste”
+
+(Wwew-o-guj
+
+//hablar- AOR-2psASER//
+
+127

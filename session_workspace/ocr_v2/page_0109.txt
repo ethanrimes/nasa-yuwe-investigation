@@ -1,0 +1,59 @@
+SINTAXIS
+Con explicitación de sujeto
+
+misxa alku's wa kxku “el gato mordió al perro”
+
+ímisx-a alku-as wa kx-0-kuj)
+
+//gato-TOP/perro-OBJ/morder- AOR-2psASER.PD//
+
+seka sena acxa “el sol está muy caliente”
+
+[sek-a' sena açxa-a't
+
+(/sol-TOP/mucho/caliente-3psASER.PE//
+
+Mixia dehek “María duerme”
+
+(MIxia-a' deh-e-kuj
+
+//María-TOP/dormir-IMPF-3psASER.PD//
+
+Sin explicitación de sujeto (fenómenos naturales)
+
+kwehnek “relampagueó”
+
+(kwehne-o-kuj)
+
+//relámpago- AOR-3psASER.PD//
+
+wejxan úsa “está venteando”
+
+(Wejxa-na ús-g-a'l
+
+//viento-DUR/estar-AOR-3psASER.PE//
+
+kusuca “está anocheciendo”
+
+(kus-u-c-a')
+
+//noche-IMPF-INT-3psASER.PE//
+
+Si bien existe el lexema verbonominal (nus), que significa “lluvia/hacer
+invierno” para hablar del hecho de llover se usa en su faz nominal, referido a
+una “entidad que llega”; como verbo, en su faz dinámica, se refiere a la época
+de invierno. Ejemplos:
+
+nus pa'jn úsa “está lloviendo”
+
+(nus paj-na ús-0-4)
+
+(Muvia/llegar- DUR/estar-AOR-3psASER.PE//
+
+sena nusuk “hace mucho invierno”
+
+(sena nus-u-kuj
+
+//mucho/hacer invierno-IMPF-3psASER.PD//
+
+129

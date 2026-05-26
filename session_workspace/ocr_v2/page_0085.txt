@@ -1,0 +1,44 @@
+MORFOSINTAXIS
+
+Se recuerda que el nombre puede tener también morfemas derivativos,
+que fueron presentados en el capítulo de Morfologia.
+Sintagma nominal
+El nombre puede actuar como núcleo de un sintagma, al ir acompañado por
+otras palabras que actúan como determinantes o como modificadores. Se
+entiende sintagma como un grupo de palabras que presenta la estructura
+NÚCLEO + DETERMINANTES o MODIFICADORES y que puede cumplir, de
+manera unitaria, una función sintáctica del nivel oracional".
+
+Determinantes son en este caso las palabras que al acompañar al nom-
+bre concretan sus posibilidades referenciales; la determinación se da tanto
+por palabras gramaticales como por palabras léxicas. El sintagma nominal
+puede ser reemplazado en todos los casos por un nombre o un pronombre.
+El sintagma nominal puede cumplir en la oración funciones actanciales o
+circunstanciales, para lo que lleva sufijada la correspondiente marca morfo-
+lógica de caso. Puede también cumplir la función predicativa y recibir para
+ello el morfema modopersonal.
+Determinación gramatical
+Como determinantes gramaticales aparecen los demostrativos, los cuantifi-
+cadores —indefinidos y numerales— y los pronombres personales tomados
+como posesivos; los determinantes gramaticales preceden al núcleo, lo que
+da como resultado el orden DETERMINANTE - DETERMINADO para este
+tipo de construcción. Ejemplos:
+Demostrativo + nombre
+
+na tub “esta paloma”
+
+na tuba cxihme “esta paloma es blanca”
+
+(na tub-a cxihme-a')
+
+/DEM1/paloma-TOP/blanco-3psASER.PE//
+Cuantificador + nombre
+
+sena nasa “mucha gente”
+
+sena nasa Usa “hay mucha gente”
+
+(sena nasa-a Ús-g-at
+$$. Las funciones se tratan en el capítulo 5, Sintaxis.
+
+105

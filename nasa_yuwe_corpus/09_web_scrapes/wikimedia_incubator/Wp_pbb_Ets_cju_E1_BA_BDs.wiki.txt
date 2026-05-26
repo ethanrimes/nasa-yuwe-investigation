@@ -1,0 +1,51 @@
+<div style="background-color:#FFFFFF; padding:2px; border:4px solid red;"> 
+<div style="background-color:#FFFFFF; padding:18px; border:2px solid red;"> 
+<p style="margin: 0.5em 0 0 3%; text-align: center; 
+font-size: 125%; line-height: 1.3">
+<center>[[Image:Flag of Colombia.svg|thumb|left|120px|Colombia]]</center><br>
+<span style="font-size:185%">'''[[Wp/pbb/Wikipedia:Kwe'sx yuwekwe|We'çx yuwekwe]]''' [[Wp/pbb/Wikipedia|Wikipediate]], iindy enciclopedia [[Wp/pbb/Nasa Yuwe|Nasa Yuwete]].</span><br>
+{{Wp/pbb/PurgeButton|u'se}}
+
+<br> 
+{| width=100% align="center" style="background:transparent; font-size:8pt" cellspacing=10
+|-
+| valign=top | [[Image:Nuvola filesystems folder home.png|33px|Wech yuwe'cue]] '''[[Wp/pbb/Wikipedia:Kwe'sx yuwe|Kwe'sx yuwe]]'''<br>
+| valign=top | [[Image:Gtk-dialog-info.svg|33px|Portal de la Comunidad]] '''[[Wp/pbb/Wikipedia:Hispanohablantes|¿No hablas Nasa Yuwe?]]'''<br>
+| valign=top | [[Image:Nuvola_apps_kmines.png|33px|Caajniwe'sh]] '''[[:Category:Wp/pbb/Kaajniwe'sx|Kaajniwe'sx]]'''<br>
+| valign=top | [[Image:Zabava.png|33px|Cuvi]] '''[[:Category:Wp/pbb/Memnxi|Memnxi]]'''<br>
+| valign=top | [[Image:Crystal Project konquest.png|33px|Astronomía]] '''[[:Category:Wp/pbb/Ã'we'sx|Ã'we'sx]] '''<br>
+|-
+| valign=top | [[Image:Nuvola_apps_kalzium.svg|33px|Física]] '''[[:Category:Wp/pbb/Física|Física]]'''<br>
+| valign=top | [[Image:Nuvola_apps_kate.png|33px|Nasa Yuwe]] '''[[:Category:Wp/pbb/Nasa Yuwe|Nasa Yuwe]]'''<br>
+| valign=top | [[Image:Nuvola_apps_edu_science.png|33px|Química]] '''[[:Category:Wp/pbb/Química|Química]]'''<br>
+|
+|
+|-
+| valign=top | [[Image:Globe-Star of life.svg|33px|Yu'tse]] '''[[:Category:Wp/pbb/Yu'tse|Yu'çe]]'''<br>
+| valign=top | [[Image:Nuvola apps edu miscellaneous.svg|33px|Caapiya'jni]] '''[[:Category:Wp/pbb/Kaapiya'jnxi|Kaapiya'jnxi]]'''<br>
+|
+|-
+| valign=top | [[Image:Nuvola apps edu mathematics-p.svg|33px|Matemática]] '''[[:Category:Wp/pbb/Matemática|Matemática]]'''<br>
+| valign=top | [[Image:Nuvola apps filetypes.svg|33px|Filosofía]] '''[[:Category:Wp/pbb/Filosofía|Filosofía]]'''<br>
+| valign=top | [[Image:Nuvola apps khangman.png|33px|Ze'nze'we'sh]] '''[[:Category:Wp/pbb/Ze'ze'we'sx|Ze'ze'we'sx]]'''<br>
+| valign=top | [[Image:Staroffice.svg|33px|Niimal'we'sh]] Tahtxwe´sx
+<br>
+|-
+| valign=top |
+| valign=top | [[Image:Nuvola_apps_browser.png|33px|Geografía]] '''[[:Category:Wp/pbb/Geografía|Geografía]]'''<br>
+|}
+<br/>
+<div>
+<inputbox>
+ type      = create
+ width     = 40
+ bgcolor   = #ffffff
+ preload   = Template:Standard content for new page
+ editintro = Template:Instructions
+ default   = Wp/pbb/
+</inputbox>
+</div>
+
+[[an:]] [[ar:]] [[ast:]] [[ay:]] [[bg:]] [[bpy:]] [[bs:]] [[ca:]] [[cbk-zam:]] [[ceb:]] [[ch:]] [[cs:]] [[da:]] [[de:]] [[el:]] [[en:]] [[eo:]] [[es:]]  [[ext:]] [[et:]] [[eu:]] [[fa:]] [[fi:]] [[fr:]] [[gl:]] [[gn:]] [[he:]] [[hr:]] [[hu:]] [[id:]] [[it:]] [[ja:]] [[ko:]] [[lad:]] [[la:]] [[lmo:]] [[lt:]] [[ms:]] [[mwl:]] [[nah:]] [[new:]] [[nl:]] [[nn:]] [[no:]] [[oc:]] [[pap:]] [[pl:]] [[pt:]] [[qu:]] [[ro:]] [[ru:]] [[sk:]] [[sl:]] [[sr:]] [[sv:]] [[te:]] [[th:]] [[tl:]] [[tr:]] [[uk:]] [[vi:]] [[zh:]]
+
+[[Category:Wp/pbb]]

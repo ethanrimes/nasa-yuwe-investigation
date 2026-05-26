@@ -1,0 +1,52 @@
+<
+
+Library
+
+MoRrFoLoGÍA
+
+La mayoría de afijos son monosilábicos, aunque hay algunos constituidos
+por un solo fonema, que entran a formar sílaba con algún fonema de la base
+a la cual se afijan. Los sufijos que suelen ir al final de la palabra tienen dos
+alomorfos condicionados fonológicamente, dependiendo de si el último fo-
+nema de la base a la cual se sufijan es vocálico o consonántico*. Algo similar
+ocurre con algunos prefijos, según el fonema inicial de la base a la cual se
+prefijan. Ejemplos:
+
+yatna “a la casa, hacia la casa”
+
+fyat-na)
+//casa-ALA//
+
+yuwalan “al río, hacia el río”
+(yu -wala-na)
+/lagua-grande-ALA//
+
+yawakxthu “me mord”
+(ya -wa'kx-o-thu)
+//REF-morder- AOR-1psASER//
+
+yuyith “me pegue”
+(ya -uyi-0-thu)
+//REF-pegar- AOR-1psASER//
+
+Morfemas léxicos
+
+Los morfemas léxicos o lexemas funcionan todos como raíces en tanto ac-
+túan como núcleo en los procesos de formación de palabras; a ellos se afijan
+los morfemas gramaticales, tanto flexivos como derivativos. Los morfemas
+léxicos del nasa yuwe se pueden clasificar en cuatro grupos: nominales, ver-
+bales, verbonominales y cualificativos. Puede decirse que hay dos polos, los
+nominales y los verbales, cuya distinción se basa en criterios morfosemán-
+ticos, es decir, por la compatibilidad e incompatibilidad con determinados
+morfemas, pues algunos morfemas que son compatibles con los nominales
+no lo son con los verbales y viceversa. A partir de estos dos polos se estable-
+ce la existencia de las otras dos clases. La relación entre las cuatro clases de
+lexemas puede representarse de la siguiente manera:
+
+Al representar el nivel morfológico en la glosa yuxtalineal de los ejemplos, se tomará siempre la
+
+forma larga para representar el morfema. Por ejemplo, en el caso de (-na —-n) se tomará «-na», en
+el caso de f-thu —-th) se tomará «-thu», etcétera.
+
+61
+

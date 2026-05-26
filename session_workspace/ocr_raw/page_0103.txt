@@ -1,0 +1,56 @@
+<
+
+Library
+
+SINTAXIS
+
+Instrumental
+cxicxas cxilxuh wakath “corté la carne con el cuchillo”
+fexiex-as cxilx-uh waka-o-thu)
+/Icarne-OB]/cuchillo-INS/cortar- AOR-1psASER//
+
+Entre las funciones sintácticas y las funciones semánticas no hay una re-
+lación biunívoca, de tal modo que un elemento que cumpla una determina-
+da función semántica puede tener asignadas funciones sintácticas diferen-
+tes, según la manera como se construya la oración. A la inversa, una misma
+función sintáctica puede estar asociada a diferentes funciones semánticas.
+Esta relación que se establece entre los argumentos del verbo y las funciones
+sintácticas que los expresan en la oración, es decir, a cuál de los participantes
+se le da el realce morfosintáctico en tanto se toma como sujeto, es lo que se
+conoce como la voz.
+
+De la relación que se establece entre la función sintáctica de sujeto y las
+funciones semánticas de agente y paciente, se desprende que en nasa yuwe
+hay voz activa y voz media. La voz activa se da cuando el sujeto coincide
+con el agente; en voz activa se construye la gran mayoría de las oraciones
+de la lengua. La voz media aparece cuando el reflexivo se usa para hacer
+funcionar al paciente semántico como sujeto y prescindir de la información
+
+relacionada con el agente; aquí se le da realce como sujeto a la entidad que es
+afectada por el evento sin que ejerza control sobre él. Ejemplos:
+
+Voz activa
+igxa klatxi's yackipug
+tigx-a” kKla-txi's yackipu-o-gu)
+//túlmasc)-TOP/vaca-OBJpl/arrear- AOR-2psASER//
+
+<r »
+tú arreaste las vacas
+
+Wkwe misxas ukawakxith “empujo a la gata”
+fukwe-a' misx-as ukawakx-i-thuj
+/Iyo(fem)-TOP/gata-OBJ/empujar-IMPF-1psASER//
+
+Voz media
+kla ya yackiputx “las vacas se dejaron arrear”
+(kla-a' ya -yackipu-o-tx)
+/Ivaca-TOP/REF-arrear- AOR-3ppASER.PD//
+
+misxa yaukawakxik
+(misx-a' ya -ukawakx-i-ku)
+/Igata-TOP/REF-empujar-IMPF-3psASER.PD//
+
+“la gata se deja empujar”
+
+123
+

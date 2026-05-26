@@ -1,0 +1,43 @@
+Rocío DEL PILAR NIEVES OVIEDO
+ye : « . . »”»
+yuzuhg yaja vxitu es con aguja con lo que haces mochilas
+
+(yuz-uh-gu yaja vxitu-ul
+
+//aguja-INS-2ps/mochila/hacer-IMPE//
+
+Los dos procedimientos son excluyentes entre sí, no coinciden sobre un
+mismo constituyente: cuando se focaliza el sujeto o el circunstante temporal,
+dichos constituyentes no tienen el morfema topicalizador. Los marcadores
+de caso morfológico sí se conservan aunque el constituyente que los tiene
+esté focalizado.
+
+LA ORACIÓN
+Formalmente la lengua distingue entre oraciones declarativas y oraciones
+no declarativas, según las categorías gramaticales presentes en el morfema
+predicativo. Esta es la primera clasificación que puede hacerse de las oracio-
+nes del nasa yuwe. Para la presentación de las oraciones se tiene en cuenta
+también el grado de complejidad de la estructura oracional: se empieza por
+presentar la oración simple y con ella las otras clasificaciones; posteriormen-
+te se presentan la oración compuesta y la oración compleja.
+La oración simple
+Esta contiene una sola relación predicativa, una proposición con sus ele-
+mentos: el predicado y la base de predicación. En nasa yuwe hay oraciones
+simples declarativas y no declarativas.
+
+Las oraciones declarativas llevan el morfema modopersonal, es decir
+que contienen la flexión de tres categorías: la persona, el número y el modo.
+Con las oraciones declarativas se habla de un estado de cosas. La diferencia
+que se establece en la tercera persona entre la predicación dinámica (PD) y
+la predicación estativa (PE), que puede verse claramente en los morfemas
+modopersonales recogidos en la tabla de abajo (a la izquierda, los morfemas
+de la PD y a la derecha, los morfemas de la PE), se da en el marco de las
+oraciones declarativas. Las oraciones declarativas, a su vez, se dividen en
+asertivas y no asertivas.
+
+Tabla 13. Morfemas modopersonales de tercera persona
+Tercera persona Asertivo Suspensivo Interrogativo
+Singular -ku / -a -ka / -na -Ra' / -na
+Plural -txi / -ta -txina -txna
+
+126

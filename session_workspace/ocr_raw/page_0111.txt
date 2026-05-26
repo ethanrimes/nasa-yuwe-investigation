@@ -1,0 +1,47 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+Semánticamente, todas las oraciones declarativas pueden ser negativas.
+La negación se hace con un sufijo en el verbo, que se sitúa entre la zona as-
+pectual y el morfema de distancia —o el morfema modopersonal, cuando
+no se expresa la distancia—. Ejemplos:
+
+unaha mjimekith
+funah-a' mji-0-me-ki-thu)
+//ayer/trabajar-AOR-NEG-D1-1psASER//
+
+“ayer no trabaje”
+
+ukawakxwemekutx “ellos no quisieron empujar”
+fukawakx-wé-o-me-ku-txi)
+//empujar-VOL-AOR-NEG-D2-3ppASER.PD//
+
+vxicna wjemetkhaw “como que no vamos al cerro”
+fvxic-na wj-e-me-tkhaw)
+/Icerro- ALA/ir-IMPF-NEG-1ppSUS//
+
+umyáwameg “no vas a tejer”
+fum-0-yáwa-me-gu)
+/Itejer-AOR-PROS-NEG-2psASER//
+
+Oraciones declarativas no asertivas son las interrogativas, que se cons-
+truyen con el morfema modopersonal correspondiente al modo interrogati-
+vo (INTE); con estas oraciones se pregunta sobre un estado de cosas.
+
+Las oraciones interrogativas totales o absolutas se diferencian de las
+asertivas solamente por la presencia del modo interrogativo en el morfema
+predicativo. Con estas oraciones se pregunta por un estado de cosas en ge-
+neral, sobre si el hecho enunciado es falso o verdadero; normalmente se
+espera una respuesta afirmativa o negativa. Ejemplos:
+
+na luugxa hibanaw pebeka “ese niño chilló como caballo?
+(na luuex-a hiba-na'w pebe-o-ka)
+//DEM1/niño-TOP/caballo-SIMI/chillar- AOR-3psINTE.PD//
+
+wewna úsga “estás hablando?”
+fwew-na ús-9-ga)
+/Mablar-DUR/estar-AOR-2psINTE//
+

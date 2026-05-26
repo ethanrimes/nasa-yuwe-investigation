@@ -1,0 +1,51 @@
+rule_id,domain,statement,nasa_yuwe_example,spanish_gloss,morpheme_breakdown,source,notes
+SYN-001,word_order,Default constituent order is SOV (subject-object-verb),"alkuʼ luuçxaʼs waʼkxku","el perro mordió al niño","{alku-aʼ luuçx-aʼs waʼkx-ø-ku}",GDB Cap5,Subject usually topicalised with -aʼ
+SYN-002,word_order,All phrase heads are right-final (postpositions not prepositions),"yatte","en la casa","{yat-te}",GDB Cap5,
+SYN-003,word_order,Possessor precedes possessed,"agx yat","mi casa","{agx yat}",GDB Cap5,
+SYN-004,word_order,Demonstratives precede the noun,"na misx","este gato","{na misx}",GDB Cap5,
+SYN-005,word_order,Qualificatives precede the noun (when adnominal),"zxiçxkwe uy","mujer bonita","{zxiçxkwe uy}",GDB Cap5,Can also follow when nominalised
+SYN-006,clause_type,Declarative asertiva = main clause with ASER modopersonal,"luuçxaʼ çxaju ũʼek","el niño come piña","{luuçx-aʼ çxaju ũʼ-e-ku}",GDB Cap5,
+SYN-007,clause_type,Interrogativa total = INTE modopersonal on predicate (no question word),"talxnaʼ","¿es flaco?","{talx-naʼ}",GDB Cap5,Yes/no question
+SYN-008,clause_type,Interrogativa parcial = WH word + INTE modopersonal on predicate,"kim nasanaʼ","¿quién es paez?","{kim nasa-naʼ}",GDB Cap5,Question word is a separate constituent
+SYN-009,clause_type,Suspensiva = SUS modopersonal expressing uncertainty/inference,"kwehnena","como que es relámpago","{kwehne-na}",GDB Cap5,Speaker not fully committed
+SYN-010,clause_type,Negative = -me- between aspect and modopersonal,"waʼkxømeaʼ","no mordió","{waʼkx-ø-me-aʼ}",GDB Cap4 Cap5,
+SYN-011,word_order,Negative interrogative compatible with all clause types,"igxaʼ kuskayaʼ mjiimenegaʼ","¿no trabajarás mañana?","{igx-aʼ kuskay-aʼ mji-i-me-ne-gaʼ}",GDB Cap4 Cap5,
+SYN-012,argument_structure,Subject of estative = base of predication (entity); subject of dynamic = agent or patient,"agx talxthu","yo soy flaco","{agx talx-thu}",GDB Cap5,
+SYN-013,argument_structure,OD marked by -aʼs (sg) / -txiʼs (pl); omitted when both OD and OI present (only OI marked),"Tmiguʼ yaʼja uʼkweʼaʼs pesku","Domingo me regaló una mochila","{Tmigu-aʼ yaʼja uʼkwe-aʼs pes-ø-ku}",GDB Cap4 Cap5,Marked-OI-only rule
+SYN-014,argument_structure,OD also dropped when contextually obvious,"luuçaʼ çxaju ũʼek","el niño come piña","{luuçx-aʼ çxaju ũʼ-e-ku}",GDB Cap4 Cap5,Bare-OD when unambiguous
+SYN-015,argument_structure,Locative arguments take INE -te / -ka / -su / -khe according to body-axis,"kabildote ũsuthu","estuve en el cabildo","{kabildo-te ũs-u-thu}",GDB Cap4 Cap5,
+SYN-016,argument_structure,Goal of motion = ALA -na,"çxhabna uʼjuthu","fui al pueblo","{çxhab-na uʼj-u-thu}",GDB Cap5,
+SYN-017,argument_structure,Source of motion = ELA -ju,"çxhabju uʼjeçthaʼw","salimos del pueblo","{çxhab-ju uʼj-e-ç-thaʼw}",GDB Cap5,
+SYN-018,argument_structure,Beneficiary = BEN -ji,"Liliaʼ yaʼja agxji vxitku","Lilia me hizo una mochila","{Lilia-aʼ yaʼja agx-ji vxit-ø-ku}",GDB Cap4 Cap5,
+SYN-019,argument_structure,Comitative = SOC -yakh,"Selsuʼ Silvxinayakh kuʼjuk","Celso baila con Silvina","{Selsu-aʼ Silvxina-yakh kuʼj-u-ku}",GDB Cap5,
+SYN-020,argument_structure,Instrument = INS -uh,"çxiçxaʼs çxilxuh wakathu","corté la carne con el cuchillo","{çxiçx-aʼs çxilx-uh waka-ø-thu}",GDB Cap5,
+SYN-021,info_structure,Topicalised constituent = sentence-initial with -aʼ,"Pekluʼ kãsekiku","Pedro descansó","{Peklu-aʼ kãse-ø-ki-ku}",GDB Cap4 Cap5,Subject topicalised
+SYN-022,info_structure,Temporal expressions normally topicalised,"kusiaʼ kabildote ũsuthu","esta mañana estuve en el cabildo","{kusi-aʼ kabildo-te ũs-u-thu}",GDB Cap5,
+SYN-023,info_structure,Focalised constituent receives the displaced modopersonal+distance,"misxkuk Karlusaʼs waʼkx","fue el gato quien mordió a Carlos","{misx-ku-ku Karlus-aʼs waʼkx-ø}",GDB Cap5,Distance+modop moved off predicate to focus
+SYN-024,info_structure,Object focus: the OBJ-marked NP carries the modopersonal,"misxaʼ Karlusaʼskuk waʼkx","fue a Carlos a quien el gato mordió","{misx-aʼ Karlus-aʼs-ku-ku waʼkx-ø}",GDB Cap5,
+SYN-025,info_structure,Locative focus,"yattekuk misxaʼ Karlusaʼs waʼkx","fue en la casa donde el gato mordió a Carlos","{yat-te-ku-ku misx-aʼ Karlus-aʼs waʼkx-ø}",GDB Cap5,
+SYN-026,info_structure,Temporal focus,"saptukuk misxaʼ Karlusaʼs waʼkx","fue el sábado cuando el gato mordió a Carlos","{saptu-ku-ku misx-aʼ Karlus-aʼs waʼkx-ø}",GDB Cap5,
+SYN-027,voice,Voz activa is default; agent = subject,"alkuʼ luuçxaʼs waʼkxku","el perro mordió al niño","{alku-aʼ luuçx-aʼs waʼkx-ø-ku}",GDB Cap5,
+SYN-028,voice,Voz media: patient promoted to subject via prefix yaʼ-,"klaʼ yaʼyaçkiputx","las vacas se dejaron arrear","{kla-aʼ yaʼ-yaçkipu-ø-tx}",GDB Cap5,Agent suppressed
+SYN-029,voice,Same prefix yaʼ- = true reflexive depending on context,"agxaʼ yaʼwaʼkxkuthu","yo me mordí","{agx-aʼ yaʼ-waʼkx-ø-ku-thu}",GDB Cap5,
+SYN-030,complex_clause,Compound = two simple clauses joined by yuxtaposition (no morpheme),"adxaʼ uʼjuthu / igxaʼ kãsegu","yo me fui; tú descansaste","two clauses with respective modopersonals",GDB Cap5,
+SYN-031,complex_clause,Compound by coordination = clause-final connector,"adxaʼ uʼjuthu maa igxaʼ kãsegu","yo me fui pero tú descansaste","{... maa ...}",GDB Cap5,maa = adversative
+SYN-032,complex_clause,Subordinate temporal with same subject = SS suffix on the subordinated verb,"mjiyãk pheʼjuwa","mientras trabajaba se reía","{mji-yã-ku pheʼj-u-wa}",GDB Cap5,Same-subject markers (forms vary by aspect)
+SYN-033,complex_clause,Subordinate with different subject = DS suffix,"mjiyãna agxaʼ kãsekiku","mientras él trabajaba yo descansé","{mji-yã-na agx-aʼ kãse-ø-ki-ku}",GDB Cap5,Different-subject markers
+SYN-034,complex_clause,Conditional = HIP modopersonal on protasis,"mjiyaʼkuʼ uʼjeçtsxa","si trabajara me iría","{mji-yaʼ-ku-ʼ uʼj-e-ç-tsxa}",GDB Cap5,
+SYN-035,complex_clause,Concessive same-subject (CONC.IS) and different-subject (CONC.DS),"mjiyaʼpenaʼ adxaʼ kãsekiku","aunque trabaje yo descansaré","{mji-yaʼpe-na adx-aʼ kãse-ø-ki-ku}",GDB Cap5,Specific morpheme forms vary by aspect
+SYN-036,complex_clause,Relative clause = NOM nominaliser -sa on subordinated verb,"uy zxiçxkwesa ahkuk","la mujer que es bonita cocinó","{uy zxiçxkwe-sa ah-ø-ku-ku}",GDB Cap5 Cap6,Adnominal relative
+SYN-037,complex_clause,Nominal relative can function as subject / OD / OI / attribute,"mjisaweʼsx ũʼa ewaʼ","la comida de los que trabajan es buena","{mji-sa-weʼsx ũʼ-a ew-aʼ}",GDB Cap5 Cap6,
+SYN-038,word_class,Predicativity is universal: every lexeme accepts MPN and may predicate,"talxnaʼ","¿es flaco?","{talx-naʼ} Q-3psINTE.PE",GDB Cap4 Cap5,N V VN Q all predicate directly
+SYN-039,clause_type,Word-sentence: a single predicative word constitutes a full clause,"waʼkxku","mordió","{waʼkx-ø-ku} V-AOR-3psASER.PD",GDB Cap5,Subject implicit via MPN
+SYN-040,word_order,Conjunctions/connectors are clause-initial,"vxitkuʼ agxaʼ Liliayakh","y luego yo con Lilia","{vxitku agx-aʼ Lilia-yakh}",GDB Cap5,vxitku = "luego"
+SYN-041,deixis,Distance morphemes -ki- (D1) / -ku- (D2) / -ne- (D3) appear in the predicate complex,"Pekluʼ kãsekiku","Pedro descansó (en mi esfera)","{Peklu-aʼ kãse-ø-ki-ku}",GDB Cap4,Speaker-distance encoding
+SYN-042,deixis,Spatial deictic = base + INE,"aytaʼ","es aquí","{ay-te-aʼ}",GDB Cap6,Compositional
+SYN-043,deixis,3rd person pronoun = distal demonstrative,"txãaʼ ahkuk","él cocinó","{txã-aʼ ah-ø-ku-ku}",GDB Cap6,Atypical for the world's languages
+SYN-044,deixis,Possessive 3sg adds -ji benefactive to disambiguate from demonstrative,"txãji yat","su casa","{txã-ji yat}",GDB Cap6 Tabla14,
+SYN-045,reciprocal,Reciprocal RECI uses prefix yaʼ- + plural agreement,"kweʼsxaʼ yaʼwaʼkxthaʼw","nos mordimos mutuamente","{kweʼsx-aʼ yaʼ-waʼkx-ø-thaʼw}",GDB Cap5,Reflexive and reciprocal share the prefix; number disambiguates
+SYN-046,imperative,Imperative 2sg = -k stem affix,"ahk","¡cocina!","{ah-k}",GDB Cap5,Stem-final allomorphy
+SYN-047,imperative,Imperative 2pl = -weʼ or -kweʼ depending on stem,"ahweʼ","¡cocinen!","{ah-weʼ}",GDB Cap5,
+SYN-048,imperative,Prohibitivo = -me- + IMP marker,"ahmek","¡no cocines!","{ah-me-k}",GDB Cap5,Negation infixes before imperative
+SYN-049,clause_type,Exhortative = -nxa morpheme,"ahnxa","cocinemos","{ah-nxa}",GDB Cap5,1pl inclusive command
+SYN-050,clause_type,Hypothetical = -yaʼ + ku/ka set,"mjiyaʼku","si trabajara","{mji-yaʼ-ku}",GDB Cap5,

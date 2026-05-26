@@ -1,0 +1,38 @@
+# Models (large binary files)
+**/models/
+**/checkpoints/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+pytorch_model*.bin
+
+# Virtual environments
+.venv/
+venv/
+env/
+**/.venv/
+**/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Archives
+*.zip
+*.tgz
+*.tar.gz
+*.tar
+
+# OS
+.DS_Store
+Thumbs.db

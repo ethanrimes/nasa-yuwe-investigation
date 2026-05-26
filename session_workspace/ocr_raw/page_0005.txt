@@ -1,0 +1,99 @@
+<
+
+Library
+
+ABREVIATURAS
+
+ADI - aditivo
+ALA — alativo (locativo)
+
+ANT.DS anterioridad diferente sujeto
+
+ANTIS anterioridad igual sujeto
+AOR — aspecto aoristo
+
+ASER modo asertivo
+
+BEN — benefactivo
+
+Cc conector
+
+CAUS causativo
+
+CM caso morfológico
+
+COL — colectivo
+
+CONC.DS concesivo diferente sujeto
+
+CONC.IS concesivo igual sujeto
+CONF confirmado
+
+CORR corroborativo
+
+D deíctico
+
+DEMI demostrativo cercano
+DEM2 demostrativo lejano
+DES — desiderativo
+
+DIM diminutivo
+
+DIN dinamizador
+
+DUR — aspecto durativo
+DS distinto sujeto
+
+ELA — elativo (locativo)
+ENF — enfático
+
+EXH — exhortativo
+
+EXT — aspecto externo
+FACT factitivo
+
+FIN.G finalidad general
+FIN.E finalidad específica
+FUT futuro
+
+HIP hipotético
+
+IMP imperativo
+
+imperativo plural
+imperfectivo
+incertidumbre
+incitativo
+aspecto incoativo
+inesivo (locativo: genérico o eje
+corporal vertical)
+inesivo (eje corporal horizontal)
+inesivo (eje corporal ligeramente
+inclinado)
+inesivo (eje corporal con fuerte
+pendiente)
+aspecto inminente
+instrumental
+aspecto interno
+modo interrogativo
+igual sujeto
+aspecto iterativo
+lexema verbal
+modo.persona.número
+nominal
+negación
+nominalizador
+objeto (acusativo/dativo)
+objeto plural
+
+n dinámica
+
+prohibitivo
+
+aspecto prospectivo
+cualificativo
+topicalizador
+recíproco
+
+reflexivo
+

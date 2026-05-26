@@ -1,0 +1,64 @@
+Nasa Yuwe materials download summary
+Generated: 2026-05-24T23:24:37.5636401-07:00
+Root: Q:\nasa-yuwe-investigation\nasa_yuwe_materials
+
+Inventory:
+- PDFs in pdfs/: 40
+- PDF total size MB: 52.04
+- Talking dictionary CSV entries: 3934
+- Talking dictionary MP3 files: 1007
+- MP3 total size MB: 74.47
+
+Key metadata files:
+- metadata\download_manifest.csv
+- metadata\harvested_links.txt
+- metadata\candidate_download_links.txt
+- metadata\talking_dictionary_entries_full.csv
+- metadata\talking_dictionary_audio_urls_full.txt
+
+Notes:
+- The Swarthmore Talking Dictionary reports 3,934 entries and 1,002 audio files; both were archived as CSV/audio URLs and MP3 downloads.
+- The UAIIN/CRIC page for NASA YUWETE WE'WNA FXI'JYA PIYACA exposes an embedded PDF path named SIN_DATOS.pdf; the downloaded file is small and should be checked manually against the source page. Alternate guessed file names returned 404.
+- ELAR and some ebook services are recorded as source pages/preview files where full bulk download requires site-specific access or login.
+
+PDF files:
+- Abanate_Kwesx_Knaynxi_Nasa_Yuwe_Armada.pdf (5.21 MB)
+- AmericasNLP_2024_TranslationColombianIndigenous_paper.pdf (0.15 MB)
+- Caracterizacion_NASA_YUWE_Procuraduria.pdf (1.11 MB)
+- CDI_144_Diccionario_Nasa_Yuwe_UAIIN_CRIC.pdf (0.98 MB)
+- Colantropos_pueblo_nasa_escritura.pdf (2.85 MB)
+- Constitucion_de_1991_Nasa_Yuwe_Uniandes.pdf (12.97 MB)
+- CRUZ_EDILMA_DIAZ_Estado_NasaYuwe_Sxisxukwe.pdf (1.05 MB)
+- Dic_Nasa_ling_fi.pdf (0.23 MB)
+- Interprete_contextual_expresiones_Nasa_Yuwe_Dialnet.pdf (5.03 MB)
+- KwesxYuwe_Ambientales_NY.pdf (0.14 MB)
+- KwesxYuwe_Astros_y_Colores_NY.pdf (0.14 MB)
+- KwesxYuwe_Cuerpo_Humano_NY.pdf (0.14 MB)
+- KwesxYuwe_Frutas_y_Verduras_NY.pdf (0.15 MB)
+- KwesxYuwe_Herramientas_NY.pdf (0.15 MB)
+- KwesxYuwe_Hogar_NY.pdf (0.17 MB)
+- KwesxYuwe_Inmuebles_NY.pdf (0.14 MB)
+- KwesxYuwe_Los_alimentos_NY.pdf (0.14 MB)
+- KwesxYuwe_Los_animales_NY_v1.pdf (0.15 MB)
+- KwesxYuwe_Los_animales_NY_v2.pdf (0.15 MB)
+- KwesxYuwe_Los_numeros_NY.pdf (0.17 MB)
+- KwesxYuwe_Medicinales_NY.pdf (0.14 MB)
+- KwesxYuwe_Nombres_NY.pdf (0.17 MB)
+- KwesxYuwe_Parentescos_NY.pdf (0.14 MB)
+- KwesxYuwe_Prendas_y_Saludos_NY.pdf (0.14 MB)
+- KwesxYuwe_Vocabulario_NY_v2.pdf (0.15 MB)
+- KwesxYuwe_Vocabulario_NY.pdf (0.15 MB)
+- La_Alegria_de_Aprender_Nasa_Yuwe_y_Castellano_UNAD.pdf (0.58 MB)
+- La_traduccion_contextual_constitucion_Nasa_Yuwe_Ramos_Pacho.pdf (0.14 MB)
+- LUIS_CAMAYO_Paksxaw_orientacion_pedagogica.pdf (1.99 MB)
+- MARIA_LUCIA_MUSSE_debilitamiento_nasa.pdf (2.36 MB)
+- Martinez_Sierra_Corpus_NasaYuwe_metaheuristic.pdf (0.39 MB)
+- Nasa_Yat_redalyc.pdf (0.5 MB)
+- Nasa_Yuwete_Wewna_Fxijya_Piyaca_UAIIN_CRIC.pdf (0.01 MB)
+- Paez_CaroyCuervo.pdf (3.64 MB)
+- Pitto_Transmision_idioma_nasa.pdf (1.23 MB)
+- Preview_Cultura_escrita_lengua_Nasa_Yuwe.pdf (0.14 MB)
+- Preview_Gramatica_descriptiva_basica_Nasa_Yuwe.pdf (0.32 MB)
+- Rojas_Ramos_Localizacion_NasaYuwe.pdf (0.13 MB)
+- Texto_Institucional_Nasa_Castellano_Nasa_Yuwe_Procuraduria.pdf (7.89 MB)
+- TEXTO_LENGUA_NASAYUWE_Adres.pdf (0.61 MB)

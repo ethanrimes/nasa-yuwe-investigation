@@ -1,0 +1,707 @@
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.                    Rocío del Pilar Nieves Oviedo
+
+                                                                                                                                       Funciones
+
+                                                                                              Se entiende por función sintáctica el papel que cumplen los constituyen-
+                                                                                              tes de la oración dentro de su marco estructural.. Se trata de relaciones que
+                                                                                              contraen entre ellos los elementos presentes en una estructura oracional
+                                                                                              en tanto son componentes de una unidad, que es la oración. Como fun-
+                                                                                              ciones sintácticas del nivel oracional se identifican la función predicativa,
+                                                                                              el sujeto, el complemento u objeto directo, el complemento u objeto indi-
+                                                                                              recto y los complementos circunstanciales —locativo, temporal, sociativo,
+                                                                                              instrumental, etcétera—.
+
+                                                                                                 La función semántica, también llamada papel semántico o rol actan-
+                                                                                              cial, se refiere al papel que cumplen las entidades involucradas en un even-
+                                                                                              to. Hasta ahora no ha sido posible establecer una lista única y definitiva
+                                                                                              de las funciones semánticas, esto se encuentra en elaboración actualmente
+                                                                                              en la teoría lingüística. Sin embargo, se han identificado algunas como las
+                                                                                              más frecuentes: agente —el que hace la acción—, paciente o tema —el que
+                                                                                              recibe los efectos de una acción o es afectado en un determinado evento—,
+                                                                                              destinatario —la tercera entidad involucrada en la matriz actancial básica
+                                                                                              de un evento, entidad a la cual está destinada la acción—, beneficiario
+                                                                                              —entidad en cuyo beneficio se hace una acción—, sociativo o comitati-
+                                                                                              vo —la entidad que acompaña a otra en un evento—, instrumental —el
+                                                                                              objeto o instrumento del cual se vale el agente para hacer una acción—.
+                                                                                              Se consideran también funciones semánticas la localización espacial y
+                                                                                              temporal de un evento.
+
+                                                                                                 En las funciones sintácticas es conveniente distinguir entre argumentos
+                                                                                              y adjuntos. Los primeros son los que el verbo selecciona según su valen-
+                                                                                              cia: el sujeto, el objeto directo y el objeto indirecto. Un verbo de valencia
+                                                                                              1 selecciona un sujeto, sea este agente o paciente; un verbo de valencia 2
+                                                                                              normalmente selecciona un sujeto y un objeto directo; un verbo de valencia
+                                                                                              3 selecciona además un destinatario. Los verbos que se refieren a ubicación
+                                                                                              espacial requieren de una indicación de lugar entre sus argumentos. Las
+                                                                                              otras informaciones que pueden aparecer, pero que no son requeridas por el
+                                                                                              verbo, son los adjuntos: complementos circunstanciales de tiempo, de lugar,
+                                                                                              de compañía, de instrumento, etcétera.
+
+                                                                                                 El constituyente que cumple la función predicativa es el elemento nu-
+                                                                                              clear de la oración y, como se ha planteado, su sola presencia es suficien-
+                                                                                              te para que exista la oración. En adelante se le denominará predicado.
+                                                                                              Tal como se mostró en el capítulo 4, todos los lexemas pueden recibir el
+                                                                                              morfema de la predicación y constituir una palabra predicativa que cumpla
+                                                                                              esta función. Esto sucede igualmente con los morfemas gramaticales libres,
+
+                                                                                                                                                    114
+
+                                                                                del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+                                                                                Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                                                                          Sintaxis
+
+                                                                                  excepto los conectores, con los deícticos espaciales —que se forman con dos
+                                                                                  o tres morfemas— y con el morfema de la negación.
+
+                                                                                     En nasa yuwe hay predicados estativos y dinámicos. Hay predicación con
+                                                                                  aspecto y predicación sin aspecto. Cuando está ausente la categoría grama-
+                                                                                  tical de aspecto, el predicado es siempre estativo. Cuando está presente la
+                                                                                  categoría de aspecto, puede ser estativo o dinámico, dependiendo de la com-
+                                                                                  binatoria de morfemas que contenga la palabra predicativa.
+
+                                                                                     Los predicados sin aspecto pueden tener como núcleo un lexema nomi-
+                                                                                  nal, un lexema verbonominal, un lexema cualificativo o un lexema verbal
+                                                                                  nominalizado. Ejemplos:
+
+                                                                                  Con lexema nominal
+
+                                                                                  nasa’                     “es paez”
+
+                                                                                  {nasa-a’}
+
+                                                                                  //paez-3psASER.PE//
+
+                                                                                  Con lexema verbonominal
+
+                                                                                  kwehnena                  “como que es (un) relámpago”
+
+                                                                                  {kwehne-na}
+
+                                                                                  //relámpago-3psSUS.PE//
+
+                                                                                  Con lexema cualificativo
+
+                                                                                  talxna’                   “¿es flaco?”
+
+                                                                                  {talx-na’}
+
+                                                                                  //flaco-3psINTE.PE//
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  Con lexema verbal nominalizado
+
+                                                                                  kapiyasa’                 “es profesor”
+
+                                                                                  {ka-piya-sa-a’}
+
+                                                                                  //FACT-aprender-NOM-3psASER.PE//
+
+                                                                                     Estos predicados se pueden construir igualmente con gramemas libres:
+                                                                                  demostrativos, deícticos espaciales, deícticos temporales, interrogativos y
+                                                                                  cuantificadores. Ejemplos:
+
+                                                                                  Con demostrativo
+
+                                                                                  na’	                      “es este”
+
+                                                                                  {na-a’}
+
+                                                                                  //DEM1-3psASER.PE//
+
+                                                                                                                           115
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                  Rocío del Pilar Nieves Oviedo
+
+                                                                                  Con deíctico espacial
+
+                                                                                  ayte’                  “es aquí”
+
+                                                                                  {ay-te-a’}
+
+                                                                                  //cerca-INE-3psASER.PE//
+
+                                                                                  Con deíctico temporal
+
+                                                                                  ãçxha’                “es hoy”
+
+                                                                                  {ãçxh-a’}
+
+                                                                                  //hoy-3psASER.PE//
+
+                                                                                  Con interrogativo
+
+                                                                                  kimna’                 “¿quién es?
+
+                                                                                  {kim-na’}
+
+                                                                                  //quién-3psINTE.PE//
+
+                                                                                  Con cuantificador indefinido
+
+                                                                                  jxuka’                 “es todo”
+
+                                                                                  {jxuka-a’}
+
+                                                                                  //todo-3psASER.PE//
+
+                                                                                  Con cuantificador numeral
+
+                                                                                  tekhta                 “son tres”
+
+                                                                                  {tekh-ta}
+
+                                                                                  //tres-3ppASER.PE//
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.     Es también esta la clase de predicado que se construye con el morfema de
+                                                                                  negación como núcleo y que se da como respuesta a alguna pregunta (total
+                                                                                  o absoluta). Ejemplo:
+
+                                                                                  mea’                   “(es) no”
+
+                                                                                  {me-a’}
+
+                                                                                  //NEG-3psASER.PE//
+
+                                                                                     Los predicados con aspecto pueden tener como núcleo un lexema ver-
+                                                                                  bal, un lexema verbonominal, un lexema cualificativo o un lexema nominal
+                                                                                  dinamizado. Ejemplos:
+
+                                                                                  Con lexema verbal      “teje”
+                                                                                         umuk
+
+                                                                                                                      116
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                                                                        Sintaxis
+
+                                                                                  {um-u-ku}
+                                                                                  //tejer-IMPF-3psASER.PD//
+
+                                                                                  Con lexema verbonominal
+
+                                                                                  sekuk                     “hace sol”
+
+                                                                                  {sek-u-ku}
+
+                                                                                  //sol-IMPF-3psASER.PD//
+
+                                                                                  Con lexema cualificativo
+
+                                                                                  lemku                     “amarilleó”
+
+                                                                                  {lem-ø-ku }
+
+                                                                                  //amarillo-AOR-3psASER.PD//
+
+                                                                                  Con lexema nominal dinamizado
+
+                                                                                  kna’sayuuyãk             “ya se hizo señorita”
+
+                                                                                  {kna’sa-yuu-yã-ku}
+
+                                                                                  //jovencita-DIN-EXT-3psASER.PD//
+
+                                                                                     En los ejemplos anteriores se trata de predicados dinámicos. Los predi-
+                                                                                  cados estativos con aspecto se presentan cuando el morfema que precede al
+                                                                                  gramema modopersonal es el de la negación (NEG), el morfema de distan-
+                                                                                  cia lejana (D3) o los aspectos interior (INT), prospectivo (PROS) e inminen-
+                                                                                  te (INM). Ejemplos:
+
+                                                                                  Con la negación
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  wa’kxmea’                 “no muerde”
+
+                                                                                  {wa’kx-ø-me-a’}
+
+                                                                                  //morder-AOR-NEG-3psASER.PE//
+
+                                                                                  Con la distancia lejana
+
+                                                                                  puuçnena                  “como que le dio de comer”
+
+                                                                                  {puuç-ø-ne-na}
+
+                                                                                  //dar de comer-AOR-D3-3psSUS.PE//
+
+                                                                                  Con el aspecto interior
+
+                                                                                  lemuça’                   “se está amarilleando”
+
+                                                                                  {lem-u-ç-a’}
+
+                                                                                  //amarillo-IMPF-INT-3psASER.PE//
+
+                                                                        117
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                  Rocío del Pilar Nieves Oviedo
+
+                                                                                  Con el aspecto prospectivo
+
+                                                                                  weteyãwa’           “se va a caer”
+
+                                                                                  {wete-ø-yãwa-a’}
+
+                                                                                  //caer-AOR-PROS-3psASER.PE//
+
+                                                                                  Con el aspecto inminente
+
+                                                                                  mjiyãwayã’         “ya no más va a trabajar”
+
+                                                                                  {mji-ø-yãwayã-a’}
+
+                                                                                  //trabajar-AOR-INM-3psASER.PE//
+
+                                                                                     Los verbos estativos se combinan con la predicación estativa cuando van
+                                                                                  con el aoristo, lo que da un valor temporal de presente, y con la predicación
+                                                                                  dinámica cuando van con el imperfectivo, lo que da un valor temporal de
+                                                                                  pasado. Ejemplos:
+
+                                                                                  ji’pha’              “tiene”
+
+                                                                                  {ji’ph-ø-a’}
+
+                                                                                  //tener-AOR-3psASER.PE//
+
+                                                                                  ji’phuk              “tuvo”
+
+                                                                                  {ij’ph-u-ku}
+
+                                                                                  //tener-IMPF-3psASER.PD//
+
+                                                                                     Existen también predicados que consisten en un sintagma verbal forma-
+                                                                                  do por un verbo auxiliar (posicional) y un verbo auxiliado. Ejemplos:
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  fxi’nxi ũsa’        “está escrito”
+
+                                                                                  {fxi’-nxi ũs-ø-a’}
+
+                                                                                  //escribir-RES/estar-AOR-3psASER.PE//
+
+                                                                                  pudna u’pa’          “está hilando (sentada)”
+
+                                                                                  {pud-na u’p-ø-a’}
+
+                                                                                  //hilar-DUR/estar-AOR-3psASER.PE//
+
+                                                                                     Para las funciones argumentales se tendrá en cuenta la relación que
+                                                                                  las funciones sintácticas tienen con las funciones semánticas o roles ac-
+                                                                                  tanciales.
+
+                                                                                     La función de sujeto gramatical corresponde al participante al que se le
+                                                                                  da realce mediante su representación en la persona —correspondiente a la
+                                                                                  base de predicación— expresada en el morfema de la predicación. Además
+
+                                                                                                                 118
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                                                                           Sintaxis
+
+                                                                                  de su expresión en la palabra predicativa, se puede explicitar léxicamente
+                                                                                  mediante un nombre, un pronombre o un sintagma nominal; esta explicita-
+                                                                                  ción léxica del sujeto va normalmente acompañada del morfema topicaliza-
+                                                                                  dor {-a’}. Ejemplos:
+
+                                                                                  Peklu’ kãsekik           “Pedro descansó”
+
+                                                                                  {Peklu-a’ kãse-ø-ki-ku}
+
+                                                                                  //Pedro-TOP/descansar-AOR-D1-3psASER.PD//
+
+                                                                                  u’kwe’ mjikith            “yo trabajé”
+
+                                                                                  {u’kwe-a’ mji-ø-ki-thu}
+
+                                                                                  //yo(fem)-TOP/trabajar-AOR-D1-1psASER//
+
+                                                                                  txã misxa’ pebek         “ese gato chilla”
+
+                                                                                  {txã misx-a’ peb-e-ku}
+
+                                                                                  //ese/gato-TOP/chillar-IMPF-3psASER.PD//
+
+                                                                                  atx txitxa’ duha’         “la ruana mojada está pesada”
+
+                                                                                  {atx txitx-a’ duh-a’}
+
+                                                                                  //ruana/mojada-TOP/pesado-3psASER.PE//
+
+                                                                                     El sujeto corresponde al participante único de una predicación atributiva,
+                                                                                  al participante único de un evento monoactancial —acción o proceso71— y
+                                                                                  al participante activo de un evento diactancial —acción-proceso—, es decir,
+                                                                                  el agente semántico. Ejemplos:
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  Predicación atributiva
+
+                                                                                  Mlxia’ zxiçxkwe’          “María es bonita”
+
+                                                                                  {Mlxia-a’ zxiçxkwe-a’}
+
+                                                                                  //María-TOP/bonita-3psASER.PE//
+
+                                                                                  Agente de acción
+                                                                                     txã alku’ vxihkna ũsa’ “ese perro está ladrando”
+                                                                                     {txã alku-a’ vxihk-na ũs-ø-a’}
+                                                                                     //DEM2/perro-TOP/ladrar-DUR/estar-AOR-3psASER.PE//
+
+                                                                                                71 En la acción participa un agente —activo— y en el proceso participa un paciente —pasivo—.
+
+                                                                                                         En el evento diactancial participan tanto un agente como un paciente.
+                                                                                                                                                        119
+
+                                                                                del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+                                                                                Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                  Rocío del Pilar Nieves Oviedo
+
+                                                                                  Paciente de proceso
+
+                                                                                  ape tasxa’ kitek               “la mata de auyama floreció”
+
+                                                                                  {ape tasx-a’ kite-ø-ku}
+
+                                                                                  //auyama/mata-TOP/florecer-AOR-3psASER.PD//
+
+                                                                                  Agente de acción-proceso
+
+                                                                                  alku’ çxida’s teçxik           “el perro lame el pie”
+
+                                                                                  {alku-a’ çxida-a’s teçx-i-ku}
+
+                                                                                  //perro-TOP/pie-OBJ/lamer-IMPF-3psASER.PD//
+
+                                                                                     También, mediante la prefijación del morfema reflexivo, se puede hacer
+                                                                                  una correferencia entre los roles del participante activo y el participante pa-
+                                                                                  sivo de un evento, es decir, una misma entidad cumple las dos funciones
+                                                                                  semánticas. Con este mecanismo, igualmente, puede funcionar como sujeto
+                                                                                  el participante pasivo —paciente semántico— sin que se nombre al partici-
+                                                                                  pante activo —agente semántico—. Ejemplos:
+
+                                                                                  Correferencia de agente y paciente
+
+                                                                                  agxa’ ya’wa’kxkuth             “yo me mordí”
+
+                                                                                  {agx-a’ ya’-wa’kx-ø-ku-thu}
+
+                                                                                  //yo(masc)-TOP/REF-morder-AOR-D2-1psASER//
+
+                                                                                  alku’ ya’teçxik                “el perro se lame (a sí mismo)”
+
+                                                                                  {alku-a’ ya’-teçx-i-ku}
+
+                                                                                  //perro-TOP/REF-lamer-IMPF-3psASER.PD//
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  Paciente como sujeto sin mención del agente
+
+                                                                                  yata’ ya’paduk                 “la casa se barre (alguien la barre)”72
+
+                                                                                  {yat-a’ ya’-pad-u-ku}
+
+                                                                                  //casa-TOP/REF-barrer-IMPF-3psASER.PD//
+
+                                                                                  agxa’ yuyith                   “me dejo pegar (alguien me pega)”
+
+                                                                                  {agx-a’ ya’-uyi-i-thu}
+
+                                                                                  //yo(masc)-TOP/REF-pegar-IMPF-1psASER//
+
+                                                                                     Las funciones de objeto directo y de objeto indirecto aparecen también
+                                                                                  expresadas por palabras nominales, que se refieren a entidades involucra-
+                                                                                  das en los eventos. El directo corresponde al participante pasivo —paciente
+
+                                                                                  72 Esto puede traducirse también por: “se deja barrer”.
+
+                                                                                                                      120
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                                                                               Sintaxis
+
+                                                                                  semántico— en un evento que involucre también a un participante activo,
+                                                                                  siempre y cuando la función de sujeto corresponda a dicho participante
+                                                                                  activo; el objeto directo corresponde al caso acusativo. El indirecto corres-
+                                                                                  ponde al tercer participante involucrado en un evento como destinatario;
+                                                                                  corresponde al caso dativo. La marca morfológica del objeto (acusativo-da-
+                                                                                  tivo) se hace con los sufijos {-a’s}, para el singular, y {-txi’s}, para el plural.
+                                                                                  Ejemplos:
+
+                                                                                  alku’ luucçxa’s wa’kxku        “el perro mordió al niño”
+
+                                                                                  {alku-a’ luuçx-a’s wa’k-ø-ku}
+
+                                                                                  //perro-TOP/niño-OBJ/morder-AOR-3psASER.PD//
+
+                                                                                  klatxi’s yaçkiputha’w          “arreamos las vacas”
+
+                                                                                  {kla-txi’s yaçkipu-ø-tha’w}
+
+                                                                                  //vaca-OBJpl/arrear-AOR-1ppASER//
+
+                                                                                     Cuando en una oración coexisten objeto directo y objeto indirecto, se
+                                                                                  marca el indirecto con el sufijo y el directo queda como no marcado. Ejemplo:
+
+                                                                                  Tmigu’ ya’ja u’kwe’s pesku “Domingo me regaló una mochila”
+                                                                                  {Tmigu-a’ ya’ja u’kwe-a’s pes-ø-ku}
+                                                                                  //Domingo-TOP/mochila/yo(fem)-OBJ/regalar-AOR-3psASER.PD//
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  Silvxina’ kukx tubtxi’s puçuk “Silvina les da maíz a las palomas”
+                                                                                  {Silvxina-a’ kukx tub-txi’s puç-u-ku}
+                                                                                  //Silvina-TOP/maíz/paloma-OBJpl/dar de comer-IMPF-3psASER.PD//
+
+                                                                                     Sucede también con frecuencia que si en la situación comunicativa no
+                                                                                  se hace necesario identificar al objeto directo, este aparece exento de marca
+                                                                                  morfológica. Ejemplo:
+
+                                                                                  luuça’ çxaju ũ’wek            “el niño come piña”
+
+                                                                                  {luuçx-a’ çxaju ũ’-e-ku}
+
+                                                                                  //niño-TOP/piña/comer-IMPF-3psASER.PD//
+
+                                                                                  Rosa’ us kukupxik              “Rosa desgrana los fríjoles”
+
+                                                                                  {Rosa-a’ us kukupx-i-ku}
+
+                                                                                  //Rosa-TOP/fríjol/desgranar-IMPF-3psASER.PD//
+
+                                                                        121
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                  Rocío del Pilar Nieves Oviedo
+
+                                                                                     Además de las funciones sintácticas que expresan los diferentes roles que
+                                                                                  los eventos involucran en su módulo semántico básico, existen también las
+                                                                                  funciones circunstanciales. Se han identificado: locativo espacial, temporal,
+                                                                                  beneficiario, sociativo e instrumental.
+
+                                                                                     El locativo temporal suele ir al principio de la oración, acompañado del
+                                                                                  morfema topicalizador {-a’}. Para el locativo espacial hay un paradigma de
+                                                                                  morfemas de caso: inesivos {-te}, {-ka}, {-su} y {-khe}; alativo {-na}; elativo
+                                                                                  {-ju}. Ejemplos:
+
+                                                                                  kuskaya’ çxhabju u’jeçtha’w        “mañana nos vamos del pueblo”
+
+                                                                                  {kuskay-a’ çxhab-ju		 u’j-e-ç-tha’w}
+
+                                                                                  //mañana-TOP/pueblo-ELA/ir-IMPF-INT-1ppASER//
+
+                                                                                  kusia’73 kabildote ũsuth		        “esta mañana estuve en el Cabildo”
+
+                                                                                  {kusi-a’ kabildo-te ũs-u-thu}
+
+                                                                                  //esta mañana-TOP/cabildo-INE/estar-IMPF-1psASER//
+
+                                                                                     Para las funciones de beneficiario, sociativo e instrumental existen los
+                                                                                  morfemas {-ji}, {-yakh} y {-uh}, respectivamente. Ejemplos:
+
+                                                                                  Beneficiario
+
+                                                                                  Lilia’ ya´ja agxji vxitku          “Lilia hizo una mochila para mí”
+
+                                                                                  {Lilia-a’ ya’ja agx-ji vxit-ø-ku}
+
+                                                                                  //Lilia-TOP/mochila/yo(masc)-BEN/hacer-AOR-3psASER.PD//
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  Mlxia’ atx Selsuji umuça’          “María está tejiendo una ruana para Celso”
+
+                                                                                  {Mlxia-a’ atx Selsu-ji um-u-ç-a’}
+
+                                                                                  //María-TOP/ruana/Celso-BEN/tejer-IMPF-INT-3psASER.PE//
+
+                                                                                  Sociativo
+                                                                                     Selsu’ Silvxinayakh ku’juk “Celso baila con Silvina”
+                                                                                     {Selsu-a’ Silvxina-yakh ku’j-u-ku}
+                                                                                     //Celso-TOP/Silvina-SOC/bailar-IMPF-3psASER.PD//
+
+                                                                                  Klxiana’ khasx pladyakh ũ’k “Julián comió sopa con plátano”
+                                                                                  {Klxian-a’ khasx plad-yakh ũ’-ø-ku}
+                                                                                  //Julián-TOP/sopa/plátano-SOC/comer-AOR-3psASER.PD//
+
+                                                                                  73 La sílaba /si/ es acentuada, por esto aparece la forma larga del morfema TOP.
+                                                                                                                                     122
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                                                                                     Sintaxis
+
+                                                                                  Instrumental
+
+                                                                                  çxiçxa’s çxilxuh wakath          “corté la carne con el cuchillo”
+
+                                                                                  {çxiçx-a’s çxilx-uh waka-ø-thu}
+
+                                                                                  //carne-OBJ/cuchillo-INS/cortar-AOR-1psASER//
+
+                                                                                     Entre las funciones sintácticas y las funciones semánticas no hay una re-
+                                                                                  lación biunívoca, de tal modo que un elemento que cumpla una determina-
+                                                                                  da función semántica puede tener asignadas funciones sintácticas diferen-
+                                                                                  tes, según la manera como se construya la oración. A la inversa, una misma
+                                                                                  función sintáctica puede estar asociada a diferentes funciones semánticas.
+                                                                                  Esta relación que se establece entre los argumentos del verbo y las funciones
+                                                                                  sintácticas que los expresan en la oración, es decir, a cuál de los participantes
+                                                                                  se le da el realce morfosintáctico en tanto se toma como sujeto, es lo que se
+                                                                                  conoce como la voz.
+
+                                                                                     De la relación que se establece entre la función sintáctica de sujeto y las
+                                                                                  funciones semánticas de agente y paciente, se desprende que en nasa yuwe
+                                                                                  hay voz activa y voz media. La voz activa se da cuando el sujeto coincide
+                                                                                  con el agente; en voz activa se construye la gran mayoría de las oraciones
+                                                                                  de la lengua. La voz media aparece cuando el reflexivo se usa para hacer
+                                                                                  funcionar al paciente semántico como sujeto y prescindir de la información
+                                                                                  relacionada con el agente; aquí se le da realce como sujeto a la entidad que es
+                                                                                  afectada por el evento sin que ejerza control sobre él. Ejemplos:
+
+                                                                                  Voz activa
+
+                                                                                  igxa’ klatxi’s yaçkipug          “tú arreaste las vacas”
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  {igx-a’ kla-txi’s yaçkipu-ø-gu}
+
+                                                                                  //tú(masc)-TOP/vaca-OBJpl/arrear-AOR-2psASER//
+
+                                                                                  u’kwe’ misxa’s ukawakxith “empujo a la gata”
+                                                                                  {u’kwe-a’ misx-a’s ukawakx-i-thu}
+                                                                                  //yo(fem)-TOP/gata-OBJ/empujar-IMPF-1psASER//
+
+                                                                                  Voz media
+
+                                                                                  kla’ ya’yaçkiputx                “las vacas se dejaron arrear”
+
+                                                                                  {kla-a’ ya’-yaçkipu-ø-tx}
+
+                                                                                  //vaca-TOP/REF-arrear-AOR-3ppASER.PD//
+
+                                                                                  misxa’ ya’ukawakxik              “la gata se deja empujar”
+
+                                                                                  {misx-a’ ya’-ukawakx-i-ku}
+
+                                                                                  //gata-TOP/REF-empujar-IMPF-3psASER.PD//
+
+                                                                                                                   123
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                  Rocío del Pilar Nieves Oviedo
+
+                                                                                     En las oraciones de voz activa aparece en el morfema modopersonal la
+                                                                                  persona que corresponde al agente semántico: segunda singular y primera
+                                                                                  singular. En las oraciones de voz media aparecen en el morfema modoper-
+                                                                                  sonal la tercera persona plural y la tercera persona del singular, respectiva-
+                                                                                  mente, que corresponden al paciente semántico en cada caso.
+
+                                                                                     Existen también otras funciones que, si bien se expresan a través de me-
+                                                                                  dios y estrategias formales —morfológicas y sintácticas—, corresponden al
+                                                                                  nivel pragmático, en tanto cumplen un papel en relación con la información
+                                                                                  que el hablante transmite al oyente; son las funciones informativas. En nasa
+                                                                                  yuwe se encuentran la topicalización y la focalización.
+
+                                                                                     Mediante la topicalización se toma un constituyente y se lo presenta
+                                                                                  como el tema de lo que se va a hablar. Normalmente está situado al inicio de
+                                                                                  la oración y lleva sufijado el morfema {-a’}. Frecuentemente coincide con el
+                                                                                  sujeto, que no tiene una marca morfológica propia. Los circunstantes tem-
+                                                                                  porales son topicalizados también con frecuencia. Ejemplos:
+
+                                                                                  Topicalización de sujeto
+
+                                                                                  txã jiba’ sena wuwuk          “ese caballo corre mucho”
+
+                                                                                  {txã jiba-a’ sena wuwu-u-ku}
+
+                                                                                  //DEM2/caballo-TOP/mucho/correr-IMPF-3psASER.PD//
+
+                                                                                  tuba’ çxihme’                  “la paloma es blanca”
+
+                                                                                  {tub-a’ çxihme-a’}
+
+                                                                                  //paloma-TOP/blanca-3psASER.PE//
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  Topicalización de circunstante temporal
+
+                                                                                  u’naha’ çxhabte ũsuth         “ayer estuve en el pueblo”
+
+                                                                                  {u’nah-a’ çxhab-te ũs-u-thu}
+
+                                                                                  //ayer-TOP/pueblo-INE/estar-IMPF-1psASER//
+
+                                                                                  igxa’ kuskaya’ mjimenega’ “¿no trabajarás mañana?”
+                                                                                  {igx-a’ kuskay-a’ mji-i-me-ne-ga’}
+                                                                                  //tú(masc)-TOP/mañana-TOP/trabajar-IMP-NEG-D3-2psINTE//
+
+                                                                                     Con la focalización se le otorga un mayor relieve informativo a algún
+                                                                                  constituyente de la oración, que se destaca para informar que se trata de
+                                                                                  ese constituyente y no de otro diferente. El procedimiento formal consiste
+                                                                                  en mover hacia dicho constituyente los morfemas modopersonal y de dis-
+                                                                                  tancia, que quedan así sufijados en el constituyente y no en el predicado.
+                                                                                  Ejemplos:
+
+                                                                                                                 124
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+                                                                                                                                                       Sintaxis
+
+                                                                                  Sin focalización
+
+                                                                                  misxa’ Karlusa’s wa’kxkuk           “el gato mordió a Carlos”
+
+                                                                                  {misx-a’ Karlus-a’s wa’kx-ø-ku-ku}
+
+                                                                                  //gato-TOP/Carlos-OBJ/morder-AOR-D2-3psASER.PD//
+
+                                                                                  Focalización del sujeto
+
+                                                                                  misxkuk Karlusa’s wa’kx             “fue el gato el que mordió a Carlos”
+
+                                                                                  {misx-ku-ku Karlus-a’s wa’kx-ø}
+
+                                                                                  //gato-D2-3psASER.PD/Carlos-OBJ/morder-AOR//
+
+                                                                                  Focalización del objeto
+
+                                                                                  misxa’ Karlusa’skuk wa’kx           “fue a Carlos a quien mordió el gato”
+
+                                                                                  {misx-a’ Karlus-a’s-ku-ku wa’kx-ø}
+
+                                                                                  //gato-TOP/Carlos-OBJ-D2-3psASER.PD/morder-AOR//
+
+                                                                                  Focalización del circunstante espacial
+                                                                                     yattekuk misxa’ Karlusa’s wa’kx
+                                                                                     {yat-te-ku-ku misx-a’ Karlus-a’s wa’kx-ø}
+                                                                                     //casa-INE-D2-3psASER.PD/gato-TOP/Carlos-OBJ/morder-AOR//
+                                                                                     “fue en la casa donde el gato mordió a Carlos”
+
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.  Focalización del circunstante temporal
+                                                                                     saptukuk misxa’ Karlusa’s wa’kx
+                                                                                     {saptu-ku-ku misx-a’ Karlus-a’s wa’kx-ø}
+                                                                                     //sábado-D2-3psASER.PD/gato-TOP/Carlos-OBJ/morder-AOR//
+                                                                                     “fue el sábado cuando el gato mordió a Carlos”
+
+                                                                                  Otros ejemplos:
+
+                                                                                  isath we’we                         “es la verdad lo que yo hablo”
+
+                                                                                  {isa-thu we’w-e}
+
+                                                                                  //verdad-1psASER/hablar-IMPF//
+
+                                                                                  nak uyi                             “fue este el que me pegó”
+
+                                                                                  {na-ku uyi-ø}
+
+                                                                                  //DEM1-3psASER.PD/pegar-AOR//
+
+                                                                                  Selsuyakhthu ku’j                   “fue con Celso con quien bailé”
+
+                                                                                  {Selsu-yakh-thu ku’j-ø}
+
+                                                                                  //Celso-SOC-1psASER/bailar-AOR//
+
+                                                                                                                   125
+
+del, P. R. (2019). Gramática descriptiva básica del nasa yuwe : Lengua indígena colombiana. Programa Editorial Universidad Del Valle.
+Created from upenn-ebooks on 2026-05-25 09:03:02.
+

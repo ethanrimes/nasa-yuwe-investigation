@@ -1,0 +1,60 @@
+SINTAXIS
+el verbo subordinado, y el verbo de la oración subordinante se flexiona con
+las modalidades que corresponden a la inferencia o a la futuridad. Ejemplos:
+
+Liliakwe àçxh pajpaga ukwe wajxkwe weexwecxa nenyun
+
+(lilia-kwe áçxh paj-paga ukwe weexwecxa neny-u-n)
+
+(/Lilia-DIM/hoy/llegar-HIP/yo(fem)/contenta/quedar-IMPF-1psFUT//
+
+“si Liliecita llegara hoy, yo me pondría muy contenta”
+
+mji jiphmepaca çxhabna ujwen
+
+(mji ji ph-me-paça çxhab-na wj-(w)e-n)
+
+(/trabajar/tener-NEG-HIP/pueblo-ALA/ir-IMPF-FUT//
+
+“si no tuviera trabajo me iría al pueblo”
+
+tadxpaça pweesate ewuna “si fuera redonda, sería buena para jugar”
+
+(tadx-paça pweesa-te evv-u-nal
+
+(/redondo-HIP /jugar-INE/bueno-IMPF-3psSUS.PE//
+
+Hay que anotar que la diferencia entre predicación dinàmica y predica-
+ción estativa no incide en el funcionamiento de estos morfemas de IS o DS.
+Ejemplos:
+
+Tmigu nejwesxcxa seena mhikuk
+
+(Tmigu ne jwesx-exa seena mhi-o-ku-kuj
+
+//Domingo/gobernador-REST/mucho/trabajar- AOR-D2-3psASER.PD//
+
+“cuando Domingo era gobernador, trabajaba mucho”
+
+wecxan úste txihxpa ewku kasehe
+
+(vveça-na Ús-te txihxpa ew-ku kaseh-e')
+
+//contento-DUR/estar-INE/todo/bien-3psASER.PD/salir-IMPE//
+
+“cuando estoy contento, todo sale bien”
+
+atx zxicxkwete adx wayu'n “si la ruana es bonita, la compro”
+
+(atx zxiexkwe-te adx vvay-u-n)
+
+//ruana /bonita-DS/yo(masc)/comprar-IMP-1psFUT//
+
+watxkwecxa mjiimena “si es perezoso, no trabaja”
+
+(Watxkwe-cxa mji-i-me-nal
+
+//perezoso-REST/trabajar-IMP-NEG-3psSUS//
+
+* En esta oración el predicado subordinado tiene lexema cualificativo.
+143

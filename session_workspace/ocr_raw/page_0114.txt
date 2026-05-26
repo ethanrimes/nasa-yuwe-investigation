@@ -1,0 +1,49 @@
+<
+
+Library
+
+SINTAXIS
+
+(misx-a' cxiex-as (-0-k)
+//gato-TOP/carne-OBJ/comer-AOR-3psASER.PD//
+
+Salvxiku bekas tugxik — “Salvador toma chicha”
+(Salvxiku-a” beka-a's tugx-i-ku)
+/[Salvador-TOP/chicha-OB]J/tomar-IMPF-3psASER.PD//
+
+Oraciones ditransitivas
+Mlxia cxiex misxa's pucuk “María le da carne al gato”
+(Mixia-a' cxiex misx-a's puc-u-ku)
+//María-TOP/carne/gato-OBJ/dar de comer-IMPF-3psASER.PD//
+
+kapiyasa mem luucxtxis kapiyak — “el profesor enseñó un canto a los niños”
+(ka-piya-sa-2' mem luucx-txis ka-piya-o-ku)
+//FACT-aprender-NOM-TOP/canto/niño-OBJpl/FACT-aprender-AOR-
+3psASER.PD//
+
+En las oraciones transitivas se da el orden sintáctico sujeto-objeto-verbo
+(SOV), que por su gran frecuencia de aparición puede considerarse el orden
+canónico de esta clase de oraciones. Cuando aparecen los dos objetos, se si-
+túan primero el directo y después el indirecto. En general, la tendencia es a
+que el verbo o la palabra predicativa vaya al final de la oración, si bien no se
+trata de un orden rígido; este es, por lo tanto, el orden canónico”.
+
+Las oraciones no declarativas se construyen con los morfemas de la
+modalidad que expresa la interacción directa con un interlocutor. Con las
+oraciones no declarativas el hablante no da cuenta de un estado de cosas ni
+interroga sobre ellas, sino que se dirige a un interlocutor esperando de él un
+determinado comportamiento. El morfema predicativo en este caso expresa
+solamente la modalidad, pero no flexiona para la persona; se entiende que si
+lo que se expresa es la apelación directa a un interlocutor, no es posible hacer
+una variación en cuanto a la categoría gramatical de la persona, y se asume
+que si hay una persona expresada, esta será siempre la segunda.
+
+La estructura de una oración no declarativa consiste en una sola palabra
+—predicativa— que contiene un lexema verbal —también verbonominal o
+cualificativo— más el morfema de modalidad correspondiente; en esta clase
+de oraciones no se explicita el sujeto gramatical. Según el morfema modal que
+interviene, hay semánticamente cuatro tipos de oraciones no declarativas:
+
+7 Se le llama orden canónico al orden no marcado, el que tiene mayor frecuencia de uso, el que
+aparece “por defecto”.
+

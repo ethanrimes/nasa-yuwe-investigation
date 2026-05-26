@@ -1,0 +1,46 @@
+< Library La]
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+sagu jemplus hikutx “dijeron el cuento de la sopa”
+tsagu jemplu-'s hi-o-ku-tx)
+//sopa/cuento-OBJ/decir-AOR-D2-3ppASER.PD//
+
+beka yat “chichería (casa de la chicha)”
+
+beka yatte upta “están en la chichería”
+
+(beka yat-te wp-o-ta)
+
+/Ichicha/casa-INE/estar- AOR-3ppASER.PE//
+
+yuk fxtú ec “hoja de árbol de montaña”
+
+na yu k fxtú eca “esto es (una) hoja de árbol de montaña”
+(na-a yu k fxtú ec-a)
+//esto-TOP/montaña/árbol/hoja-3psASER.PE//
+
+El sintagma puede estar formado por un determinante gramatical, un
+nombre y un cualificativo. Ejemplo:
+
+na yaja wala “esta mochila grande”
+na yaja wala zxicxkwe — “esta mochila grande es bonita”
+(na yaja wala-a' zxicxkwe-a')
+
+//DEM1/mochila/grande-TOP/bonita-3psASER.PE//
+
+O por un determinante gramatical, un nombre (modificador) y otro
+nombre (núcleo). Ejemplo:
+
+na Tmigu nxiisa “esta hija de Domingo”
+na Tmigu nxiisas wedxith “yo quiero a esta hija de Domingo”
+
+(na Tmigu nxiisa-a's wedx-i-thu)
+//DEM1/Domingo/hija-OBJ/querer-IMPF-1psASER//
+
+jez beka mitx “dos ollas de chicha”
+
+jez beka mitxa ústa “hay dos ollas de chicha”
+1jez beka mitxa' ús-0-ta)
+//dos/chicha/olla-TOP/estar- AOR-3ppASER.PE//
+

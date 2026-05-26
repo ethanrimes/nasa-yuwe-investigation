@@ -1,0 +1,71 @@
+ipa,unified_ortho,sil_traditional,category,notes,source
+p,p,p,consonant,bilabial voiceless stop,GDB Cap2
+t,t,t,consonant,apical voiceless stop,GDB Cap2
+ts,ç,ts,consonant,"voiceless affricate; unified uses ç, SIL uses ts or 'c",GDB Cap2 + Rojas 2002
+k,k,k,consonant,velar voiceless stop,GDB Cap2
+pʰ,ph,ph,consonant,aspirated bilabial,GDB Cap2
+tʰ,th,th,consonant,aspirated apical,GDB Cap2
+tsʰ,çh,tsh,consonant,aspirated affricate,GDB Cap2
+kʰ,kh,kh,consonant,aspirated velar,GDB Cap2
+ᵐb,b,mb,consonant,prenasalised bilabial; unified writes single 'b',GDB Cap2
+ⁿd,d,nd,consonant,prenasalised apical; unified writes single 'd',GDB Cap2
+ⁿdz,z,ndz,consonant,prenasalised voiced affricate; unified 'z',GDB Cap2
+ⁿg,g,ng,consonant,prenasalised velar; unified 'g',GDB Cap2
+s,s,s,consonant,apical voiceless fricative,GDB Cap2
+h,j,h or j,consonant,velar fricative; unified writes 'j',GDB Cap2
+m,m,m,consonant,bilabial nasal,GDB Cap2
+n,n,n,consonant,apical nasal,GDB Cap2
+l,l,l,consonant,apical lateral,GDB Cap2
+pʲ,px,p',consonant,"palatalised bilabial; unified uses x suffix, SIL used apostrophe",GDB Cap2 + Rojas 2002
+tʲ,tx,ty or t',consonant,palatalised apical,GDB Cap2
+tsʲ,çx,c'h or ts',consonant,palatalised affricate; **CRITICAL: SIL 'c'h' = unified 'çx'**,GDB Cap2 + Rojas 2002
+kʲ,kx,k' or c',consonant,palatalised velar,GDB Cap2
+pʲʰ,pxh,p'h,consonant,palatalised aspirated bilabial,GDB Cap2
+tʲʰ,txh,t'h,consonant,palatalised aspirated apical,GDB Cap2
+tsʲʰ,çxh,c'h,consonant,palatalised aspirated affricate,GDB Cap2
+kʲʰ,kxh,k'h,consonant,palatalised aspirated velar,GDB Cap2
+ᵐbʲ,bx,mby or b',consonant,palatalised prenasalised bilabial,GDB Cap2
+ⁿdʲ,dx,ndy or d',consonant,palatalised prenasalised apical,GDB Cap2
+ⁿdzʲ,zx,ndzy,consonant,palatalised prenasalised affricate,GDB Cap2
+ⁿgʲ,gx,ngy,consonant,palatalised prenasalised velar,GDB Cap2
+ɸʲ,fx,f',consonant,labial palatalised fricative,GDB Cap2
+sʲ,sx,sh,consonant,**SIL 'sh' = unified 'sx'**,GDB Cap2 + Rojas 2002
+hʲ,jx,jh or sh,consonant,palatalised velar fricative,GDB Cap2
+βʲ,vx,b' or v,consonant,voiced palatalised labial fricative,GDB Cap2
+nʲ,nx,ñ,consonant,**SIL 'ñ' = unified 'nx'**,GDB Cap2 + Rojas 2002
+lʲ,lx,ll,consonant,**SIL 'll' = unified 'lx'**,GDB Cap2 + Rojas 2002
+w,w,w,consonant,labiovelar approximant,GDB Cap2
+j,y,y,consonant,palatal approximant,GDB Cap2
+i,i,i,vowel,close front oral,GDB Cap2
+e,e,e,vowel,mid front oral,GDB Cap2
+a,a,a,vowel,open central oral,GDB Cap2
+u,u,u,vowel,close back oral,GDB Cap2
+iː,ii,ii,vowel,long front close,GDB Cap2
+eː,ee,ee,vowel,long front mid,GDB Cap2
+aː,aa,aa,vowel,long open central,GDB Cap2
+uː,uu,uu,vowel,long back close,GDB Cap2
+iʔ,iʼ,i',vowel,glottalised front close,GDB Cap2
+eʔ,eʼ,e',vowel,glottalised front mid,GDB Cap2
+aʔ,aʼ,a',vowel,glottalised open central,GDB Cap2
+uʔ,uʼ,u',vowel,glottalised back close,GDB Cap2
+ih,ih,ih,vowel,aspirated front close,GDB Cap2
+eh,eh,eh,vowel,aspirated front mid,GDB Cap2
+ah,ah,ah,vowel,aspirated open central,GDB Cap2
+uh,uh,uh,vowel,aspirated back close,GDB Cap2
+ĩ,ĩ,~i or in,vowel,nasal front close; SIL alt 'in',GDB Cap2 + Rojas 2002
+ẽ,ẽ,~e or en,vowel,nasal front mid,GDB Cap2 + Rojas 2002
+ã,ã,~a or an,vowel,nasal open central,GDB Cap2 + Rojas 2002
+ũ,ũ,~u or un,vowel,nasal back close,GDB Cap2 + Rojas 2002
+ĩː,ĩĩ,~ii,vowel,long nasal front close,GDB Cap2
+ẽː,ẽẽ,~ee,vowel,long nasal front mid,GDB Cap2
+ãː,ãã,~aa,vowel,long nasal open central,GDB Cap2
+ũː,ũũ,~uu,vowel,long nasal back close,GDB Cap2
+ĩʔ,ĩʼ,~i',vowel,nasal glottalised front close,GDB Cap2
+ẽʔ,ẽʼ,~e',vowel,nasal glottalised front mid,GDB Cap2
+ãʔ,ãʼ,~a',vowel,nasal glottalised open central,GDB Cap2
+ũʔ,ũʼ,~u',vowel,nasal glottalised back close,GDB Cap2
+ĩh,ĩh,~ih,vowel,nasal aspirated front close,GDB Cap2
+ẽh,ẽh,~eh,vowel,nasal aspirated front mid,GDB Cap2
+ãh,ãh,~ah,vowel,nasal aspirated open central,GDB Cap2
+ũh,ũh,~uh,vowel,nasal aspirated back close,GDB Cap2
+ʔ,ʼ or ',',pseudo-segment,"glottal stop; written 'ʼ' in unified, ''' in SIL/Roman-ASCII",GDB Cap2 + Rojas 2002

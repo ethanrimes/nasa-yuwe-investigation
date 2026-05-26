@@ -1,0 +1,53 @@
+SINTAXIS
+de su expresión en la palabra predicativa, se puede explicitar léxicamente
+mediante un nombre, un pronombre o un sintagma nominal; esta explicita-
+ción léxica del sujeto va normalmente acompañada del morfema topicaliza-
+dor (-a'+. Ejemplos:
+
+Peklu” kásekik “Pedro descanso”
+
+(Peklu-a' kase-0-ki-kuj
+
+//Pedro-TOP/descansar- AOR-D1-3psASER.PD//
+
+wkwe mjikith “yo trabajé”
+
+fu kwe-a mji-o-ki-thu)
+
+//yo(tem)-TOP/trabajar- AOR-D1-1psASER//
+
+txá misxa pebek “ese gato chilla”
+
+(txá misx-a peb-e-kuj
+
+//ese/gato-TOP/chillar-IMPF-3psASER.PD//
+
+atx txitxa duha “la ruana mojada está pesada”
+
+fatx txitx-a duh-a)
+
+//ruana/mojada-TOP/pesado-3psASER.PE//
+
+El sujeto corresponde al participante único de una predicación atributiva,
+al participante único de un evento monoactancial —acción o proceso” — y
+al participante activo de un evento diactancial —acción-proceso—, es decir,
+el agente semántico. Ejemplos:
+Predicación atributiva
+
+Mlxia zxicxkwe “María es bonita”
+
+(Mlxia-a' zxicxkwe-a')
+
+//María-TOP/bonita-3psASER.PE//
+Agente de acción
+
+txá alku vxihkna úsa “ese perro está ladrando”
+
+(txà alku-a' vxihk-na ús-g-a'
+
+//DEM2/perro-TOP/ladrar-DUR/estar- AOR-3psASER.PE//
+7 En la acción participa un agente —activo— y en el proceso participa un paciente —pasivo—.
+
+En el evento diactancial participan tanto un agente como un paciente.
+
+119

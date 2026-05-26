@@ -1,0 +1,54 @@
+<
+
+Library
+
+SINTAXIS
+
+//gato-OBJ/dar de comer-AOR-D2-1psASER/pedir-IMP-INT-NEG-CONC.
+DS//*
+“le di de comer al gato aunque no me estaba pidiendo”
+
+Existen, como se ha dicho, oraciones subordinadas en las que no se ex-
+plicita una relación de igualdad o diferencia entre los sujetos de los dos
+predicados involucrados. En esta clase de oraciones hay un morfema que
+indica que el predicado es subordinado e informa también de lo expresado
+por el predicado subordinado en relación con el predicado principal.
+
+Existen también oraciones con estructura de subordinación en las que no
+aparece el morfema que indica IS o DS, sino otro sufijo que indica igualmen-
+te el estatus de subordinado al predicado que lo tiene, que aparece desprovis-
+to del morfema flexivo modopersonal, y que agrega información semántica.
+
+Entre las oraciones con estructura de subordinación que no indican la
+relación entre los sujetos de las dos oraciones contenidas en dicha estruc-
+tura se encuentran también algunas subordinadas con valor temporal. Los
+morfemas aspectuales (-na) “durativo” y (-nxi)”resultativo” se usan también
+para acompañar predicados subordinados —formas no finitas— que están
+en relación temporal con los predicados subordinantes, en estructuras de
+subordinación en las que no se indica la relación entre los sujetos. El dura-
+tivo expresa un acontecimiento simultáneo; el resultativo, un evento inme-
+diatamente anterior. Ejemplos:
+
+memna umuk “ teje cantando”
+(mem-na um-u-kuj
+/[cantar-DUR/tejer-IMPF-3psASER.PD//
+
+pajna weweth “llego y hablo”:
+(paj-na wew-e-thu)
+/Megar-DUR/hablar-IMPF-1psASER//
+
+Kse pahnxi esuhcxa adxa' wjkuth “apenas llegó José, yo me fui”
+(Kse pah-nxi esuhcexa adx-a' wj-o-ku-thu)
+//José/llegar-RES/enseguida/yo(masc)- TOP/ir-AOR-D2-1psASER//
+
+Nótese que en este ejemplo el predicado subordinado tiene el morfema de la negación y dos
+morfemas flexivos de aspecto, de manera que los morfemas de la subordinación no solo se sufijan
+a los lexemas desnudos.
+
+* Esla traducción dada por un hablante; tal vez sería más literal “hablo al llegar” o, en una forma un
+poco antigua, “en llegando, hablo”.
+
+*% Una traducción más literal podría ser “una vez llegado José, yo me fui”.
+
+141
+

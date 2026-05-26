@@ -1,0 +1,52 @@
+<
+
+Library
+
+EXPRESIÓN DE LA DEÍXIS
+
+Los pronombres personales se acompañan del morfema benefactivo (-ji),
+al igual que los nombres, cuando se predica la posesión; también cuando
+reemplazan el sintagma nominal formado por determinante posesivo más
+nombre. Ejemplo:
+
+atx cxihme wkwej? “la ruana blanca es mía”
+fatx cxihme-a' wkwe-ji-a)
+//Iruana/blanca-TOP/yo(fem)-BEN-3psASER.PE//
+
+na kla agxji” “esta vaca es mía”
+(na kla-a agx-ji-a)
+/lesta-vaca-TOP/yo(masc)-BEN-3psASER.PE//
+
+pisxa Tmiguj? “la oveja es de Domingo”
+
+fpisxa-a Tmigu-ji-a”)
+
+/loveja-TOP/Domingo-BEN-3psASER.PE//
+
+igx atalxa uuk, agxhiwa “tu gallina se murió, la mía también”
+ligx atalx-a uu-0-ku agx-ji-wa)
+//tú(masc)/gallina-TOP/morir-AOR-3psASER.PD/yo(masc)-BEN-ADI//
+
+EL ESPACIO
+
+En relación con la categoría deíctica del espacio, ya se han presentado los
+demostrativos, que la expresan en tanto indican la ubicación de cercanía
+o lejanía que una entidad o una situación tengan en relación con el punto
+de referencia o centro de la deíxis. En nasa yuwe el sistema es de dos gra-
+dos, cercano y lejano, como en muchas otras lenguas: na “cercano”, txá o
+kxá “lejano”.
+
+Dentro de la expresión de esta categoría están también, por supuesto, los
+
+deícticos espaciales, cuyos morfemas constitutivos se han presentado en el
+capítulo de Morfología, dentro de los morfemas gramaticales.
+
+El primero de los tres paradigmas que forman los deícticos espaciales
+contiene cinco morfemas que expresan información sobre la relación exis-
+tente entre la entidad o la situación que se ubica espacialmente y el punto
+de referencia o centro de la deíxis. Estas relaciones pueden ser: horizontal
+(úy-), vertical hacia arriba (kutee-), vertical hacia abajo (khe-), diagonal
+hacia arriba (kaa-) y diagonal hacia abajo (súu-). Estas direcciones co-
+rresponden a ejes o líneas llamadas respectivamente: pesath, kath, kiith,
+kuuth y suth.
+

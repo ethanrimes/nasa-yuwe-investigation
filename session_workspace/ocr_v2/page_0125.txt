@@ -1,0 +1,54 @@
+Rocío DEL PILAR NIEVES OVIEDO
+
+Mixia nxusna upa thakwe nus kihte
+
+(Mixia-d' nxus-na up-a thakwe nus kih-te)
+
+//María-TOP/triste-DUR/estar-3psASER.PE/demasiado/lluvia/llegar-INE//
+
+“María está triste cuando llueve mucho”
+
+Por último, entre las oraciones subordinadas, se presentan las relati-
+vas. La estrategia formal de la lengua para formar relativas es la nomi-
+nalización. Se incluyen como relativas en nasa yuwe tanto las oraciones
+que ocupan ellas solas una posición nominal, que cumplen una función
+argumental en la oración principal, como las que se encuentran incluidas
+dentro de un constituyente nominal, que funcionan como modificadores.
+Las primeras se llaman relativas nominales o libres; las que están incluidas
+en un sintagma nominal constituyente de la oración principal se llaman
+relativas adnominales.*
+
+Las dos clases de oraciones relativas se forman sufijándole al predicado
+subordinado el morfema (-saj, que funciona como nominalizador de las ba-
+ses verbales y cualificativas, a las que vuelve aptas para cumplir funciones
+argumentales.
+
+Estas construcciones de lexemas verbales nominalizados, que constituyen
+las relativas nominales, pueden ocupar distintas posiciones argumentales,
+tales como sujeto gramatical (explícito), complemento directo, complemento
+indirecto y atributo. Ejemplos:
+
+En función de sujeto
+
+mjisawe'sx à ipa katx “los que trabajaron recibieron comida”
+
+(mhi-sa-wesx Ú' ipaka-o-txi)
+
+//trabajar-NOM-COL/comida/recibir- AOR-3pp ASER.PD//
+
+nasa yuwes wewesa' nasa” “el que habla lengua paez es paez”
+
+(nasa yuwe-as wew-e-sa-d' nasa-a')
+
+//paez-idioma-OB]J/hablar-NOM-TOP/paez-3psASER.PE//
+
+En función de complemento directo
+
+bahç wakasatxis uyuga “¿ves a los que cortan cabuya?”
+
+(bahç wakasa-txi's uy-u-ga”)
+
+//cabuya/cortar-NOM-OBJ(pl)/ver-IMPEF-2psINTE//
+
+* Véase, por ejemplo, Crystal (2000: 487) o Creissels (1997).
+144

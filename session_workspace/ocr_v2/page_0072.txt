@@ -1,0 +1,31 @@
+Rocío DEL PILAR NIEVES OVIEDO
+posible establecer una regla. Hay, sin embargo, una regularidad: cuando la
+raíz verbal termina en una consonante palatalizada, el imperfectivo toma la
+forma del fonema vocálico /i/. Ejemplos:
+Con raíces verbales
+umku “tejió”
+fum-o-kuj
+//tejer-AOR-3psASER.PD//
+umuk “teje”
+fum-u-kuj
+(/tejer-IMPF-3psASER.PD//
+ve vgu “hablaste”
+(Wwew-o-guj
+//hablar- AOR-2psASER//
+weweg “hablas”
+(Wwew-e-guj
+//hablar-IMPF-2psASER//
+umutka “yo estoy tejiendo?”
+fum-u-tkaj
+(/tejer-IMPF-1psINTE//
+Con raíces verbonominales
+memuth “vo canto"
+(mem-u-thul
+(/cantar-IMPF-1psASER//
+pudgu “(tú) hilaste”
+(pud-o-gu)
+//hilar-AOR-2psASER//
+wakxik  “(éloella) muerde
+(wa kx-i-ku)
+//morder-IMPF-3psASER.PD//
+92

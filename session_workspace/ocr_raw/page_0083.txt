@@ -1,0 +1,45 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+Mlixayakh wewgu “hablaste con María”
+(Mixia-yakh wew-o-guj)
+//María-SOC/hablar- AOR-2psASER//
+
+Selsu Klatxis yackipuk — “Celso arreó las vacas”
+(Selsu-a” kla-txi's yackipu-o-ku)
+//Celso-TOP/vaca.OB]pl/arrear- AOR-3psASER.PD//
+
+Con lexemas verbonominales
+kwetuh pekwek “golpeó con la piedra”
+fkwet-uh pekwe-o-ku)
+/Ipiedra-INS/golpear- AOR-3psASER.PD//
+
+kite wetek “la flor se cayó”
+(kite-a wete-o-ku)
+//flor-TOP/caer-AOR-3psASER.PD//
+
+bekas tugxthu “tomé chicha”
+fbeka-a's tugx-9-thu)
+//chicha-OBJ/tomar-AOR-1psASER//
+
+Con lexemas verbales
+mjisa's thegthu “vial trabajador”
+(mji-sa-a's theg-o-thu)
+/Itrabajar-NOM-OBJ/ver-AOR-1psASER//
+
+umsayakh wewgu “hablaste con la tejedora”
+fum-sa-yakh wew-o-gu)
+/Itejer-NOM-SOC/hablar-AOR-2psASER//
+
+Con lexemas cualificativos
+nxiisxsa' wetek “el gordo se cayó”
+(nxiisx-sa-a wete-9-ku)
+//g0rdo-NOM-TOP/caer-AOR-3psASER.PD//
+
+walxsas yaja pesku “(ella) regaló una mochila al perezoso”
+(wWalx-sa-as yaja pes-0-ku)
+//perezoso-NOM-OBJ/mochila/regalar- AOR-3psASER.PD//
+

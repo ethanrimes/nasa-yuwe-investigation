@@ -1,0 +1,47 @@
+<
+
+Library
+
+MORFOSINTAXIS
+
+El nominativo no tiene una marca morfológica propia, se identifica por-
+que aparece al inicio de la oración y suele ir acompañado por el morfema
+topicalizador (-a?). El morfema de “objeto” corresponde a acusativo y dativo;
+el morfema funciona como indicador de acusativo cuando solo aparece un
+objeto y como indicador de dativo cuando aparecen dos, caso en el que el
+objeto directo no lleva marca morfológica alguna. Nótese que, si bien en la
+lengua no hay una flexión obligatoria de número en el nombre, que distinga
+entre singular y plural, en la marca de objeto sí se establece dicha diferencia.
+El benefactivo indica que una entidad tiene o le está destinada una posesión.
+El sociativo indica que un participante acompaña al agente a realizar la ac-
+ción. El instrumental señala el instrumento que usa el agente para llevar a
+cabo una determinada acción. Los locativos indican una localización espa-
+cial de un hecho o una entidad. Hay cuatro morfemas con valor de inesivo
+(“en”), uno con valor de alativo (a, hacia”) y uno con valor de elativo (“de,
+desde”). Los cuatro morfemas con valor de inesivo informan adicionalmen-
+te sobre el eje corporal de la entidad situada espacialmente; el morfema (-te)
+funciona también con valor genérico cuando no se quiere dar la informa-
+ción específica o si ella es irrelevante.
+
+Los morfemas de caso se combinan directamente con lexemas nominales
+y verbonominales; los lexemas verbales y cualificativos necesitan de un pro-
+ceso de derivación (transcategorial) para recibirlos. Ejemplos:
+
+Con lexemas nominales
+Kse misxas thegku “José vio al gato”
+(Kse-a misx-as theg-o-ku)
+//José-TOP/gato-OBJ/ver-AOR-3psASER.PD//
+
+yuzuh umku “tejió con la aguja”
+(yuz-uh um-0-ku)
+/laguja-INS/tejer- AOR-3psASER.PD//
+
+yatte usta “están en la casa”
+(yat-te us-ta)
+/[casa-INE/estar-3ppASER.PE//
+
+yatju yuha “viene de la casa”
+
+(yat-ju yuh-a)
+//casa-ELA/venir-3psASER.PE//
+

@@ -1,0 +1,43 @@
+< Library La]
+
+SINTAXIS
+
+semántico— en un evento que involucre también a un participante activo,
+siempre y cuando la función de sujeto corresponda a dicho participante
+activo; el objeto directo corresponde al caso acusativo. El indirecto corres-
+ponde al tercer participante involucrado en un evento como destinatario;
+corresponde al caso dativo. La marca morfológica del objeto (acusativo-da-
+tivo) se hace con los sufijos (-a's), para el singular, y (-txi's), para el plural.
+Ejemplos:
+
+alku luucexas wa'kxku “el perro mordió al niño”
+(alku-a luugx-a's wa'k-o-kuj
+/Iperro-TOP/niño-OBJ/morder-AOR-3psASER.PD//
+
+klatxi's yackiputhew “arreamos las vacas”
+(kla-txis yackipu-o-thawj
+/[vaca-OB]pl/arrear- AOR-1ppASER//
+
+Cuando en una oración coexisten objeto directo y objeto indirecto, se
+marca el indirecto con el sufijo y el directo queda como no marcado. Ejemplo:
+
+Tmigu yaja u'kwe's pesku “Domingo me regaló una mochila”
+(Tmigu-a yaja u'kwe-as pes-o-kuj
+//Domingo-TOP/mochila/yo(fem)-OBJ/regalar- AOR-3psASER.PD//
+
+Silvxina kukx tubtxis pucuk — “Silvina les da maíz a las palomas”
+(Silvxina-a kukx tub-txis puc-u-kujy
+//Silvina-TOP/maiz/paloma-OBJpl/dar de comer-IMPF-3psASER.PD//
+
+Sucede también con frecuencia que si en la situación comunicativa no
+se hace necesario identificar al objeto directo, este aparece exento de marca
+morfológica. Ejemplo:
+
+luuga cxaju ú'wek “el niño come piña”
+(luuex-a' cxaju 4 -e-ku)
+/Iniño-TOP/piña/comer-IMPF-3psASER.PD//
+
+Rosa us kukupxik “Rosa desgrana los frijoles”
+(Rosa-a' us kukupx-i-kuj
+/[Rosa-TOP/fríjo]/desgranar-IMPF-3psASER.PD//
+

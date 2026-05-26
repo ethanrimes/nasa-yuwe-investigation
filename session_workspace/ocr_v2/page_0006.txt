@@ -1,0 +1,9 @@
+RES — aspecto resultativo VOL — volitivo
+
+REST restrictivo 1ps primera persona del singular
+SIMI — similativo Ipp primera persona del plural
+SOC sociativo 2ps segunda persona del singular
+SUS — modo suspensivo 2pp segunda persona del plural
+TOP — topicalizador 3ps tercera persona del singular
+V verbo 3pp tercera persona del plural
+VN verbonominal

@@ -1,0 +1,47 @@
+<
+
+Library
+
+SINTAXIS
+
+fum-u-kuj)
+/Itejer-IMPF-3psASER.PD//
+
+Con lexema verbonominal
+sekuk “hace sol”
+
+(sek-u-ku)
+//so]-IMPF-3psASER.PD//
+
+Con lexema cualificativo
+lemku “amarilleo”
+(lem-o-ku y
+//amarillo- AOR-3psASER.PD//
+
+Con lexema nominal dinamizado
+knasayuuyak “ya se hizo señorita”
+(knasa-yuu-ya-ku)
+/Ijovencita-DIN-EXT-3psASER.PD//
+
+En los ejemplos anteriores se trata de predicados dinámicos. Los predi-
+cados estativos con aspecto se presentan cuando el morfema que precede al
+
+gramema modopersonal es el de la negación (NEG), el morfema de distan-
+cia lejana (D3) o los aspectos interior (INT), prospectivo (PROS) e inminen-
+te (INM). Ejemplos:
+
+Con la negación
+wakxmea “no muerde”
+(wa kx-0-me-a')
+//morder-AOR-NEG-3psASER.PE//
+
+Con la distancia lejana
+puucnena “como que le dio de comer”
+(puuc-o-ne-na)
+//dar de comer-AOR-D3-3psSUS.PE//
+
+Con el aspecto interior
+lemuca “se está amarilleando”
+(lem-u-c-2)
+//amarillo-IMPF-INT-3psASER.PE//
+

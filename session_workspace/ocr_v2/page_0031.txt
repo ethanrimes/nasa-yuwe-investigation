@@ -1,0 +1,50 @@
+FONOLOGÍA
+
+kw kwet “piedra”
+pt pta “melancólico”
+pk p'ki- “prestar”
+ps p'su- “maltratar”
+kt kite “all?”
+kn kna'sa “jovencita”
+
+ah cc »
+sp spet - cortar
+sk skuk “trigo”
+sw swe"de- “traspasar”
+sj sjun “mora”
+hw hwe"dz “machete antiguo”
+hj hja"- “terminar”
+Pt pra “palo”
+bn bnes “hollín”
+sp spi:pi “pavo, bimbo”
+
+. >
+sh sha"d7- “tocar”
+mt mte “¿dónde?”
+h CC 1 . »”»
+
+nm nme último
+mh mhi- “trabajar”
+nh nhi* “madre (de otra persona)”
+
+Se ha encontrado una restricción en la distribución del rasgo de nasalidad
+entre vocales y consonantes en el ámbito de la sílaba: nunca se encuentran
+vocales fonológicamente nasales junto a consonantes prenasalizadas dentro
+de la misma sílaba. Es decir que si la vocal nuclear es nasal, la consonante
+que la acompañe como margen de la misma sílaba no será prenasalizada.
+Sin embargo, se da a veces una asimilación del rasgo de la nasalidad, en tan-
+to algunas consonantes, como las aproximantes, que fonológicamente son
+orales, toman el rasgo de nasalidad de la vocal nasal que las siga. Ejemplo:
+/we'/ — [we] - [we] “tabaco” y “/jús/ — [jús] — [nús] “triste”.
+
+Se puede agregar información acerca de los grupos consonánticos que se
+dan en préstamos del español. Cuando se trata de palabras trisilábicas, estas
+se adaptan como bisilábicas y, al perderse una vocal, se forma un grupo con-
+sonántico. Algunos ejemplos:
+
+kp kpun “jabón”
+km kmisa “camisa”
+kn kneja “banano” (guineo)
+sp spatu “zapato”
+st stela “estera”
+51

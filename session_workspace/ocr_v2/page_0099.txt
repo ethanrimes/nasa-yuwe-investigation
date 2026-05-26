@@ -1,0 +1,58 @@
+Rocío DEL PILAR NIEVES OVIEDO
+Paciente de proceso
+
+ape tasxa kitek “la mata de auyama floreció”
+
+(ape tasx-a kite-o-ku)
+
+//auyama/mata-TOP/florecer- AOR-3psASER.PD//
+
+Agente de acción-proceso
+
+alku cxidas tecxik “el perro lame el pie”
+
+falku-a' cxida-a's tecx-i-kuj
+
+//perro-TOP/pie-OBJ/lamer-IMPF-3psASER.PD//
+
+También, mediante la prefijación del morfema reflexivo, se puede hacer
+una correferencia entre los roles del participante activo y el participante pa-
+sivo de un evento, es decir, una misma entidad cumple las dos funciones
+semánticas. Con este mecanismo, igualmente, puede funcionar como sujeto
+el participante pasivo —paciente semántico— sin que se nombre al partici-
+pante activo —agente semántico—. Ejemplos:
+
+Correferencia de agente y paciente
+
+agxa ya wa kxkuth “yo me mord?”
+
+fagx-a ya -wakx-o-ku-thuj
+
+(/yo(masc)-TOP/REF-morder-AOR-D2-1psASER//
+
+alku yatecxik “el perro se lame (a sí mismo)”
+
+(alku-a' ya -tecx-i-ku)
+
+//perro-TOP/REF-lamer-IMPF-3psASER.PD//
+
+Paciente como sujeto sin mención del agente
+
+yata ya paduk “la casa se barre (alguien la barre)”
+
+(yat-a' ya -pad-u-kuj
+
+(/casa-TOP/REF-barrer-IMPF-3psASER.PD//
+
+agxa yuyith “me dejo pegar (alguien me pega)”
+
+(agx-a ya -uyi-i-thuj
+
+//yo(masc)-TOP/REF-pegar-IMPE-1psASER//
+
+Las funciones de objeto directo y de objeto indirecto aparecen también
+expresadas por palabras nominales, que se refieren a entidades involucra-
+das en los eventos. El directo corresponde al participante pasivo —paciente
+7 Esto puede traducirse también por: “se deja barrer”.
+
+120

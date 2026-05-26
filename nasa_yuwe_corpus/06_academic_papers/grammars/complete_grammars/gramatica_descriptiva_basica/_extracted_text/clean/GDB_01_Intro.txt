@@ -1,0 +1,147 @@
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.                   Universidad del Valle
+Programa Editorial
+Título: Gramática descriptiva básica del nasa yuwe:
+Lengua indígena colombiana
+Autora: Rocío del Pilar Nieves Oviedo
+ISBN: 978-958-765-950-4
+ISBN PDF: 978-958-765-951-1
+DOI: 10.25100/peu.319
+Colección: Artes y Humanidades-Lingüística
+Primera edición
+Rector de la Universidad del Valle: Édgar Varela Barrios
+Vicerrector de Investigaciones: Jaime R. Cantera Kintz
+Director del Programa Editorial: Omar J. Díaz Saldaña
+© Universidad del Valle
+© Rocío del Pilar Nieves Oviedo
+Diseño de carátula y diagramación: Hugo H. Ordóñez Nievas
+Corrección de estilo: Luz Stella Grisales Herrera
+_______
+Este libro, o parte de él, no puede ser reproducido por ningún medio
+sin autorización escrita de la Universidad del Valle.
+El contenido de esta obra corresponde al derecho de expresión
+del autor y no compromete el pensamiento institucional de la
+Universidad del Valle, ni genera responsabilidad frente a terceros.
+El autor es el responsable del respeto a los derechos de autor y
+del material contenido en la publicación, razón por la cual la
+Universidad no puede asumir ninguna responsabilidad en caso de
+omisiones o errores.
+Cali, Colombia, abril de 2019
+del, Pilar, Rocío. Gramática Descriptiva Básica Del Nasa Yuwe : Lengua Indígena Colombiana, Programa Editorial Universidad Del Valle, 2019.
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+Created from upenn-ebooks on 2026-05-25 09:00:26.
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.                                                 PRÓLOGO
+Para mí representa mucha alegría y un honor escribir estas breves palabras
+de presentación de este libro de mi amiga y colega Rocío Nieves, que cons-
+tituye un trabajo maduro, producto de 30 años de dedicación obstinada y
+entusiasta, y que posee múltiples cualidades que voy a intentar resumir aquí.
+Hay que resaltar que la autora recoge de manera sistemática principal-
+mente propuestas de análisis propias, mostrando a la vez un conocimiento
+del trabajo que han realizado sus colegas lingüistas que se han dedicado al
+estudio del nasa yuwe, de modo que el lector está ante un texto que incor-
+pora también resultados de otros trabajos, señalándolos debidamente, para
+ampliar la comprensión del funcionamiento de la gramática de esta lengua
+(y de algunas de sus variedades dialectales) en sus diferentes niveles.
+Es acertada la decisión de escoger unas categorías de análisis de amplia
+difusión entre descriptivistas y tipólogos, ya que esto facilita la inteligibili-
+dad con fines comparatistas. Poder contar con trabajos descriptivos bien he-
+chos es fundamental para la tipología lingüística, que intenta identificar las
+posibilidades y los límites del lenguaje como facultad humana, comparando
+las estructuras de la mayor cantidad posible de lenguas diversas. Como se
+ha observado muchas veces, “typology will only be as good as the langua-
+ge-particular descriptions it can draw on” (Plank, 2007: 47)1. Esta gramática
+básica del nasa yuwe constituye en este sentido un excelente aporte, como
+se podrá constatar a través de su lectura. No menos importantes son las
+gramáticas básicas realizadas con rigor, claridad y coherencia, como la que
+el lector encuentra en el presente trabajo, para su aplicación posterior al di-
+seño de materiales de enseñanza de calidad (como lengua materna y como
+segunda lengua).
+1 La tipología solo será tan buena como las descripciones particulares de las lenguas en las que se
+basa (traducción nuestra).
+del, Pilar, Rocío. Gramática Descriptiva Básica Del Nasa Yuwe : Lengua Indígena Colombiana, Programa Editorial Universidad Del Valle, 2019.
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+Created from upenn-ebooks on 2026-05-25 09:00:26.
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.                 Describir los principales rasgos gramaticales del nasa yuwe, desde su fo-
+nología hasta su sintaxis (incluyendo oraciones compuestas y complejas)
+representa un desafío grande, ya que se trata de una lengua altamente codi-
+ficada a nivel morfosintáctico, lo que quiere decir que están gramaticaliza-
+das muchas posibilidades de diferenciación formal, como lo evidencian las
+relaciones espaciales (marcadas morfológicamente en diferentes clases de
+palabras, en las que se distingue entre cinco ejes que remiten a la relación
+entre el centro deíctico y el referente, así como entre cuatro posibles postu-
+ras del eje corporal de lo referenciado con respecto al horizonte, entre otras),
+las múltiples flexiones verbales (el verbo puede llegar a tener hasta nueve
+paradigmas de morfemas ligados a la raíz), el complejo sistema temporal,
+que se desprende de la combinación de categorías modo-aspectuales con la
+clasificación de los verbos en dinámicos y estativos, así como con marcas de
+distancia, para no dar sino algunos ejemplos. Si la lectura del texto requiere
+de un alto grado de concentración es debido a la significativa complejidad
+morfosintáctica del nasa yuwe y no a la oscuridad del texto, que es un ejem-
+plo de sistematicidad y claridad en la exposición, gracias a la definición no
+ambigua de las categorías de análisis usadas, a la generosa ejemplificación
+que ayuda enormemente a entender lo propuesto y a la impecable redacción.
+Ojalá no fuera necesario insistir en la importancia de este tipo de publi-
+caciones, es decir, de gramáticas básicas de calidad o de trabajos puntuales
+sobre aspectos de la estructura de alguna de las más de 65 lenguas indígenas
+habladas en el país (o de las dos lenguas criollas, o de la Lengua de Señas
+Colombiana), que hacen parte del patrimonio cultural. Pero ante el escaso
+número de trabajos de este tipo, y ante el alarmante peligro de desaparición
+en el que se encuentran la mayoría de ellas, cobra aún más importancia el
+poder contar con buenos textos que recojan los principales rasgos de sus
+arquitecturas. Son pocas las lenguas indígenas colombianas que cuentan con
+estudios que van más allá de su sistema fonológico. El nasa yuwe tiene la
+fortuna de tener entre sus estudiosos a lingüistas nasa, hablantes nativos de
+la lengua que analizan, y a otros externos a la comunidad, como Rocío, que
+se complementan para armar el complejo rompecabezas de su estructura.
+Marianne Dieck
+Universidad de Antioquia
+8
+del, Pilar, Rocío. Gramática Descriptiva Básica Del Nasa Yuwe : Lengua Indígena Colombiana, Programa Editorial Universidad Del Valle, 2019.
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+Created from upenn-ebooks on 2026-05-25 09:00:26.
+                                                                                                  CONTENIDO
+PRESENTACIÓN                 11
+SÍMBOLOS Y CONVENCIONES      14
+ABREVIATURAS                 15
+Capítulo 1
+GENERALIDADES
+El pueblo nasa               17
+La lengua                    20
+Sobre esta gramática         24
+Capítulo 2
+FONOLOGÍA                    27
+Fonemas vocálicos            40
+La sílaba                    48
+Morfofonología               52
+Ortografía normalizada       54
+Capítulo 3
+MORFOLOGÍA
+El morfema                   57
+Procedimientos morfológicos  67
+La palabra                   76
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+                                                                                  Capítulo 4
+MORFOSINTAXIS
+La predicación                            81
+Clases de palabras                        88
+Capítulo 5
+SINTAXIS                                  113
+Funciones                                 114
+La oración                                126
+Capítulo 6
+EXPRESIÓN DE LA DEÍXIS                    147
+La persona                                148
+El espacio                                149
+El tiempo                                 156
+GLOSARIO
+Términos correspondientes a conceptos
+de fonología y de fonética articulatoria  169
+ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.

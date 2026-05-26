@@ -1,0 +1,46 @@
+Rocío DEL PILAR NIEVES OVIEDO
+misxas theguth “veo al gato”
+(misx-a's theng-u-thul
+//gato-OBJ/ver-IMPE-1psASER//
+
+En este ejemplo se encuentra en el nombre el morfema de caso acusati-
+vo-dativo (glosado como “objeto”) y en el verbo, el morfema de aspecto im-
+perfectivo más el morfema que amalgama las categorías de modo, persona
+y número.
+
+La derivación
+
+El procedimiento de derivación se presenta cuando se añade un afijo a una
+raíz léxica para formar con ella una nueva palabra. Se ha encontrado que en
+nasa yuwe la derivación puede darse tanto con prefijos como con sufijos; la
+derivación en el ámbito verbal se da mayoritariamente por prefijos y en el
+ámbito nominal, por sufijos.
+
+Ejemplos de derivación:
+
+alkukwe “perrito”
+falku-kwej
+
+//perro-DIM//
+
+luuexwesx “niños”
+(luuçx-vesxt
+
+//niño-COL//
+
+En el primer ejemplo, el nombre ha recibido el morfema de diminutivo y
+en el segundo, el colectivo, ambos sufijos derivativos.
+
+kapiyak “(él o ella) enseñó”
+(ka-piya-o-kuj
+//FACT-aprender-AOR-3psASER//
+
+Agregando a la raíz del verbo piya- (“aprender”) el prefijo factitivo, se
+obtiene el verbo kapiya-, que significa “enseñar” es decir que “enseñar” es
+“hacer aprender”.
+
+puutxwedxitx “(ellos) se quieren (uno al otro)”
+(puutx-wedx-i-tx)
+//RECI-querer-IMPF-3ppASER//
+
+68

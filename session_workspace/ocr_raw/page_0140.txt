@@ -1,0 +1,49 @@
+< Library La]
+
+EXPRESIÓN DE LA DEÍXIS
+
+Ejemplo:
+
+umukik “(él o ella) tejía”
+fum-u-ki-kuj
+/Itejer-IMPF-D1-3psASER.PD//
+
+wpune “estaba (en un tiempo muy lejano)”
+fup-u-ne-a)
+/[estar-IMPF-D3-3psASER.PE//
+
+memkuth “canté (hace varios días)”
+(mem-9-ku-thu)
+//cantar-AOR-D2-1psASER//
+
+umne “tejió (pasado muy lejano)”
+fum-o0-ne-a')
+/Itejer-AOR-D3-3psASER.PE//
+
+Para la combinación de los lexemas verbales con los morfemas del para-
+digma no obligatorio de aspecto, hay que tener en cuenta que los morfemas
+de aspecto externo (-yá-), prospectivo [-yáwa-) e inminente [-yáwaya-) se
+combinan siempre con el aoristo, mientras que los morfemas de aspecto in-
+terno (-6-) e incoativo (-eyá-) lo hacen con el imperfectivo.
+
+Cuando los lexemas verbales se combinan con los morfemas aspectuales
+prospectivo e inminente, resultan valores temporales de futuro, dado que la
+indicación aspectual corresponde a acontecimientos que no han sucedido.
+Si adicionalmente aparece un morfema de distancia cercana o media, esta
+distancia temporal se interpreta también hacia el futuro. Ejemplo:
+
+umyáwath “voya tejer”
+fum-o-yáwa-thu)
+/Itejer-AOR-PROS-1psASER//
+
+umyáwayáth “ya no más voy a tejer”
+fum-o-yawayá-thu)
+//tejer-AOR-INM-1psASER//
+
+memyáwakig “vas a cantar (pronto)”
+(mem-o-yawa-ki-gu)
+
+//cantar-AOR-PROS-D1-2psASER//
+
+159
+

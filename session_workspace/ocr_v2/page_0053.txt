@@ -1,0 +1,42 @@
+MORFOLOGÍA
+Morfemas de organización de la información
+
+Existen en nasa yuwe varios morfemas gramaticales ligados que ejercen
+su función en la organización que se hace de la información en una estruc-
+tura oracional. Ellos son:
+
+a) topicalizador (TOP)
+
+(yu) enfático (ENF)
+
+(-i-) corroborativo (CORR)
+
+faç-) conector consecutivo (“entonces”)
+(-pçel o Í-çel confirmativo (CONF)
+
+El topicalizador f-a't suele acompañar al nominal que explicita léxi-
+camente al sujeto de la oración, que se sitúa normalmente al inicio, así
+como a circunstantes de lugar o tiempo que encabezan la oración; estos
+elementos así marcados morfológicamente se presentan como tópico o
+tema de lo que se va a hablar. El topicalizador (-a') también acompaña al
+conector (ac-). El enfático [-yuw ) va también sufijado a un nominal al que
+se le quiere dar un cierto realce como constituyente de la oración. El co-
+rroborativo (-i-) acompaña a un nominal cuando se quiere establecer que
+sí es el elemento del cual se predica algo. El confirmativo (-pçel o [-ce) se
+agrega a un predicado flexionado para confirmar lo que se está diciendo.
+Ejemplos:
+
+misxa pebek “el gato chilló”
+ímisx-a' pebe-o-kuj
+//gato-TOP/chillar- AOR-3psASER.PD//
+kuskaya Cxidakun wjecthaw “mañana vamos para Chindaco”
+(kuskay-a”/Cxidaku-na wj-e-c-thaw)
+//mañana-TOP/Chindaco-ALA/ir-IMPF-INT-1ppASER//
+aca e kxha pcune “entonces la leña se acabó”
+faç-a' ekxh-a” pçu-o-ne-a')
+//entonces- TOP/leña-TOP/acabar- AOR-D3-3psASER.PE//
+klaik “sí es vaca”
+(kla-i-kuj)
+//vaca-CORR-3psASER.PD//
+
+73

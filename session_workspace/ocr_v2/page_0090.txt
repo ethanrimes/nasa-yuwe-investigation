@@ -1,0 +1,46 @@
+MORFOSINTAXIS
+claramente en la tercera persona: la predicación dinámica y la predicación
+estativa.
+
+En cuanto a los lexemas de la lengua, los lexemas nominales tienden a ser
+núcleo de palabras predicativas nominales, mientras los verbales lo son de
+palabras predicativas verbales. Los lexemas de «vocación doble» —verbono-
+minales y cualificativos— pueden funcionar indistintamente con una u otra
+clase de palabras predicativas. Siempre es posible tomar un lexema nominal
+y dinamizarlo —verbalizarlo— para que pueda funcionar como núcleo de
+palabra predicativa verbal, así como nominalizar un lexema verbal para que
+pueda ser núcleo de palabra predicativa nominal.
+
+Cuando se trata de formar las palabras nominales no predicativas, es decir,
+cuando el nombre está en función actancial, los lexemas verbales y los cuali-
+ficativos necesitan el sufijo derivativo transpositor que los nominaliza, mien-
+tras los lexemas nominales y verbonominales pueden hacerlo directamente.
+
+Como se hace evidente, entonces, este criterio de predicatividad tiene un
+papel central en la clasificación de las palabras de la lengua.
+
+El nasa yuwe combina características de lengua flexiva, tanto en el ám-
+bito de lo nominal como de lo verbal, y de lengua aglutinante, sobre todo
+en la palabra verbal. Presenta declinación del nombre y reúne en el verbo
+paradigmas en los que se expresan las categorías de persona, número, mo-
+dalidad y aspecto. Entonces, está presente el procedimiento morfológico de
+la flexión tanto en el nombre como en el verbo. La tendencia aglutinante en
+el verbo se da en tanto la palabra verbal puede estar constituida hasta por
+ocho o diez morfemas.
+
+A continuación se presenta un resumen de lo expuesto en relación con
+las clases de palabras, su calidad de predicativas o no y la manera como se
+construyen en cada caso.
+
+VERBO. Es siempre predicativo. Predica acciones, procesos o estados.
+
+Tabla 10. Formación del verbo
+V + aspecto + MPN
+VN + aspecto + MPN
+Q + aspecto + MPN
+N + yuu + aspecto + MPN
+
+NOMBRE. Puede ser predicativo o no. Predica identidad o propiedad.
+
+Como no predicativo cumple funciones actanciales.
+111

@@ -1,0 +1,10 @@
+Si hablas español y te gustaría ayudar aquí, en la Wikipedia en Paez, ¡Eres bienvenido! Tal vez sepas poco o nada de [[Wp/pbb/Nasa Yuwe|Nasa Yuwe]]. Entonces, tan solo tienes que entrar a las páginas [[Wp/pbb/Wikipedia:Pu'chni/Español|Ayuda en Español]].
+
+Recuerda que esta enciclopedia es, más que nada, para los hablantes de Nasa Yuwe. Es un instrumento para comunicar saberes y para la difusión y conservación de un idioma que, intentamos revitalizar y dar la importancia que merece, a pesar de la escasez tanto de libros como de páginas en la web en lengua paez. Escribiendo en esta enciclopedia, se contribuye a la preservación de la diversidad cultural de Venezuela y de Colombia.
+
+==Tareas urgentes==
+[[Image:Note.svg|right|57px]]</div>
+*Traducir la lista de artículos que toda Wikipedia debería tener. Sería útil, para la primera fase de la enciclopedia, que dejes el significado en español al lado de tu traducción.
+*La interfaz tiene que terminar de ser traducida al Nasa yuwe: Para ayudar con esta tarea, está la página [http://translatewiki.net/wiki/Portal:Pbb TranslateWiki] en la cual debes crear una cuenta para ir traduciendo los mensajes que falten. 
+*Necesitamos hablante nativos dispuestos a ayudar creando y corrigiendo contenido.
+[[Category:Wp/pbb]]

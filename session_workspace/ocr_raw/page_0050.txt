@@ -1,0 +1,49 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+nxacxa “yuca no más”
+(nxa-cxa)
+/yuca-REST/
+
+En el léxico de parentesco, la lengua distingue si el nombre del parien-
+te mencionado es el del hablante o el de otra persona. En unos casos esta
+distinción se hace léxicamente, es decir, con palabras diferentes, como es el
+caso de las palabras para “padre”: tata, si es el padre de quien habla, y ney,
+si es el padre de otra persona, o las palabras para “madre”: mama, si es del
+hablante, y nxji, si es de otra persona. Pero en otros casos la distinción se
+hace agregando un prefijo al nombre del pariente cuando es el de una per-
+sona distinta del hablante: (n-). Algunos ejemplos: kahka “tío materno” (del
+hablante) y nkahka “tío materno” (de otra persona); cuwa “cuñado/a (de
+distinto sexo)” del hablante, neuwa “cuñado/cuñada (de distinto sexo)” de
+otra persona; ciza “cuñado/a” (de igual sexo)” del hablante, nciza “cuñado/a
+(de igual sexo)” de otra persona. Puede decirse que este prefijo funciona
+como un morfema derivativo específico para los nombres de parentesco.
+
+Morfemas derivativos del verbo
+Son morfemas derivativos del ámbito verbal:
+
+tka-) “factitivo” (EACT)
+tya”-) “reflexivo” (REF)
+(puutx-) o (puukx-) — “recíproco” (RECD)*
+
+Estos prefijos derivativos establecen operaciones en relación con los roles
+actanciales del verbo y en esa medida modifican la valencia verbal“. El fac-
+titivo aumenta un participante, que funciona como instigador para que otro
+haga la acción. El reflexivo establece una correferencia entre el agente y el
+paciente semánticos. El recíproco establece que la acción la realizan simul-
+táneamente el agente y el paciente, es decir que cada participante es agente
+de su accionar y paciente del accionar del otro. Ejemplos:
+
+kapiya- “enseñar”
+tka-piya-)
+/FACT-aprender-/
+
+* Este morfema puede aparecer también como forma libre.
+
+* La valencia verbal se refiere al número de participantes que tiene un verbo según el evento que
+
+expresa.
+

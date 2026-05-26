@@ -1,0 +1,49 @@
+MORFOLOGÍA
+
+Un morfema léxico más un morfema gramatical. Ejemplo: wy-thu “soy
+mujer” lem-a “es amarillo”.
+
+Dos morfemas gramaticales. Ejemplo: Rim-na “¿quién es?”, na-a' “es este”.
+
+Dos morfemas léxicos y un morfema gramatical. Ejemplo: ipx-kwet-a”
+“es (un) fogón”, yu -wala-te “en el río”.
+
+Un morfema léxico y varios morfemas gramaticales. Ejemplo: ka-sus-
+yawa-ki-ku “no lo va a hacer sonar”, lem-u-ç-a “se está amarilleando”.
+Clases de palabras
+Desde el punto de vista morfológico, las palabras del nasa yuwe se dividen
+en flexionadas y no flexionadas. Desde el punto de vista sintáctico, es decir,
+teniendo en cuenta su funcionamiento en una estructura oracional, las pa-
+labras pueden ser predicativas y no predicativas. Entre las no predicativas se
+encuentran algunas flexionadas, los nombres que llevan el morfema de caso,
+que cumplen en la oración funciones argumentales o circunstanciales y no
+la función predicativa.
+
+Una palabra flexionada puede estar constituida por una base más una fle-
+xión; el orden de estos dos constituyentes puede variar. La base puede estar
+constituida por un lexema, por dos lexemas o por un lexema más un mor-
+fema derivativo. La flexión puede estar formada por uno o varios morfemas
+flexivos. Las palabras no flexionadas carecen de morfemas flexivos.
+
+A excepción de los conectores, todas las palabras del nasa yuwe pueden ser
+predicativas. Por la estrecha relación que tiene la construcción de las diferentes
+clases de palabras con la predicación, dichas clases se tratarán detalladamente
+en el próximo capítulo. Entonces, se hace aquí una presentación general.
+
+Las palabras que tienen flexión modopersonal son predicativas y cum-
+plen por lo tanto la función sintáctica de núcleo predicativo de la oración.
+Como raíz de estas palabras pueden encontrarse lexemas de las cuatro clases
+—nominales, verbales, verbonominales y cualificativos— o algunos grame-
+mas: deícticos personales, espaciales y temporales, cuantificadores, interro-
+gativos y el morfema de la negación.
+
+Ejemplos de palabra predicativa con lexema como núcleo:
+
+dehg “dormiste”
+1 deh-o-gu +
+//dormir-AOR-2psASER//
+uyth “soy mujer”
+(uy-thuj
+//mujer-1psASER//
+
+77

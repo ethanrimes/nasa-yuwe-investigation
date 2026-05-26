@@ -1,0 +1,44 @@
+< Library La]
+
+SINTAXIS
+
+Sin focalización
+misxa' Karlusas wa'kxkuk “el gato mordió a Carlos”
+(misx-a Karlus-as wa kx-9-ku-ku)
+/Igato-TOP/Carlos-OBJ/morder-AOR-D2-3psASER.PD//
+
+Focalización del sujeto
+misxkuk Karlusas wa'kx “fue el gato el que mordió a Carlos”
+(misx-ku-ku Karlus-as wa'kx-o)
+/Igato-D2-3psASER.PD/Carlos-OBJ/morder-AOR//
+
+Focalización del objeto
+misxa' Karlusaskuk wa'kx “fue a Carlos a quien mordió el gato”
+(misx-a Karlus-a's-ku-ku wa'kx-9)
+//gato-TOP/Carlos-OBJ-D2-3psASER.PD/morder-AOR//
+
+Focalización del circunstante espacial
+yattekuk misxa' Karlusas wa'kx
+(yat-te-ku-ku misx-a' Karlus-a's wa'kx-o)
+/[casa-INE-D2-3psASER.PD/gato- TOP/Carlos-OBJ/morder-AOR//
+“fue en la casa donde el gato mordió a Carlos”
+
+Focalización del circunstante temporal
+saptukuk misxa” Karlusas wa'kx
+(saptu-ku-ku misx-a” Karlus-as wa'kx-9)
+//sábado-D2-3psASER.PD/gato-TOP/Carlos-OBJ/morder- AOR//
+“fue el sábado cuando el gato mordió a Carlos”
+
+Otros ejemplos:
+isath wewe “es la verdad lo que yo hablo”
+fisa-thu wew-e)
+/Iverdad-1psASER/hablar-IMPE//
+
+nak uyi “fue este el que me pegó”
+(na-ku uyi-o)
+//DEM]1-3psASER.PD/pegar-AOR//
+
+Selsuyakhthu kuj “fue con Celso con quien baile”
+(Selsu-yakh-thu kwj-9)
+//Celso-SOC-1psASER/bailar- AOR//
+

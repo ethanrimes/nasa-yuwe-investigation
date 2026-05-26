@@ -1,0 +1,42 @@
+MORFOLOGÍA
+directamente con los procedimientos morfológicos flexión y derivación,
+respectivamente.
+
+Para relacionar los morfemas ligados flexivos y derivativos, se presentan
+a continuación los procedimientos morfológicos bàsicos encontrados en la
+lengua: flexión, derivación y composición. Posteriormente, se relacionan los
+otros morfemas gramaticales ligados.
+
+PROCEDIMIENTOS MORFOLÓGICOS
+A continuación se presentan los procedimientos morfológicos encontrados
+en la lengua, a saber: flexión, derivación y composición. El procedimiento
+de la flexión se presenta en términos generales, ya que se describirá deta-
+lladamente en el capítulo de Morfosintaxis. Posteriormente se describe la
+constitución de las palabras y sus clases básicas.
+La flexión
+Se entiende aquí la flexión como el procedimiento de formación de pala-
+bras mediante el cual se agrega a una raíz (0 a una base formada por dos
+raíces o por una raíz más un afijo derivativo) información proveniente
+de categorías gramaticales; este procedimiento tiene implicaciones en las
+relaciones sintácticas que se establecen entre las palabras. En nasa yuwe
+se presenta el procedimiento de la flexión tanto en el ámbito nominal
+como en el verbal. En el ámbito nominal, existen morfemas de caso mor-
+fológico, para establecer la función que dicho nominal cumple en una es-
+tructura oracional. En el ámbito verbal, los morfemas flexivos se encargan
+de expresar la información correspondiente a las categorías de persona,
+número, modalidad, aspecto y distancia nocional o temporal. La mayoría
+de los morfemas flexivos son sufijos, aunque se encuentran también algu-
+nos prefijos.
+
+Ejemplos de flexión:
+
+yatte dehk “durmió en la casa”
+(yat-te deh-o-Ru)
+//casa-INE/dormir- AOR-3psASER//
+
+Como puede verse, hay un morfema de caso locativo (inesivo: “en”) que
+acompaña al nombre y con el verbo, un morfema que expresa la categoría
+del aspecto (aoristo, en este caso) y un morfema que expresa la tercera per-
+sona del singular en la modalidad asertiva.
+
+67

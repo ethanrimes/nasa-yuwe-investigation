@@ -1,0 +1,48 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+Orales breves
+* El fonema /i/ se realiza anterior cerrado no redondeado en todos los
+contextos.
+/i/ —> [i] Ejemplo: /ime/ — [ime] “excremento”
+/kiwe/ — [kiwe] “tierra”
+/"bite/ — ["bite] “pintado, de colores”
+/kutsi/ — [kutfi] “cerdo”
+
+El fonema /e/ tiene dos alófonos: anterior semiabierto no redondeado
+[e] en alternancia con anterior medio no redondeado [e]* en sílaba
+acentuada y anterior medio no redondeado [e] en los demás contextos.
+/el — [e] - [E]/síl. acent. Ejemplo: /"'wne/ — ["wne] - [Pune] lengua”
+/etse?/ — [etse?] - [etse?] “hace frío”
+[e]/d.c. /ets/ — [ets] “hoja”
+/mem/ — [mem] “canción, canto”
+/kite/ > [Kite] “flor”
+El fonema /a/ se realiza abierto central en todos los contextos”.
+/a/ — [a] Ejemplo: /ape/ — [ape] “auyama”
+/wala/ — [wala] “grande, mucho”
+/atsja/ — [atfa] “caliente”
+
+El fonema /u/ tiene dos alófonos en variación libre: uno cerrado pos-
+terior redondeado [u] y uno semicerrado posterior redondeado [o].
+/u/ — [u] - [0] Ejemplo: /us/ — [us] - [os] “frijol”
+/kus/ > [kus] - [kos] “noche”
+/alku/ > [alku] — [alko] “perro”
+
+Los fonemas vocálicos nasales: /1/, /€/ y /á/ se realizan respectivamente
+cerrado anterior no redondeado nasal [1], medio anterior no redon-
+deado nasal [E] y abierto central nasal [á] en todos los contextos.
+
+/i/ > [1] Ejemplo: /il/ > [il] “laguna”
+
+/€/ — [e] Ejemplo: /ésekwe/ — [Esekwe] “liviano”
+/péts/ — [pétf] “cuello”
+
+* Se toma el símbolo fonético correspondiente al sonido vocálico anterior semicerrado no
+
+redondeado ante la inexistencia en el AFI de un símbolo para el sonido de abertura media.
+* Enla región de Caldono, este fonema tiene un alófono casi-abierto [2e], que aparece delante de [[].
+Ejemplo: /ftatas/ — [ftútaf] “árbol”
+

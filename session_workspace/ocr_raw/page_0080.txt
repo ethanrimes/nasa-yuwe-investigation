@@ -1,0 +1,46 @@
+< Library La]
+
+MORFOSINTAXIS
+
+me-a “no está”
+(me-a)
+/INEG-3psASER.PE//
+
+Cuando aparece el morfema de negación sin que haya un morfema de
+distancia, es decir que queda contiguo al morfema modopersonal, e inde-
+pendientemente de lo que se tenga en la zona aspectual, se combina siempre
+con la predicación estativa.
+
+Base verbal + aspecto + NEG + PE um-9-me-(a) um-u-me-(a)
+
+Cuando el morfema de la negación se combina con el morfema de dis-
+tancia cercana [-ki-), se entiende como una negación provisional; cuando
+se combina con el morfema de distancia mediana (-ku-), dicha negación se
+entiende como definitiva. Ejemplos:
+
+mjiyawamekith “no voy a trabajar (ahora, pero sí más tarde)”
+(mji-0-yáwa-me-ki-thu)
+/Itrabajar-AOR-PROS-NEG-D1-1psASER//
+
+mjiyawamekuth “no voy a trabajar (definitivamente)”
+(mji-0-yáwa-me-ku-thu)
+/Itrabajar-AOR-PROS-NEG-D2-1psASER//
+
+Se recuerda que los lexemas verbales pueden ir acompañados de los mor-
+femas derivativos (ya-) “reflexivo” (ka-) “factitivo” y (puutx-) o (puukx-)
+“recíproco”; estos morfemas modifican la valencia del verbo.
+
+La totalidad de los morfemas que pueden ir en la palabra predicativa ver-
+bal es:
+
+(REF) + (FACT) + raíz + (modalidad opcional) + aspecto + (aspecto) +
+(NEG) + (D) + MPN + (modalidad suplementaria)“.
+
+Y la fórmula mínima de la palabra verbal en la construcción sintética es:
+
+Base + Aspecto (paradigma obligatorio) + MPN
+
+“Se escriben entre paréntesis los paradigmas que no son obligatorios.
+
+99
+

@@ -1,0 +1,35 @@
+Rocío DEL PILAR NIEVES OVIEDO
+kitek “floreció”
+(kite-0-ku)
+//flor-AOR-3psASER.PE//
+talxthu “soy flaco”
+(talx-thut
+(/flaco- IpsASER//
+
+Ejemplos de palabra predicativa con gramema como núcleo:
+
+agxthu “soy yo”
+(agx-thuj
+//yo(masc)-1psASER//
+na “es este”
+ina-a
+//este-3psASER.PE//
+jxuka “es todo”
+(jxuka-a')
+//todo-3psASER.PE//
+teecxa “es uno”
+[teecx-a')
+//uno-3psASER.PE//
+kimka “¿quién es?”
+(kim-kaj
+//quién-3psINTE.PD//
+acxha “es hoy”
+(açxh-a'l
+//hoy-3psASER.PE//
+
+Palabras no predicativas son las que no tienen el morfema modoper-
+sonal. Se encuentran en este grupo los nombres en funciones actancia-
+les o circunstanciales”, los deícticos espaciales y temporales en funciones
+** Se refiere a las funciones de sujeto y complementos.
+
+78

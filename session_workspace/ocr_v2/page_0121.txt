@@ -1,0 +1,59 @@
+Rocío DEL PILAR NIEVES OVIEDO
+
+Las oraciones subordinadas causales se marcan con el sufijo (-pa Ral.
+Con estas oraciones, el evento expresado por el predicado subordinado se
+presenta como la causa del otro evento. Ejemplos:
+
+wejxa atxtxi's kazx vxitpa ka Mlxia thetku
+
+(Wejxa atx-txis kazx vxit-pa ka Mlia-a' thet-o-Ru)
+
+//viento/ropa-OBJ/feo/hacer-CAUS/María/lavar- AOR-3psASER.PD//
+
+“María lavó la ropa porque el viento la ensució”
+
+unah yuweemekuth nus kihn úspa'Ra
+
+fu'nah yuw-e-c-me-ku-thu nus kih-na ús-pa'kaj
+
+//ayer/venir-IMP-INT-NEG-D2-1 ps ASER/lluvia/caer-DUR/estar-CAUS//
+
+“ayer no vine porque estaba lloviendo”
+
+yat zxiexkwepa Ra wedxith “me gusta la casa porque es bonita”
+
+(yat zxiexkwe-pa ka wedx-i-thuj
+
+//casa/bonita-CAUS/gustar-IMPF-1psASER//
+
+Las subordinadas finales llevan sufijado al predicado subordinado o
+bien el morfema Í-vvalY (FIN.G), que indica una finalidad general, o bien
+el morfema (-kanj (FIN.E), que expresa una finalidad específica. El evento
+presentado en el predicado subordinado constituye la finalidad del evento
+presentado por el predicado subordinante. Ejemplos:
+
+Kse kutxhas jxaawku txajx luuextxi's sájiwa
+
+(kse-a kutx-as jaaw-o-ku txajx luuçx-txis sáji-waj
+
+//José- TOP/maíz-OBJ/cosechar- AOR-3psASER.PD/sus/hijos-OBJ/co-
+
+mer-FIN.G//
+
+José cosechó el maíz para dar de comer a sus hijos”
+
+MIixia'ustxis ahku adx kan
+
+(Mixia-a us-txis ah-o-Xu ú -Rant
+
+//María-TOP/frijol-OBJpl/cocinar-AOR-3psASER.PD/yo(masc)/comer-
+
+FIN.E//
+
+“María cocinó los fríjoles para que yo comiera”
+
+Las subordinadas hipotéticas se refieren a eventos o estados que serían
+ciertos si otros eventos o estados lo fueran. Se marcan con el sufijo (-paca) en
+*% Puede ser también (-pa), según la variante regional.
+
+142

@@ -1,0 +1,11 @@
+[
+  {
+    "label": "Nasa Without Letters 1.3B",
+    "n": 381,
+    "elapsed_s": 2287.0,
+    "spa_to_tgt_bleu": 1.7902203694121424,
+    "spa_to_tgt_chrf": 15.244407210318139,
+    "tgt_to_spa_bleu": 2.944038605182887,
+    "tgt_to_spa_chrf": 14.603476909801246
+  }
+]

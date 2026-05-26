@@ -1,0 +1,70 @@
+ipa,orthography,class,place,manner,voicing,palatalised,nasal,aspirated,prenasalised,length,phonation,dialect_notes,source
+p,p,consonant,labial,stop,voiceless,no,no,no,no,,,present in all dialects,GDB Cap2 Tabla1
+t,t,consonant,apical,stop,voiceless,no,no,no,no,,,present in all dialects,GDB Cap2 Tabla1
+ts,ç,consonant,palatoalveolar,affricate,voiceless,no,no,no,no,,,"grouped with stops but phonetically africate",GDB Cap2 Tabla1
+k,k,consonant,posterior,stop,voiceless,no,no,no,no,,,present in all dialects,GDB Cap2 Tabla1
+pʰ,ph,consonant,labial,stop,voiceless,no,no,yes,no,,,present in all dialects,GDB Cap2 Tabla1
+tʰ,th,consonant,apical,stop,voiceless,no,no,yes,no,,,present in all dialects,GDB Cap2 Tabla1
+tsʰ,çh,consonant,palatoalveolar,affricate,voiceless,no,no,yes,no,,,present in all dialects,GDB Cap2 Tabla1
+kʰ,kh,consonant,posterior,stop,voiceless,no,no,yes,no,,,present in all dialects,GDB Cap2 Tabla1
+ᵐb,b,consonant,labial,stop,voiced,no,no,no,yes,,,present in all dialects,GDB Cap2 Tabla1
+ⁿd,d,consonant,apical,stop,voiced,no,no,no,yes,,,present in all dialects,GDB Cap2 Tabla1
+ⁿdz,z,consonant,palatoalveolar,affricate,voiced,no,no,no,yes,,,present in all dialects,GDB Cap2 Tabla1
+ⁿg,g,consonant,posterior,stop,voiced,no,no,no,yes,,,present in all dialects,GDB Cap2 Tabla1
+pʲ,px,consonant,labial,stop,voiceless,yes,no,no,no,,,"missing in Munchique-Tigres reduced inventories",GDB Cap2 Tabla1
+tʲ,tx,consonant,apical,stop,voiceless,yes,no,no,no,,,present in most dialects,GDB Cap2 Tabla1
+tsʲ,çx,consonant,palatoalveolar,affricate,voiceless,yes,no,no,no,,,present in most dialects,GDB Cap2 Tabla1
+kʲ,kx,consonant,posterior,stop,voiceless,yes,no,no,no,,,present in most dialects,GDB Cap2 Tabla1
+pʲʰ,pxh,consonant,labial,stop,voiceless,yes,no,yes,no,,,"may be absent in reduced inventories",GDB Cap2 Tabla1
+tʲʰ,txh,consonant,apical,stop,voiceless,yes,no,yes,no,,,"may be absent in reduced inventories",GDB Cap2 Tabla1
+tsʲʰ,çxh,consonant,palatoalveolar,affricate,voiceless,yes,no,yes,no,,,"may be absent in reduced inventories",GDB Cap2 Tabla1
+kʲʰ,kxh,consonant,posterior,stop,voiceless,yes,no,yes,no,,,"may be absent in reduced inventories",GDB Cap2 Tabla1
+ᵐbʲ,bx,consonant,labial,stop,voiced,yes,no,no,yes,,,present in most dialects,GDB Cap2 Tabla1
+ⁿdʲ,dx,consonant,apical,stop,voiced,yes,no,no,yes,,,present in most dialects,GDB Cap2 Tabla1
+ⁿdzʲ,zx,consonant,palatoalveolar,affricate,voiced,yes,no,no,yes,,,present in most dialects,GDB Cap2 Tabla1
+ⁿgʲ,gx,consonant,posterior,stop,voiced,yes,no,no,yes,,,present in most dialects,GDB Cap2 Tabla1
+s,s,consonant,apical,fricative,voiceless,no,no,no,no,,,present in all dialects,GDB Cap2 Tabla1
+h,j,consonant,posterior,fricative,voiceless,no,no,no,no,,,orthographic j; present in all dialects,GDB Cap2 Tabla1
+sʲ,sx,consonant,apical,fricative,voiceless,yes,no,no,no,,,present in most dialects,GDB Cap2 Tabla1
+hʲ,jx,consonant,posterior,fricative,voiceless,yes,no,no,no,,,present in most dialects,GDB Cap2 Tabla1
+ɸʲ,fx,consonant,labial,fricative,voiceless,yes,no,no,no,,,labial palatalised fricative,GDB Cap2 Tabla1
+βʲ,vx,consonant,labial,fricative,voiced,yes,no,no,no,,,only voiced fricative,GDB Cap2 Tabla1
+m,m,consonant,labial,nasal,voiced,no,yes,no,no,,,present in all dialects,GDB Cap2 Tabla1
+n,n,consonant,apical,nasal,voiced,no,yes,no,no,,,present in all dialects,GDB Cap2 Tabla1
+nʲ,nx,consonant,apical,nasal,voiced,yes,yes,no,no,,,palatal nasal,GDB Cap2 Tabla1
+l,l,consonant,apical,lateral,voiced,no,no,no,no,,,present in all dialects,GDB Cap2 Tabla1
+lʲ,lx,consonant,apical,lateral,voiced,yes,no,no,no,,,palatal lateral,GDB Cap2 Tabla1
+w,w,consonant,labiovelar,approximant,voiced,no,no,no,no,,,labiovelar approximant,GDB Cap2 Tabla1
+j,y,consonant,palatoalveolar,approximant,voiced,no,no,no,no,,,palatal approximant,GDB Cap2 Tabla1
+i,i,vowel,front,close,voiced,,no,no,no,short,oral,4-vowel core system,GDB Cap2 Tabla2
+e,e,vowel,front,mid,voiced,,no,no,no,short,oral,4-vowel core system,GDB Cap2 Tabla2
+a,a,vowel,central,open,voiced,,no,no,no,short,oral,4-vowel core system,GDB Cap2 Tabla2
+u,u,vowel,back,close,voiced,,no,no,no,short,oral,4-vowel core system,GDB Cap2 Tabla2
+iː,ii,vowel,front,close,voiced,,no,no,no,long,oral,absent in Toribío,GDB Cap2 Tabla2
+eː,ee,vowel,front,mid,voiced,,no,no,no,long,oral,absent in Toribío,GDB Cap2 Tabla2
+aː,aa,vowel,central,open,voiced,,no,no,no,long,oral,absent in Toribío,GDB Cap2 Tabla2
+uː,uu,vowel,back,close,voiced,,no,no,no,long,oral,absent in Toribío,GDB Cap2 Tabla2
+iʔ,iʼ,vowel,front,close,voiced,,no,no,no,short,glottalised,glotalizada/interrupta,GDB Cap2 Tabla2
+eʔ,eʼ,vowel,front,mid,voiced,,no,no,no,short,glottalised,glotalizada/interrupta,GDB Cap2 Tabla2
+aʔ,aʼ,vowel,central,open,voiced,,no,no,no,short,glottalised,glotalizada/interrupta,GDB Cap2 Tabla2
+uʔ,uʼ,vowel,back,close,voiced,,no,no,no,short,glottalised,glotalizada/interrupta,GDB Cap2 Tabla2
+ih,ih,vowel,front,close,voiceless,,no,yes,no,short,aspirated,aspirada,GDB Cap2 Tabla2
+eh,eh,vowel,front,mid,voiceless,,no,yes,no,short,aspirated,aspirada,GDB Cap2 Tabla2
+ah,ah,vowel,central,open,voiceless,,no,yes,no,short,aspirated,aspirada,GDB Cap2 Tabla2
+uh,uh,vowel,back,close,voiceless,,no,yes,no,short,aspirated,aspirada,GDB Cap2 Tabla2
+ĩ,ĩ,vowel,front,close,voiced,,yes,no,no,short,nasal,nasal breve,GDB Cap2 Tabla2
+ẽ,ẽ,vowel,front,mid,voiced,,yes,no,no,short,nasal,nasal breve,GDB Cap2 Tabla2
+ã,ã,vowel,central,open,voiced,,yes,no,no,short,nasal,nasal breve,GDB Cap2 Tabla2
+ũ,ũ,vowel,back,close,voiced,,yes,no,no,short,nasal,nasal breve,GDB Cap2 Tabla2
+ĩː,ĩĩ,vowel,front,close,voiced,,yes,no,no,long,nasal,nasal larga,GDB Cap2 Tabla2
+ẽː,ẽẽ,vowel,front,mid,voiced,,yes,no,no,long,nasal,nasal larga,GDB Cap2 Tabla2
+ãː,ãã,vowel,central,open,voiced,,yes,no,no,long,nasal,nasal larga,GDB Cap2 Tabla2
+ũː,ũũ,vowel,back,close,voiced,,yes,no,no,long,nasal,nasal larga,GDB Cap2 Tabla2
+ĩʔ,ĩʼ,vowel,front,close,voiced,,yes,no,no,short,nasal+glottalised,nasal interrupta,GDB Cap2 Tabla2
+ẽʔ,ẽʼ,vowel,front,mid,voiced,,yes,no,no,short,nasal+glottalised,nasal interrupta,GDB Cap2 Tabla2
+ãʔ,ãʼ,vowel,central,open,voiced,,yes,no,no,short,nasal+glottalised,nasal interrupta,GDB Cap2 Tabla2
+ũʔ,ũʼ,vowel,back,close,voiced,,yes,no,no,short,nasal+glottalised,nasal interrupta,GDB Cap2 Tabla2
+ĩh,ĩh,vowel,front,close,voiceless,,yes,yes,no,short,nasal+aspirated,nasal aspirada,GDB Cap2 Tabla2
+ẽh,ẽh,vowel,front,mid,voiceless,,yes,yes,no,short,nasal+aspirated,nasal aspirada,GDB Cap2 Tabla2
+ãh,ãh,vowel,central,open,voiceless,,yes,yes,no,short,nasal+aspirated,nasal aspirada,GDB Cap2 Tabla2
+ũh,ũh,vowel,back,close,voiceless,,yes,yes,no,short,nasal+aspirated,nasal aspirada,GDB Cap2 Tabla2

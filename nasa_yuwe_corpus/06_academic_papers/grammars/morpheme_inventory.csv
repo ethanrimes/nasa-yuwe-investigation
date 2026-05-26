@@ -1,0 +1,119 @@
+code,form,type,category,position,function,spanish_gloss,examples,source,notes
+TOP,-a',clitic,information_structure,suffix,topicalizer,(functional),"Peklu-a',u'kwe-a',u'nah-a'",GDB Cap4,Often coincides with subject. Has long-form allomorph after stressed syllable.
+OBJ,-a's,case_marker,case,suffix,accusative-dative singular,(functional),"luuçx-a's,Karlus-a's,çxiçx-a's",GDB Cap4,Marks OD/OI; unmarked when OD coexists with marked OI
+OBJpl,-txi's,case_marker,case,suffix,accusative-dative plural,(functional),"kla-txi's,tub-txi's",GDB Cap4,Plural of OBJ
+INE,-te,case_marker,locative,suffix,inesivo generic / vertical body-axis,en,"yat-te,çxhab-te,kabildo-te",GDB Cap4,
+INE,-ka,case_marker,locative,suffix,inesivo,en,,GDB Cap4,
+INE,-su,case_marker,locative,suffix,inesivo / por,por; en,,GDB Cap4,
+INE,-khe,case_marker,locative,suffix,inesivo,en,,GDB Cap4,
+INEh,-?,case_marker,locative,suffix,inesivo horizontal,en (eje horizontal),,GDB Cap2,Form not in extracted data
+INEi,-?,case_marker,locative,suffix,inesivo ligeramente inclinado,en (eje inclinado),,GDB Cap2,Form not in extracted data
+INEp,-?,case_marker,locative,suffix,inesivo fuerte pendiente,en (eje en pendiente),,GDB Cap2,Form not in extracted data
+ALA,-na,case_marker,locative,suffix,alativo,a; hacia,,GDB Cap4,Motion to
+ELA,-ju,case_marker,locative,suffix,elativo,de; desde,çxhab-ju,GDB Cap4,Motion from
+BEN,-ji,case_marker,role,suffix,benefactivo,para,"agx-ji,Selsu-ji,txã-ji",GDB Cap4 Cap6,Also disambiguates 3rd person possessor from demonstrative
+SOC,-yakh,case_marker,role,suffix,sociativo / comitativo,con (compañia),"Silvxina-yakh,plad-yakh",GDB Cap4,
+INS,-uh,case_marker,role,suffix,instrumental,con (instrumento),çxilx-uh,GDB Cap4,
+ADI,-va,clitic,additive,suffix,aditivo,también; y,,GDB Cap4 + vocab,
+extent,-pcach,clitic,extent,suffix,extent / terminus,hasta,,vocab,
+duration,-pcachja,clitic,duration,suffix,duration,"mientras, durante",,vocab,
+spatial,-cjẽ,clitic,spatial,suffix,below,abajo,,vocab,
+PL,-tx,inflection,number,suffix,plural (nouns),(plural),,Slocum + Cap4,
+COL,-we'sx,inflection,number,suffix,collective plural,los/las (people),"txãwe'sx,kxãwe'sx,i'kwesx",GDB Cap6,
+AOR,-ø,inflection,aspect,suffix,aoristo,(zero morph),"wa'kx-ø-ku,pes-ø-ku,ji'ph-ø-a'",GDB Cap4,Null surface form
+IMPF,-u,inflection,aspect,suffix,imperfectivo (allomorph -u),(aspect),"wuwu-u-ku,ũs-u-thu,um-u-ç-a'",GDB Cap4,IMPF has allomorphs u/i/e
+IMPF,-i,inflection,aspect,suffix,imperfectivo (allomorph -i),(aspect),"teçx-i-ku,wa'kx-i-thu",GDB Cap4,
+IMPF,-e,inflection,aspect,suffix,imperfectivo (allomorph -e),(aspect),"peb-e-ku,ũ'-e-ku,we'w-e",GDB Cap4,
+RES,-nxi,inflection,aspect,suffix,resultativo,(resultative),fxi'-nxi,GDB Cap4,
+DUR,-na,inflection,aspect,suffix,durativo,(durative),"vxihk-na,pud-na",GDB Cap4,
+INT,-ç,inflection,aspect,suffix,aspecto interior,(internal aspect),"lem-u-ç-a',u'j-e-ç-tha'w",GDB Cap4,
+EXT,-yã,inflection,aspect,suffix,aspecto exterior,(external aspect),kna'sa-yuu-yã-ku,GDB Cap4,
+PROS,-yãwa,inflection,aspect,suffix,prospectivo,va a ~,wete-ø-yãwa-a',GDB Cap4,
+INM,-yãwayã,inflection,aspect,suffix,inminente,ya no más va a ~,mji-ø-yãwayã-a',GDB Cap4,
+NEG,-me-,inflection,polarity,medial,negación,no,"wa'kx-ø-me-a',mji-i-me-ne-ga'",GDB Cap4,Between aspect and modopersonal
+D1,-ki-,inflection,deixis,medial,distancia proximal,(deictic),"kãse-ø-ki-ku,nyu-ki-",GDB Cap4,Speaker sphere
+D2,-ku-,inflection,deixis,medial,distancia medial,(deictic),"wa'kx-ø-ku-ku,Karlus-a's-ku-ku",GDB Cap4,
+D3,-ne-,inflection,deixis,medial,distancia distal,(deictic),"puuç-ø-ne-na,me-ne-ga'",GDB Cap4,
+REF,ya'-,prefix,voice,prefix,reflexivo / media,se,"ya'-wa'kx-,ya'-teçx-,ya'-yaçkipu-,ya'-pad-",GDB Cap4,Promotes patient to subject; also true reflexive
+3psASER.PE,-a',MPN,modopersonal,suffix,3sg assertive estative,(predicative),"nasa-a',talx-na',jxuka-a'",GDB Cap4,Long form after stressed syllable
+3psASER.PD,-ku,MPN,modopersonal,suffix,3sg assertive dynamic,(predicative),"wa'kx-ø-ku,um-u-ku,sek-u-ku",GDB Cap4,
+3psSUS.PE,-na,MPN,modopersonal,suffix,3sg suspensive estative,(predicative),"kwehne-na,puuç-ø-ne-na",GDB Cap4,
+3psINTE.PE,-na',MPN,modopersonal,suffix,3sg interrogative estative,(predicative),"talx-na',kim-na'",GDB Cap4,
+1psASER,-thu,MPN,modopersonal,suffix,1sg assertive,(predicative),"mji-ø-ki-thu,ũs-u-thu,we'we-'tj",GDB Cap4,
+2psINTE,-ga',MPN,modopersonal,suffix,2sg interrogative,(predicative),mji-i-me-ne-ga',GDB Cap4,
+2psASER,-g,MPN,modopersonal,suffix,2sg assertive,(predicative),yaçkipu-ø-g,GDB Cap4,For masculine; F variant differs
+1ppASER,-tha'w,MPN,modopersonal,suffix,1pl assertive,(predicative),"yaçkipu-ø-tha'w,u'j-e-ç-tha'w",GDB Cap4,
+3ppASER.PD,-tx,MPN,modopersonal,suffix,3pl assertive dynamic,(predicative),ya'-yaçkipu-ø-tx,GDB Cap4,
+3ppASER.PE,-ta,MPN,modopersonal,suffix,3pl assertive estative,(predicative),tekh-ta,GDB Cap4,
+DEM1,na-,demonstrative,deixis,word,proximal demonstrative,este,"na',na-ku",GDB Cap4,
+DEM2,txã-,demonstrative,deixis,word,distal demonstrative,ese / aquel,"txã,txã misx,txã alku,txã jiba",GDB Cap4,Also 3sg pronoun
+DEM2,kxã-,demonstrative,deixis,word,distal demonstrative (alt),ese / aquel,kxã,GDB Cap4,Alternative form
+PRON.1sg.M,adx / agx,pronoun,pronoun,word,1st singular masculine,yo (masc),"agx-a',adx-a'",GDB Cap6,Speaker-male
+PRON.1sg.F,u'kwe,pronoun,pronoun,word,1st singular feminine,yo (fem),u'kwe-a',GDB Cap6,Speaker-female
+PRON.2sg.M,idx / igx,pronoun,pronoun,word,2nd singular masculine,tú (masc),igx-a',GDB Cap6,Addressee-male
+PRON.2sg.F,i'kwe,pronoun,pronoun,word,2nd singular feminine,tú (fem),i'kwe,GDB Cap6,Addressee-female
+PRON.3sg,txã / kxã,pronoun,pronoun,word,3rd singular,él/ella,txã,GDB Cap6,Reuses demonstrative
+PRON.1pl,kwe'sx,pronoun,pronoun,word,1st plural,nosotros,kwe'sx,GDB Cap6,
+PRON.2pl,i'kwesx,pronoun,pronoun,word,2nd plural,ustedes,i'kwesx,GDB Cap6,
+PRON.3pl,txãwe'sx / kxãwe'sx,pronoun,pronoun,word,3rd plural,ellos/ellas,txãwe'sx,GDB Cap6,
+TIME,ãçxha,deictic,time,word,today,hoy,ãçxh-a',GDB Cap4,
+TIME,kusi,deictic,time,word,this morning,esta mañana,kusi-a',GDB Cap4,
+TIME,u'nah,deictic,time,word,yesterday,ayer,u'nah-a',GDB Cap4,
+TIME,kuskay,deictic,time,word,tomorrow,mañana,kuskay-a',GDB Cap4,
+SPACE,ay-,deictic,space,base,near,aquí (cerca),ay-te-a',GDB Cap4,Combined with locative suffix
+SPACE,ki-,deictic,space,base,near (alt),aquí,,GDB Cap6,
+NUM,teeçx,quantifier,number,word,one,uno,teeçx,GDB Cap4,
+NUM,ẽene,quantifier,number,word,two,dos,,vocab,
+NUM,tekh,quantifier,number,word,three,tres,tekh-ta,GDB Cap4,
+QUANT.INDEF,jxuka,quantifier,indefinite,word,all,todo,jxuka-a',GDB Cap4,
+INTRG.WHO,kim,interrogative,interrogation,word,who,quién,kim-na',GDB Cap4,
+INTRG.WHO.PL,kimwe'sx,interrogative,interrogation,word,who (plural),quiénes,,vocab,
+NEG.WORD,me,negation,polarity,word,no,no,me-a',GDB Cap4,Free standalone
+
+1psSUS,-tka,MPN,modopersonal,suffix,1sg suspensive,(predicative),,GDB Cap4 Tabla9,
+1psINTE,-nja,MPN,modopersonal,suffix,1sg interrogative,(predicative),,GDB Cap4 Tabla9,
+2psSUS,-ga,MPN,modopersonal,suffix,2sg suspensive,(predicative),,GDB Cap4 Tabla9,
+3psASER.PD,-ku,MPN,modopersonal,suffix,3sg assertive dynamic (canonical),(predicative),"waʼkx-ø-ku,umu-u-ku",GDB Cap4 Tabla13,Duplicates 3psASER.PD entry above
+3psSUS.PD,-ka,MPN,modopersonal,suffix,3sg suspensive dynamic,(predicative),,GDB Cap4 Tabla13,
+3psINTE.PD,-kaʼ,MPN,modopersonal,suffix,3sg interrogative dynamic,(predicative),,GDB Cap4 Tabla13,
+1ppSUS,-tkhaʼw,MPN,modopersonal,suffix,1pl suspensive,(predicative),,GDB Cap4 Tabla9,
+1ppINTE,-njaʼw,MPN,modopersonal,suffix,1pl interrogative,(predicative),,GDB Cap4 Tabla9,
+2ppASER,-iʼkwe,MPN,modopersonal,suffix,2pl assertive,(predicative),,GDB Cap4 Tabla9,Homophonous with 2pl pronoun
+2ppSUS,-kwe,MPN,modopersonal,suffix,2pl suspensive,(predicative),,GDB Cap4 Tabla9,
+2ppINTE,-kweʼ,MPN,modopersonal,suffix,2pl interrogative,(predicative),,GDB Cap4 Tabla9,
+3ppSUS.PE,-txina,MPN,modopersonal,suffix,3pl suspensive estative,(predicative),,GDB Cap4 Tabla13,
+3ppSUS.PD,-txna,MPN,modopersonal,suffix,3pl suspensive dynamic,(predicative),,GDB Cap4 Tabla13,
+3ppINTE.PE,-txinaʼ,MPN,modopersonal,suffix,3pl interrogative estative,(predicative),,GDB Cap4 Tabla13,
+3ppINTE.PD,-txnaʼ,MPN,modopersonal,suffix,3pl interrogative dynamic,(predicative),,GDB Cap4 Tabla13,
+IMP,-k,inflection,mood,suffix,imperative singular,¡V!,"ah-k,waʼkx-ek",GDB Cap5,2sg command
+IMP.pl,-weʼ,inflection,mood,suffix,imperative plural,¡Vd!,ah-weʼ,GDB Cap5,2pl command
+EXH,-nxa,MPN,modopersonal,suffix,exhortativo,V-mos,"ah-nxa",GDB Cap5,1pl inclusive
+PROH,-meV,inflection,mood,combination,prohibitivo,no V,"ah-me-k",GDB Cap5,= NEG + IMP
+HIP,-yaʼ + -ku/-ka,inflection,mood,suffix,hipotético,si V,"mji-yaʼ-ku",GDB Cap5,Conditional protasis
+NOM,-sa,derivation,nominaliser,suffix,nominalisador,el que V,"ka-piya-sa,zxiçxkwe-sa,mji-sa",GDB Cap3,Productive
+CAUS,-tx-,derivation,valence,suffix,causativo,hace V,(to be elicited from Cap3),GDB Cap3,
+FACT,ka-,derivation,valence,prefix,factitivo,hacer/causar Q,"ka-piya- (FACT-aprender = enseñar)",GDB Cap3,
+DIN,-yuu-,derivation,aspect,medial,dinamizador,convertirse en N,"kna'sa-yuu-yã-ku",GDB Cap3,Turns nominal into change-of-state event
+DIM,-ne,derivation,size,suffix,diminutivo,pequeño N,(elicit),GDB Cap3,
+COL,-weʼsx,inflection,number,suffix,colectivo plural,grupo de N,"txãweʼsx,iʼkweʼsx",GDB Cap6,
+PL,-tx,inflection,number,suffix,plural,(plural),(suffix on nouns),GDB Cap3,
+ANT.IS,-xpe,subord,subordination,suffix,anterioridad mismo sujeto,después de V (mismo sujeto),"mji-xpe",GDB Cap5,SS marker
+ANT.DS,-xpena,subord,subordination,suffix,anterioridad diferente sujeto,después de que V (otro sujeto),"mji-xpena",GDB Cap5,DS marker
+CONC.IS,-yãkpe,subord,subordination,suffix,concesivo mismo sujeto,aunque V (mismo sujeto),"mji-yãkpe",GDB Cap5,SS concessive
+CONC.DS,-yãna,subord,subordination,suffix,concesivo diferente sujeto,aunque V (otro sujeto),"mji-yãna",GDB Cap5,DS concessive
+FIN.G,-yãwa,subord,subordination,suffix,finalidad general,para V,"mji-yãwa",GDB Cap5,Purpose
+FIN.E,-jiyu,subord,subordination,suffix,finalidad específica,para que (alguien) V,(elicit),GDB Cap5,
+INTRG.WHAT,kĩh,interrogative,interrogation,word,what,qué,"kĩh-naʼ",GDB Cap4 Cap5,
+INTRG.HOW,maa,interrogative,interrogation,word,how,cómo,"maa-naʼ",GDB Cap4 Cap5,Also clause-connector "pero"
+INTRG.WHERE,maatx,interrogative,interrogation,word,where,dónde,"maatx-naʼ",GDB Cap4 Cap5,
+INTRG.WHEN,maaçxa,interrogative,interrogation,word,when,cuándo,"maaçxa-naʼ",GDB Cap4 Cap5,
+QUANT.NUM2,ẽene,quantifier,number,word,two,dos,"ẽene",GDB Cap4 Cap5,
+QUANT.NUM4,phaaza,quantifier,number,word,four,cuatro,"phaaza",GDB Cap4 Cap5,
+QUANT.NUM5,tahç,quantifier,number,word,five,cinco,"tahç",GDB Cap4 Cap5,
+SIMI,-thẽʼj,clitic,similative,suffix,similativo,como N,(elicit),GDB Cap4,
+TIME.NOW,naʼ,deictic,time,word,now,ahora,"naʼ",GDB Cap6,Coincides with proximal demonstrative
+LOC.DEIC2,kĩh-,deictic,space,base,what-place,dónde,"kĩh-te",GDB Cap6,
+PRON.RECI,yaʼ-,prefix,voice,prefix,reflexivo/recíproco,se / se mutuamente,"yaʼ-waʼkx-thaʼw,yaʼ-teçx-tx",GDB Cap5,Reciprocal disambiguated by plural agreement
+CONN.ADV,maa,connector,coord,word,adversativo,pero,(clause-initial),GDB Cap5,
+CONN.DIS,iʼpa,connector,coord,word,disyuntivo,o,(clause-initial),GDB Cap5,
+CONN.CON,vxitku,connector,coord,word,consecutivo,entonces / luego,(clause-initial),GDB Cap5,

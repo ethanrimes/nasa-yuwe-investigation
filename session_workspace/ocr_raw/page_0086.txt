@@ -1,0 +1,58 @@
+<
+
+Library
+
+70
+
+alku juna “perro bravo”
+
+alku junas theguth
+(alku juna-a's theg-u-thu)
+
+« >
+veo al perro bravo
+
+//perro/bravo-OBJ/ver-IMPF-1psASER//
+
+MORFOSINTAXIS
+
+La determinación con el nombre expresa una relación de genitivo y sigue
+el mismo orden de la determinación gramatical: DETERMINANTE - DETER-
+MINADO. Semánticamente se pueden expresar con este mecanismo sin-
+táctico diversas relaciones: posesión, parentesco, materia, tema, contenido,
+parte de un todo, etc. Ejemplos:
+
+Lamus jiba “caballo de Ramos”
+
+Lamus jiba habxa “el caballo de Ramos es arisco”
+(Lamus jiba-a' habx-a”)
+//Ramos/caballo-TOP/arisco-3psASER.PE//
+
+ape tasx “mata de auyama”
+ape tasxa' kitek
+
+(ape tasx-a' kite-o-kuj
+//auyama/mata-TOP/florecer-AOR-3psASER.PD//
+
+“la mata de auyama floreció”
+
+Kse ney “padre de José”
+
+Kse neya tuhmetuhme — “el padre de José está canoso”
+(Kse ney-a' tuhme-tuhme-a')
+/IJosé/padre-TOP/gris-gris-3psASER.PE//
+
+atx umsa “tejedora de ruanas”
+Mlxia atx umsa
+
+(Mixia-a atx um-sa-2 Y"
+//María-TOP/ruana/tejer-NOM-3psASER.PE//
+
+“María es tejedora de ruanas”
+
+sagu jemplu “cuento de la sopa”
+
+En este ejemplo, el nombre que actúa como determinante es un verbo nominalizado.
+
+107
+

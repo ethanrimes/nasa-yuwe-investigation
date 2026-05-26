@@ -1,0 +1,51 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+En las oraciones de voz activa aparece en el morfema modopersonal la
+persona que corresponde al agente semántico: segunda singular y primera
+singular. En las oraciones de voz media aparecen en el morfema modoper-
+sonal la tercera persona plural y la tercera persona del singular, respectiva-
+mente, que corresponden al paciente semántico en cada caso.
+
+Existen también otras funciones que, si bien se expresan a través de me-
+dios y estrategias formales —morfológicas y sintácticas—, corresponden al
+nivel pragmático, en tanto cumplen un papel en relación con la información
+que el hablante transmite al oyente; son las funciones informativas. En nasa
+yuwe se encuentran la topicalización y la focalización.
+
+Mediante la topicalización se toma un constituyente y se lo presenta
+como el tema de lo que se va a hablar. Normalmente está situado al inicio de
+la oración y lleva sufijado el morfema (-a”). Frecuentemente coincide con el
+sujeto, que no tiene una marca morfológica propia. Los circunstantes tem-
+porales son topicalizados también con frecuencia. Ejemplos:
+
+Topicalización de sujeto
+txá jiba' sena wuwuk
+[txá jiba-a” sena wuwu-u-ku)
+//DEM2/caballo-TOP/mucho/correr-IMPF-3psASER.PD//
+
+“ese caballo corre mucho”
+
+tuba cxihme “la paloma es blanca”
+ftub-a' cxihme-a)
+//paloma-TOP/blanca-3psASER.PE//
+
+Topicalización de circunstante temporal
+unaha cxhabte úsuth “ayer estuve en el pueblo”
+funah-a' exhab-te ús-u-thu)
+/layer-TOP/pueblo-INE/estar-IMPF-1psASER//
+
+igxa kuskaya mjimenega “¿no trabajarás mañana?”
+ligx-a' kuskay-a' mji-i-me-ne-ga)
+/Itú(masc)-TOP/mañana-TOP/trabajar-IMP-NEG-D3-2psINTE//
+
+Con la focalización se le otorga un mayor relieve informativo a algún
+constituyente de la oración, que se destaca para informar que se trata de
+ese constituyente y no de otro diferente. El procedimiento formal consiste
+en mover hacia dicho constituyente los morfemas modopersonal y de dis-
+tancia, que quedan así sufijados en el constituyente y no en el predicado.
+Ejemplos:
+

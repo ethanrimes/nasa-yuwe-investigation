@@ -1,0 +1,58 @@
+<
+
+Library
+
+MORFOSINTAXIS
+
+T Género
+'ersona
+Masculino Femenino
+
+Primera kwesx
+Segunda Pkwesx
+Tercera wesx / luawe'
+
+Como se puede apreciar en la tabla, en las dos primeras personas del
+singular se establece la diferencia de género entre masculino y femenino,
+mientras que en la tercera persona no. En la tercera persona del singular
+funcionan como personales los demostrativos de lejanía. En las tres perso-
+nas del plural no se hace distinción de género.
+
+La modalidad
+
+Las dos dimensiones de la modalidad, la que pone en relación al locutor con
+su interlocutor y la que pone en relación al locutor con lo que dice, si bien se
+expresan mediante flexión, lo hacen de manera diferente. La primera se mar-
+ca por afijos que acompañan a la raíz verbal y no se combina con la persona.
+En cuanto a la segunda dimensión mencionada, hay un paradigma de la mo-
+dalidad que es opcional —contiene las modalidades volitiva y desiderativa—
+y un paradigma que es obligatorio, el de la modalidad de conocimiento.
+
+El modo, correspondiente a la manifestación de la modalidad de cono-
+cimiento”, presenta tres grados diferentes de certeza respecto a lo que el
+hablante dice: asertivo (ASER), suspensivo (SUS) e interrogativo (INTE). En
+el primero, el hablante está seguro del estado de cosas; en el segundo, deduce
+o infiere por indicios; el tercero es para interrogar sobre los hechos que no
+se conocen. La modalidad de conocimiento se combina con la persona y el
+número; las tres categorías están amalgamadas.
+
+Los tres paradigmas de los morfemas de modo.persona.número sor
+
+Tabla 9. Morfemas modopersonales
+
+No asertivo
+Persona
+Suspensivo Interrogativo
+1.1 singular -tka -nja
+2.1 singular -ga
+a singular -ka / -na
+
+1.3 plural -tkhaw
+2.1 plural -kwe
+
+:
+
+* Esta modalidad se conoce también como «evidencialidad».
+
+83
+

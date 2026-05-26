@@ -1,0 +1,59 @@
+SINTAXIS
+excepto los conectores, con los deícticos espaciales —que se forman con dos
+o tres morfemas— y con el morfema de la negación.
+
+En nasa yuwe hay predicados estativos y dinámicos. Hay predicación con
+aspecto y predicación sin aspecto. Cuando está ausente la categoría grama-
+tical de aspecto, el predicado es siempre estativo. Cuando está presente la
+categoría de aspecto, puede ser estativo o dinámico, dependiendo de la com-
+binatoria de morfemas que contenga la palabra predicativa.
+
+Los predicados sin aspecto pueden tener como núcleo un lexema nomi-
+nal, un lexema verbonominal, un lexema cualificativo o un lexema verbal
+nominalizado. Ejemplos:
+
+Con lexema nominal
+
+nasa “es paez”
+
+ínasa-a't
+
+//paez-3psASER.PE//
+
+Con lexema verbonominal
+
+kwehnena “como que es (un) relámpago”
+
+(kwehne-naj
+
+//relámpago-3psSUS.PE//
+
+Con lexema cualificativo
+
+talxna “es flaco?”
+
+(talx-na't
+
+(/flaco-3psINTE.PE//
+
+Con lexema verbal nominalizado
+
+kapiyasa “es profesor”
+
+(ka-piya-sa-a”)
+
+//FACT-aprender-NOM-3psASER.PE//
+
+Estos predicados se pueden construir igualmente con gramemas libres:
+demostrativos, deícticos espaciales, deícticos temporales, interrogativos y
+cuantificadores. Ejemplos:
+
+Con demostrativo
+
+na “es este”
+
+ína-al
+
+//DEM1-3psASER.PE//
+
+115

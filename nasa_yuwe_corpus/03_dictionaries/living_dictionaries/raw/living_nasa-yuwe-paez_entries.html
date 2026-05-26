@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel='icon' type='image/png' href='../icons/favicon-32x32_adjusted.png'>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name='theme-color' content='#546e7a'>
+	<link rel='manifest' href='../manifest.json'>
+	<meta name="application-name" content="Living Dictionaries">
+
+	<!-- Add , user-scalable=no for Keyman mobile viewports? -->
+
+	<meta name="mobile-web-app-capable" content="yes">
+	<!-- Learn more: https://web.dev/native-hardware-fullscreen -->
+
+	<link rel="mask-icon" href="../icons/safari-pinned-tab.svg" color="#546e7a">
+	<link rel="apple-touch-icon" sizes="180x180" href="../icons/apple-touch-icon.png">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<!-- <link rel="apple-touch-startup-image" href="../icons/apple-touch-startup-image.png"> -->
+	<link href="../icons/iOS_splashscreens/iphone5_splash.png"
+		media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image" />
+	<link href="../icons/iOS_splashscreens/iphone6_splash.png"
+		media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image" />
+	<link href="../icons/iOS_splashscreens/iphoneplus_splash.png"
+		media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)"
+		rel="apple-touch-startup-image" />
+	<link href="../icons/iOS_splashscreens/iphonex_splash.png"
+		media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)"
+		rel="apple-touch-startup-image" />
+	<link href="../icons/iOS_splashscreens/iphonexr_splash.png"
+		media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image" />
+	<link href="../icons/iOS_splashscreens/iphonexsmax_splash.png"
+		media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)"
+		rel="apple-touch-startup-image" />
+	<link href="../icons/iOS_splashscreens/ipad_splash.png"
+		media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image" />
+	<link href="../icons/iOS_splashscreens/ipadpro1_splash.png"
+		media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image" />
+	<link href="../icons/iOS_splashscreens/ipadpro3_splash.png"
+		media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image" />
+	<link href="../icons/iOS_splashscreens/ipadpro2_splash.png"
+		media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image" />
+
+
+	<!-- <meta name="msapplication-starturl" content="/"> -->
+
+	<!-- <script src='https://js.sentry-cdn.com/b344dd4315d54249afd9c03762aec0c9.min.js' crossorigin="anonymous"
+		data-lazy="no"></script> -->
+
+	<link href="/_app/immutable/assets/unocss-svelte-scoped-global.CPyBT-vP.css" rel="stylesheet" />
+	
+		<link href="../_app/immutable/assets/0.DLoki9kb.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/stores.Drk5H77l.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/PromptReloadOnUpdate.nwiiio6F.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/Toasts.DWUiYLzs.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/2.CgPEnrxd.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/Header.B1GowBwF.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/AuthModal.BlP51dXs.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/Contact.C8oG-z66.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/SelectLanguage.Bixui9RY.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/8.C-5_kL1C.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/NavigationControl.DHpZgGgy.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/_page.Deg7CVYA.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/ToggleStyle.DvFbQsO0.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/RegionModal.fkPkVmWC.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/CoordinatesModal.DRWIqZVs.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/Region.Cyrw_dwv.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/Image.BWNIXhHT.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/SeoMetaTags.DLdsinrJ.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/EditFieldModal.BL3PL5tq.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/IpaKeyboard.Ds0l6GWJ.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/PlayVideo.yBDMyhuL.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/VideoThirdParty.DmYsv0-R.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/Audio.CxZ_uTAA.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/EditAudio.DJnAtkwo.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/SelectSpeaker.Cc9fR-sX.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/AddSpeaker.CnnTU7gU.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/UploadProgressBarStatus.BVmqg4Ts.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/EditImage.Dl94sXTH.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/AddImage.DEYPCoAv.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/UploadImageStatus.CJj-hXJd.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/AddVideo.DPGJ68Sc.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/EntryHistory.CZIkkYu4.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/AddEntry.vGM1lPPs.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/ColumnAdjustSlideover.CaJ8HWRm.css" rel="stylesheet"><title>Entries | Nasa yuwe (Páez) Living Dictionary</title><!-- HEAD_svelte-1g8qsp3_START --><meta name="description" content="The entries in this Living Dictionary are displayed in a comprehensive list that visitors can easily browse by using the page tabs at the bottom of the screen, or search by using the powerful search bar located at the top of the page."><meta name="keywords" content="Endangered Languages, Language Documentation, Language Revitalization, Build a Dictionary, Online Dictionary, Digital Dictionary, Dictionary Software, Free Software, Online Dictionary Builder, Living Dictionaries, Living Dictionary, Edit a dictionary, Search a dictionary, Browse a dictionary, Explore a Dictionary"><meta property="og:title" content="Entries | Nasa yuwe (Páez) Living Dictionary"><meta property="og:description" content="The entries in this Living Dictionary are displayed in a comprehensive list that visitors can easily browse by using the page tabs at the bottom of the screen, or search by using the powerful search bar located at the top of the page."><meta property="og:site_name" content="Living Dictionaries"><meta property="og:type" content="website"><meta property="og:url" content="https://livingdictionaries.app/nasa-yuwe-paez/entries"><meta property="og:locale" content="en"><meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/talking-dictionaries-alpha.appspot.com/o/livingdictionary%2Fimages%2FNEW_Living_Tongues_logo_with_white_around_it.png?alt=media"><meta property="og:image:secure_url" content="https://firebasestorage.googleapis.com/v0/b/talking-dictionaries-alpha.appspot.com/o/livingdictionary%2Fimages%2FNEW_Living_Tongues_logo_with_white_around_it.png?alt=media"><meta property="og:image:type" content="image/png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="1200"><meta property="og:image:alt" content="undefined: undefined"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Entries | Nasa yuwe (Páez) Living Dictionary"><meta name="twitter:description" content="The entries in this Living Dictionary are displayed in a comprehensive list that visitors can easily browse by using the page tabs at the bottom of the screen, or search by using the powerful search bar located at the top of the page."><meta name="twitter:image" content="https://firebasestorage.googleapis.com/v0/b/talking-dictionaries-alpha.appspot.com/o/livingdictionary%2Fimages%2FNEW_Living_Tongues_logo_with_white_around_it.png?alt=media"><meta name="twitter:image:alt" content="undefined: undefined"><meta name="twitter:url" content="https://livingdictionaries.app/nasa-yuwe-paez/entries"><meta name="twitter:site" content="@livingtongues"><meta name="twitter:creator" content="@livingtongues"><!-- HEAD_svelte-1g8qsp3_END -->
+
+	<script src="https://kit.fontawesome.com/b5a05fc445.js" crossorigin="anonymous"></script>
+</head>
+
+<body data-sveltekit-preload-data="hover" class="text-gray-800 antialiased">
+	<div style="display: contents">    <div id="direction" dir="ltr"><header class="uno-3dtpee"><div slot="left" class="uno-puts5e"><a class="uno-ovv24m" href="/" data-svelte-h="svelte-16bvmx7"><i class="fas fa-home"></i></a> <div class="uno-j4njsm"></div> <button type="button" class="uno-2hvuvf"><i class="uno-iur9jn far fa-bars"></i> Nasa yuwe (Páez)</button> <a class="uno-ho0zux" href="/nasa-yuwe-paez">Nasa yuwe (Páez)</a></div> <div class="uno-oh0zyt"></div> <div class="uno-zldk5e"><a href="https://www.paypal.com/donate?hosted_button_id=QCELFXU8ZGTVC" target="_blank" rel="noopener noreferrer" class="sp-hpa67q uno-vv5td5 text md primary svelte-zwni1y"><i class="far fa-donate"></i> <span class="uno-jdx66i">Donate</span> </a> <a href="/about" rel="" class="sp-hpa67q uno-r7ufyt text md primary svelte-zwni1y"><i class="far fa-info-circle"></i> <span class="uno-jdx66i">About</span> </a> <a href="/tutorials" rel="" class="sp-hpa67q uno-vv5td5 text md primary svelte-zwni1y"><span class="uno-7749ph"></span> <span class="uno-jdx66i">Tutorials</span> </a> <a href="https://docs.google.com/document/d/1MZGkBbnCiAch3tWjBOHRYPpjX1MVd7f6x5uVuwbxM-Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer" class="sp-hpa67q uno-98owhh text md primary svelte-zwni1y"><i class="far fa-question-circle"></i> <span class="uno-3xe6ge" data-svelte-h="svelte-1vto71s">FAQ</span> </a> <button class="sp-hpa67q undefined text md primary svelte-zwni1y" type="button" ><span class="uno-8n93ak" data-svelte-h="svelte-q5umfb"><i class="far fa-comment"></i></span>  <span class="uno-omdokl">Contact Us</span> </button>  <button class="sp-hpa67q undefined text md primary svelte-zwni1y" type="button" ><i class="far fa-language"></i> <span class="uno-jdx66i">Language</span> </button>  <button type="button" class="uno-4zavy6" data-svelte-h="svelte-1d9se7y"><i class="uno-emrfee far fa-bars"></i></button> <div class="sp-zmjiff">   <div class="uno-09fhdh"><header><div class="uno-ud9z3k">Menu</div></header> <div><a href="https://www.flipcause.com/secure/cause_pdetails/NTQ3NDQ" target="_blank" rel="noopener noreferrer" class="sp-hpa67q undefined text md primary svelte-zwni1y"><i class="far fa-donate"></i> <span class="uno-3xe6ge">Donate</span> </a> <a href="/about" rel="" class="sp-hpa67q undefined text md primary svelte-zwni1y"><i class="far fa-info-circle"></i> <span class="uno-3xe6ge">About</span> </a> <a href="/tutorials" rel="" class="sp-hpa67q undefined text md primary svelte-zwni1y"><span class="uno-7749ph"></span> <span class="uno-3xe6ge">Tutorials</span> </a> <a href="https://docs.google.com/document/d/1MZGkBbnCiAch3tWjBOHRYPpjX1MVd7f6x5uVuwbxM-Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer" class="sp-hpa67q uno-zjws07 text md primary svelte-zwni1y"><i class="far fa-question-circle"></i> <span class="uno-3xe6ge" data-svelte-h="svelte-150aje8">FAQ</span> </a></div> <div class="uno-ix9lc8"><hr class="uno-fogcbe"> <button class="sp-hpa67q uno-5w32m0 menu md primary svelte-zwni1y" type="button" ><i class="far fa-times fa-lg fa-fw"></i> Close </button></div></div> </div>  <button class="sp-hpa67q undefined text md primary svelte-zwni1y" type="button" ><i class="far fa-sign-in"></i> <span class="uno-rqth3j">Sign In</span> </button> </div> </header> <div class="uno-j0cv6d"><div class="sp-zmjiff   sp-nrzatl">   <div class="uno-phimdb"><div class="uno-v2decw"><a href="/" class="uno-4fogpe svelte-1tnehfb">Living Dictionaries</a> <h5 class="uno-9h88u4">Nasa yuwe (Páez)</h5></div> <div><a href="/nasa-yuwe-paez/entries" class="svelte-1tnehfb active"><span class="uno-yf0ypv"></span> <span class="uno-xxzgd8">Entries</span> <span class="uno-gfqou8"></span>  </a> <a href="/nasa-yuwe-paez/synopsis" class="svelte-1tnehfb"><span class="uno-yfiubl"></span> <span class="uno-xxzgd8">Synopsis</span></a> <a href="/nasa-yuwe-paez/about" class="svelte-1tnehfb"><span class="uno-06jtsz"></span> <span class="uno-xxzgd8">About</span></a> <a href="/nasa-yuwe-paez/grammar" class="svelte-1tnehfb"><span class="uno-t6un6y"></span> <span class="uno-xxzgd8">Grammar</span></a> <a href="/nasa-yuwe-paez/contributors" class="svelte-1tnehfb"><span class="uno-n2klh6"></span> <span class="uno-xxzgd8">Contributors</span></a> </div> <div class="uno-1l961m"></div> <a href="/terms" target="_blank" class="link svelte-1tnehfb">Terms of Use</a> <a href="https://www.youtube.com/static?template=terms" target="_blank" rel="noopener noreferrer" class="link svelte-1tnehfb">Youtube terms</a> <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" class="uno-zbv7m4 link svelte-1tnehfb">Google terms </a> <hr class="uno-8kca9b"> <button class="sp-hpa67q uno-9uquwd menu md primary svelte-zwni1y" type="button" ><i class="far fa-times fa-lg fa-fw"></i> Close </button></div> </div>  <div class="uno-4f4q40"></div> <div class="uno-xtha9r"><div class="uno-dwqx8x"><div class="uno-249nn6"><div class="uno-yabcdz"><div class="uno-uerq4m"><span class="uno-oxl6xr"></span></div> <input type="search" placeholder="Search Entries" class="uno-kvcz94" value=""></div> <button type="button" class="uno-woud9b"><span class="uno-qp9qsg"></span> <span class="uno-m4gh07">Filters</span></button> </div> <div class="uno-ye6z9z"></div> <div class="uno-1zplx1"><button type="button" class="svelte-ckmkoa active"><span class="uno-m9gtsn"></span> <span class="uno-uggnap">List</span></button> <div class="uno-mymyds"></div> <button type="button" class="svelte-ckmkoa"><span class="uno-er6xqr"></span> <span class="uno-uggnap">Table</span></button> <div class="uno-mymyds"></div> <button type="button" class="svelte-ckmkoa"><span class="uno-gq2x03"></span> <span class="uno-uggnap">Gallery</span></button>  </div></div> <div class="uno-kwduj5"><div class="uno-4w81q1"><div class="uno-6rbi0x"> <span class="uno-43tr4n" title="Ensuring all entries are up to date"></span></div>    <nav class="uno-tx9rij"><div class="uno-dfud6j">  <div class="uno-zpeyzx no-scrollbar svelte-1ksp2a4"> <button type="button" class="svelte-1ksp2a4 current">1</button></div>   </div>  </nav></div> <div class="uno-1h0b8j"></div> <div class="sp-zmjiff   sp-nrzatl">   <section class="uno-uoxfxp"></section> </div> </div>  </div></div></div>  
+			
+			<script>
+				{
+					__sveltekit_j0ecwv = {
+						base: new URL("..", location).pathname.slice(0, -1)
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [{"type":"data","data":{serverLocale:void 0,access_token:void 0,refresh_token:void 0,user_latitude:"47.6109",user_longitude:"-122.3303"},"uses":{}},null,null];
+
+					Promise.all([
+						import("../_app/immutable/entry/start.L8TIDMwz.js"),
+						import("../_app/immutable/entry/app._TL_eR2o.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 2, 8],
+							data,
+							form: null,
+							error: null
+						});
+					});
+
+					if ('serviceWorker' in navigator) {
+						addEventListener('load', function () {
+							navigator.serviceWorker.register('../service-worker.js');
+						});
+					}
+				}
+			</script>
+		</div>
+
+	<style>
+		.antialiased {
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+
+		.text-gray-800 {
+			color: rgba(31, 41, 55, 1);
+		}
+	</style>
+</body>
+
+<!-- Google tag (gtag.js) - change async to defer -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7BFYSTZ0T6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7BFYSTZ0T6');
+</script>
+
+</html>

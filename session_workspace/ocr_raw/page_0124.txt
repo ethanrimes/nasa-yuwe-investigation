@@ -1,0 +1,50 @@
+< Library La]
+
+SINTAXIS
+
+uyisas wa kxthu “mordí al que me pegó”
+fuyi-sa-as wa'kx-0-thu)
+/Ipegar-NOM-OBJ/morder-AOR-1psASER//
+
+En función de complemento indirecto
+teecx yaja peeskith mitx ahn ússas
+[teecx yaja pees-o-ki-thu mitx ah-na ús-sa-a's)
+//uno/jigra”/regalar-AOR/D1-1psASER/olla/cocinar-DUR/estar-NOM-
+OBJ//
+“le regalé una jigra a la que está cocinando”
+
+ku'jn ússatxis atx duukhwe
+
+(kwj-na ús-sa-txis atx duukh-we)
+/Mbailar-DUR/estar-NOM-OBJpl/ropa/entregar-IMP.pl//
+“entregue la ropa a los que están bailando”
+
+Como predicado de una relación atributiva
+tx? mhisa “él es (un) trabajador”
+(txá-a mhi-sa-a)
+//1El-TOP/trabajar-NOM-3psASER.PE//
+
+Mlxia mitx ahsa “María es la que cocina”
+(Mixia-a mitx ah-sa-a')
+/[María-TOP/olla/cocinar-NOM-3psASER.PE//
+
+Lasrelativas adnominales pueden agregar diversas indicaciones semánticas
+al nombre que complementan en tanto actúan como modificadores. Ejemplos:
+
+Con lexema verbal
+fxtúu ukanxisa seena wala”' — “el árbol que tumbamos era muy grande”
+(fxtáúu uka-nxi-sa seena wala-a')
+//árbol/tumbar-RES-NOM/muy/grande-3psASER.PE//
+
+picthe mjin ússa yuhta “vienen los hombres que estaban trabajando”
+(pic-the mji-na ús-sa yuh-o-ta)
+/[varón-adulto/trabajar-DUR/estar-NOM/venir- AOR-3ppASER.PE//
+
+% Jigra: palabra para “mochila” en el español regional.
+
+* Enesta oración aparecen sobre el lexema verbal dos morfemas que surten el efecto de nominalizar:
+
+el resultativo (-nxi) y el nominalizador (por excelencia) (-sa).
+
+145
+

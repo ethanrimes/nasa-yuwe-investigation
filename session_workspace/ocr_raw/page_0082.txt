@@ -1,0 +1,51 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+Es necesario anotar aquí que, si bien no es un hecho muy frecuente, los
+morfemas de distancia pueden combinarse también con lexemas nominales.
+Esto puede verse en el ejemplo que se da a continuación, tomado de un rela-
+to de la tradición oral; en él el morfema de distancia lejana (-ne-) indica una
+distancia temporal muy grande, pues se refiere a hechos muy antiguos que
+se conocen por tradición oral.
+
+sxitayu” nasa knasane “el armadillo fue una jovencita paez”
+fsxita-yu” nasa knasa-ne-a')
+//armadillo-ENF/paez/jovencita-D3-3psASER.PE//
+
+En este otro ejemplo, el morfema (-ne-) se combina con el de modo sus-
+pensivo para expresar una suposición:
+
+nasanena “como que es gente”
+(nasa-ne-naj
+//gente-D3-3psSUS.PE//
+
+El caso morfológico
+
+Se ha dicho que el nombre, además de la función predicativa, puede cum-
+plir en una oración funciones argumentales; cuando cumple dichas funcio-
+nes, estas se indican mediante un morfema flexivo que va como sufijo. Estos
+morfemas son:
+
+(-a's “objeto (acusativo-dativo) singular” (OBJ)*
+“objeto (acusativo-dativo) plural” (OBJpI)
+“benefactivo”
+“sociativo o comitativo” (SOC)
+“instrumental” (INS)
+“inesivo (eje corporal vertical o no marcado)” (INE)
+“inesivo” (eje corporal horizontal) (INEh)
+“inesivo” (eje corporal ligeramente inclinado) (INE1)”
+“inesivo (eje corporal pendiente o fuertemente inclinado) (INEp)
+“alativo (a, hacia)” (ALA)
+“elativo (de, desde)” (ELA)
+
+% Como este morfema cubre tanto el acusativo como el dativo, que corresponden a los objetos
+
+directo e indirecto, se ha denominado “objeto”.
+
+Este morfema puede entenderse también como “mediativo”, ejemplo: yu'-su “por el agua”.
+
+102
+

@@ -1,0 +1,50 @@
+< Library La]
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+Con deíctico espacial
+
+>
+
+ayte
+fay-te-a)
+//cerca-INE-3psASER.PE//
+
+« >
+es aquí
+
+Con deíctico temporal
+ácxha “es hoy”
+tacxh-a)
+//hoy-3psASER.PE//
+
+Con interrogativo
+kimna “¿quién es?
+(kim-na
+/Iquién-3psINTE.PE//
+
+Con cuantificador indefinido
+jxuka “es todo”
+fjxuka-a)
+//todo-3psASER.PE//
+
+Con cuantificador numeral
+tekhta “son tres”
+(tekh-ta)
+/Itres-3ppASER.PE//
+
+Es también esta la clase de predicado que se construye con el morfema de
+negación como núcleo y que se da como respuesta a alguna pregunta (total
+o absoluta). Ejemplo:
+
+mea “(es) no”
+(me-a')
+/NEG-3psASER.PE//
+
+Los predicados con aspecto pueden tener como núcleo un lexema ver-
+bal, un lexema verbonominal, un lexema cualificativo o un lexema nominal
+dinamizado. Ejemplos:
+
+Con lexema verbal
+umuk “teje”
+

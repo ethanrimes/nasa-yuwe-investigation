@@ -1,0 +1,50 @@
+MORFOSINTAXIS
+
+En el sintagma nominal pueden aparecer dos o más determinantes gra-
+maticales. Ejemplo:
+
+na u kwe ez luuçx walasa “estos mis dos hijos grandes”
+
+na ukwe ez luuçx vvalasa' nasa yuwes wewetx
+
+(na u'kwe ez luuçx wala-sa-a' nasa yuwe-'s wew-e-txj
+
+//DEM1/yo(fem)/dos/niño/grande-NOM-TOP/paez/lengua-OBJ/
+
+hablar-IMPF-3ppASER.PD//
+
+“estos mis dos hijos grandes hablan lengua páez”
+Otras clases de palabras
+Además del verbo y el nombre, se encuentran los deícticos, las palabras cua-
+lificativas y los conectores.
+Deícticos
+En correspondencia con las tres categorías deícticas —la persona, el espacio
+y el tiempo— existen deícticos personales, espaciales y temporales, que fue-
+ron presentados en el capítulo 3 dentro de los morfemas gramaticales. Todos
+ellos pueden funcionar como núcleo de una palabra predicativa, tal como se
+muestra en los ejemplos que ilustran las palabras predicativas con gramema
+como núcleo, en el capítulo de Morfologia.
+
+Los deícticos espaciales y temporales cuando están cumpliendo funcio-
+nes circunstanciales no se presentan como palabras predicativas. Ejemplos:
+
+ayte ústa “aquí están”
+
+(ay-te ús-o-ta |
+
+//cerca-INE/estar- AOR-3ppASER.PE//
+
+kuskaya mjiyàvvatha'vv “mañana vamos a trabajar”
+
+(kuskay-a mji-0-yawa-thaw)
+
+//mañana-TOP/trabajar- AOR-PROS-1ppASER//
+Palabra cualificativa
+Los lexemas cualificativos pueden formar palabras predicativas, tanto nomi-
+nales como verbales, como se ha mostrado ampliamente al tratar el nombre
+y el verbo. Existe la palabra cualificativa no predicativa. Esto se da cuando
+el cualificativo funciona como modificador semántico de un nombre dentro
+de un sintagma nominal; en este caso aparece el lexema como forma libre.
+Ejemplos:
+
+109

@@ -1,0 +1,290 @@
+[
+  {
+    "status": "downloaded",
+    "bytes": 13595431,
+    "kind": "pdf",
+    "file": "Constitucion_de_1991_Nasa_Yuwe_Uniandes.pdf",
+    "url": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/1043b9b8-ebe8-4cee-83bb-485f5b9c45af/content",
+    "source": "Uniandes repository; full Nasa Yuwe constitution PDF"
+  },
+  {
+    "status": "downloaded_small_check_manually",
+    "bytes": 98,
+    "kind": "metadata",
+    "file": "Constitucion_de_1991_Nasa_Yuwe_Uniandes_OCR.txt",
+    "url": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/1cfc6bb4-7a8d-43c2-9764-efd389906007/content",
+    "source": "Uniandes repository; OCR text bitstream"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 1810,
+    "kind": "metadata",
+    "file": "Constitucion_de_1991_Nasa_Yuwe_Uniandes_license.txt",
+    "url": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/9da4b36f-dbdf-4d2c-894b-9ca742eeb1bf/content",
+    "source": "Uniandes repository; license bitstream"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 8273355,
+    "kind": "pdf",
+    "file": "Texto_Institucional_Nasa_Castellano_Nasa_Yuwe_Procuraduria.pdf",
+    "url": "https://apps.procuraduria.gov.co/portal/media/file/Texto%20Institucional%20NASA%20YUWE.pdf",
+    "source": "Procuraduria institutional bilingual text"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 1025630,
+    "kind": "pdf",
+    "file": "CDI_144_Diccionario_Nasa_Yuwe_UAIIN_CRIC.pdf",
+    "url": "https://sia.uaiinpebi-cric.edu.co/static/img/11_LIBROS/CDI_-_144_DICCIONARIO_NASA_YUWE.pdf",
+    "source": "UAIIN/CRIC dictionary"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 7384,
+    "kind": "pdf",
+    "file": "Nasa_Yuwete_Wewna_Fxijya_Piyaca_UAIIN_CRIC.pdf",
+    "url": "https://sia.uaiinpebi-cric.edu.co/static/img/11_LIBROS/SIN_DATOS.pdf",
+    "source": "UAIIN/CRIC learning book page 688 embedded PDF"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 245032,
+    "kind": "pdf",
+    "file": "Dic_Nasa_ling_fi.pdf",
+    "url": "http://www.ling.fi/Entradas%20diccionario/Dic=Nasa.pdf",
+    "source": "Omniglot-linked Nasa dictionary PDF"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 145050,
+    "kind": "pdf",
+    "file": "La_traduccion_contextual_constitucion_Nasa_Yuwe_Ramos_Pacho.pdf",
+    "url": "https://amerindia.cnrs.fr/wp-content/uploads/2021/02/La-traduccio%CC%81n-contextual-de-la-Constitucio%CC%81n-poli%CC%81tica-de-Colombia-en-nasa-yuwe-Abelardo-RAMOS-PACHO.pdf",
+    "source": "Amerindia/CNRS article"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 5458878,
+    "kind": "pdf",
+    "file": "Abanate_Kwesx_Knaynxi_Nasa_Yuwe_Armada.pdf",
+    "url": "https://www.armada.mil.co/sites/default/files/acuerdo-nasa-yuwe.pdf",
+    "source": "Armada/MinCultura Nasa Yuwe agreement/institutional text"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 612156,
+    "kind": "pdf",
+    "file": "La_Alegria_de_Aprender_Nasa_Yuwe_y_Castellano_UNAD.pdf",
+    "url": "https://repository.unad.edu.co/bitstream/handle/10596/62997/Adjimenzl%20.pdf?sequence=3",
+    "source": "UNAD thesis/project PDF"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 5275922,
+    "kind": "pdf",
+    "file": "Interprete_contextual_expresiones_Nasa_Yuwe_Dialnet.pdf",
+    "url": "https://dialnet.unirioja.es/descarga/articulo/10560013.pdf",
+    "source": "Dialnet scholarly article"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 331334,
+    "kind": "pdf",
+    "file": "Preview_Gramatica_descriptiva_basica_Nasa_Yuwe.pdf",
+    "url": "https://api.pageplace.de/preview/DT0400.9789587659511_A40019812/preview-9789587659511_A40019812.pdf",
+    "source": "Legal preview of grammar book"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 146194,
+    "kind": "pdf",
+    "file": "Preview_Cultura_escrita_lengua_Nasa_Yuwe.pdf",
+    "url": "https://api.pageplace.de/preview/DT0400.9789587324815_A43396496/preview-9789587324815_A43396496.pdf",
+    "source": "Legal preview of Cultura escrita book"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 32256,
+    "kind": "metadata",
+    "file": "Paez_alphabet_chart_Omniglot.xls",
+    "url": "https://www.omniglot.com/charts/paez.xls",
+    "source": "Omniglot alphabet chart"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 141950,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Ambientales_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Ambientales_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 150206,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Astros_y_Colores_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Astros_y_Colores_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 151967,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Cuerpo_Humano_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Cuerpo_Humano_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 153483,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Frutas_y_Verduras_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Frutas_y_Verduras_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 152364,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Herramientas_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Herramientas_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 178655,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Hogar_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Hogar_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 146873,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Inmuebles_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Inmuebles_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 151461,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Los_alimentos_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Los_alimentos_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 156726,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Los_animales_NY_v1.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Los_animales_NY_v1.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 155688,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Los_animales_NY_v2.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Los_animales_NY_v2.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 180788,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Los_numeros_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Los_numeros_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 146031,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Medicinales_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Medicinales_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 174343,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Nombres_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Nombres_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 148707,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Parentescos_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Parentescos_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 150501,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Prendas_y_Saludos_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Prendas_y_Saludos_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 153913,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Vocabulario_NY_v2.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Vocabulario_NY_v2.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 155272,
+    "kind": "pdf",
+    "file": "KwesxYuwe_Vocabulario_NY.pdf",
+    "url": "https://kwesxyuwe.com/file/pdf/Vocabulario_NY.pdf",
+    "source": "Kwe'sx Yuwe downloadable didactic material"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 70530,
+    "kind": "audio",
+    "file": "NasaYuwe_FrancyYaneth_23Jul2013_010hocico.mp3",
+    "url": "https://talkingdictionary.swarthmore.edu/media/paez/aud/NasaYuwe_FrancyYaneth_23Jul2013_010hocico.mp3",
+    "source": "Nasa Yuwe Talking Dictionary visible audio clip"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 75232,
+    "kind": "audio",
+    "file": "NasaYuwe_FrancyYaneth_23Jul2013_011puerco.mp3",
+    "url": "https://talkingdictionary.swarthmore.edu/media/paez/aud/NasaYuwe_FrancyYaneth_23Jul2013_011puerco.mp3",
+    "source": "Nasa Yuwe Talking Dictionary visible audio clip"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 74187,
+    "kind": "audio",
+    "file": "NasaYuwe_FrancyYaneth_23Jul2013_012pezuna.mp3",
+    "url": "https://talkingdictionary.swarthmore.edu/media/paez/aud/NasaYuwe_FrancyYaneth_23Jul2013_012pezuna.mp3",
+    "source": "Nasa Yuwe Talking Dictionary visible audio clip"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 61649,
+    "kind": "audio",
+    "file": "NasaYuwe_FrancyYaneth_23Jul2013_068puerco.mp3",
+    "url": "https://talkingdictionary.swarthmore.edu/media/paez/aud/NasaYuwe_FrancyYaneth_23Jul2013_068puerco.mp3",
+    "source": "Nasa Yuwe Talking Dictionary visible audio clip"
+  },
+  {
+    "status": "downloaded",
+    "bytes": 82024,
+    "kind": "audio",
+    "file": "NasaYuwe_FrancyYaneth_26Jul2013_959horquetaparapuerco.mp3",
+    "url": "https://talkingdictionary.swarthmore.edu/media/paez/aud/NasaYuwe_FrancyYaneth_26Jul2013_959horquetaparapuerco.mp3",
+    "source": "Nasa Yuwe Talking Dictionary visible audio clip"
+  }
+]

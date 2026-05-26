@@ -1,0 +1,49 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+El espacio se manifiesta también en dos verbos con los que se predica
+la ubicación espacial de algo y que funcionan también como auxiliares po-
+sicionales en la construcción de sintagmas verbales: (ús-) y (wp-) “estar”.
+El primero se usa cuando se quiere expresar que el eje corporal de la entidad
+sobre la cual se predica algo es alargado; es el no marcado y por ello funcio-
+na como genérico cuando no se conoce el detalle o esa información esirrele-
+vante”. El segundo se usa para expresar que el eje corporal está flexionado o
+recogido; se aplica igualmente a entidades cuya forma no sea alargada, sino,
+por ejemplo, esférica. Ejemplo:
+
+Según la disposición corporal de la entidad.
+
+MIxia umna úsa “María está tejiendo (de pie)”
+(Mixia-2 um-na ús-9-a'y
+//María-TOP/tejer-DUR/estar- AOR-3psASER.PE//
+
+MIxia umna wpa “María está tejiendo (sentada)”
+(Mixia-2 um-na wp-0-a)
+//María-TOP/tejer-DUR/estar- AOR-3psASER.PE//
+
+Cuando se desconoce el detalle o no es posible determinarlo, tanto el
+morfema locativo como el verbo son los genéricos.
+
+Tmigu” cxhabte úsa”
+(Tmigu-a' cxhab-te ús-9-2)
+//Domingo-TOP/pueblo-INE/estar- AOR-3psASER.PE//
+
+“Domingo está en el pueblo”
+
+En función de la configuración corporal de la entidad.
+
+exwa ayte upa “el sombrero está aquí”
+fexwa-q' ay-te up-0-2')
+//[sombrero-TOP/cerca-INE/estar-AOR-3psASER.PE//
+
+fxtú” mesaka úsa “el palo está en la mesa”
+(fxtú-a mesa-ka ús-9-a)
+//palo-TOP/mesa-INEH/estar-AOR-3psASER.PE//
+
+% El verbo ús- funciona como cópula para predicar la existencia de algo.
+
+154
+

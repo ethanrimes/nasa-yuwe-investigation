@@ -1,0 +1,47 @@
+< Library La]
+
+MORFOSINTAXIS
+
+walak “creció”
+(wala-0-ku)
+//crecer-AOR-3psASER.PD//
+
+Con lexema nominal
+wythu “soy mujer”
+(wy-thu)
+//mujer-1psASER//
+
+nasaga “eres paez?”
+(nasa-ga)
+/Ipaez-2psINTE//
+
+misxa “es (un) gato”
+(misx-a)
+/Igato-3psASER.PE//
+
+Además de los morfemas recogidos en la Tabla 9, hay un morfema mo-
+dopersonal con el que el hablante se refiere a acontecimientos futuros que
+lo involucren y, en algunos casos, a eventos con los que se compromete; este
+
+morfema no hace parte de un paradigma que contenga morfemas similares
+para las otras personas; es el morfema (-n)”, que corresponde a la primera
+persona del singular. Ejemplos:
+
+umun “tejere”
+fum-u-n)
+/Itejer-IMPF-1psEUT//
+
+mjiin “trabajare”
+imji-i-n)
+/Itrabajar-IMPE-1psEUT//
+
+Siempre es posible dinamizar un lexema de vocación estativa o estatizar
+un lexema de vocación dinámica. Existen en la lengua dos morfemas deri-
+vativos transpositores o transcategoriales: el morfema nominalizador (-sa),
+que sufijado a una raíz verbal o cualificativa forma con ella una palabra apta
+para cumplir funciones propias del nombre —predicado estativo o funcio-
+
+Este morfema se combina siempre con el aspecto imperfectivo, que se presentará más adelante y
+
+que se expresa mediante una vocal.
+

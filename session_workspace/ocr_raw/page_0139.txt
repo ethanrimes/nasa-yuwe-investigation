@@ -1,0 +1,47 @@
+<
+
+Library
+
+Rocío DEL PILAR NIEVES OVIEDO
+
+Cuando se combina uno de estos morfemas con el de distancia lejana
+(-ne-) en un relato de la tradición oral, se entiende necesariamente hacia el
+pasado. Ejemplo:
+
+peeteyáwaneju “iba a suceder (hace muchísimo tiempo)”
+fpeete-yawa-ne-ju-a')
+//suceder-PROS-D3-ENF-3psASER.PE//
+
+La combinación de aspecto externo con los morfemas de distancia cerca-
+na y media produce un valor temporal de pasado. Ejemplo:
+
+umyákith “ya tejí (hace poco)”
+fum-o-yá-ki-thuy
+/Itejer-AOR-EXT-D1-1psASER//
+
+memyákuk “ya cantó (hace algún tiempo)”
+(mem-o-yá-ku-ku)
+
+//cantar-AOR-EXT-D2-3psASER.PD//
+
+La presencia de los morfemas interno e incoativo da normalmente un
+
+valor temporal de presente: el acontecimiento en curso y el inicio del acon-
+tecimiento, respectivamente.
+
+umucthu “estoy tejiendo”
+fum-u-c-thu)
+/Itejer-IMPF-INT-1psASER//
+
+fxi'jacyák “(él o ella) está empezando a escribir”
+(ij-a-cya-ku)
+/lescribir-IMPF-INCO-3psASER.PD//
+
+Si se combinan con los morfemas (-ki-) y (-ku-), se entiende el inicio
+del acontecimiento o el acontecimiento en curso desarrollándose en tiempo
+pasado.
+
+memucyákig “ya estabas cantando”
+(mem-u-cyá-ki-gu)
+//cantar-IMPF-INCO-D2-2psASER//
+

@@ -1,0 +1,53 @@
+Rocío DEL PILAR NIEVES OVIEDO
+Los verbos estativos se combinan con la PE cuando van acompañados del
+aoristo y con la PD cuando tienen el morfema de imperfectivo:
+
+Verbo dinámico + AOR + PD um-g-Ru
+
+Verbo dinámico + IMPF + PD um-u-k(u)
+
+Verbo estativo + AOR + PE Ús-g-a
+
+Verbo estativo + IMPF + PD ús-u-k(u)
+
+Si aparece uno de los morfemas aspectuales del paradigma opcional y no
+hay morfema de distancia que medie entre el aspectual y el modopersonal,
+se da la siguiente combinatoria, independientemente de la clase de verbo de
+que se trate:
+
+Base verbal + AOR + EXT +PD um-o-yà-R(u)
+
+Base verbal + IMPF + INCO + PDum-u-çyà-R(u)
+
+Base verbal + IMPF + INT +PE um-u-c-a
+
+Base verbal + AOR + PROS + PE um-o-yàva-a
+
+Base verbal + AOR+INM+PE um-o-yàvayà-a
+La distancia nocional o temporal
+Otro de los paradigmas flexivos del verbo es el que expresa la distancia exis-
+tente con el acontecimiento del cual se habla.
+
+Esta distancia se puede interpretar como una ubicación temporal del
+evento en relación con el momento en que se lo enuncia. En este caso, dicha
+distancia puede entenderse hacia el pasado o hacia el futuro, dependiendo
+de la combinación con los morfemas de modalidad y aspecto.
+
+También puede ser interpretada como una distancia nocional. Por ejem-
+plo, al combinarse con la negación las distancias cercana y media: dicha ne-
+gación se puede entender como parcial, combinada con la distancia cercana,
+o como definitiva, combinada con la distancia media.
+
+El morfema de distancia lejana aparece frecuentemente con la modalidad
+suspensiva para expresar suposiciones; este morfema es el que suele apare-
+cer en los relatos de la tradición oral, combinado con el modo asertivo, pues
+se trata de eventos muy lejanos en el tiempo; por esta razón, no se combina
+normalmente con los morfemas de primera o segunda persona. No se ha
+encontrado que los morfemas de distancia cercana y media se combinen con
+morfemas del modo suspensivo.
+
+Cuando el evento es simultáneo, es decir que no hay distancia entre él y su
+enunciación, o cuando se trata de una verdad considerada atemporal, no hay
+marca morfológica alguna. Este paradigma está formado por los morfemas:
+
+9%

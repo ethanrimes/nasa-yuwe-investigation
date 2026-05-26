@@ -1,0 +1,77 @@
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.                                             PRESENTACIÓN
+
+                                                                                                En este trabajo se presenta una gramática descriptiva básica del nasa yuwe,
+                                                                                                lengua indígena de la región andina suroccidental de Colombia, hablada
+                                                                                                mayoritariamente en el departamento del Cauca.
+
+                                                                                                    Se trata de una gramática descriptiva básica porque se describe en ella lo
+                                                                                                fundamental de cada uno de los niveles estructurales de la lengua. Tiene seis
+                                                                                                capítulos que están organizados de la siguiente manera:
+
+                                                                                                    En el capítulo 1, Generalidades, se presenta información general sobre el
+                                                                                                pueblo nasa y sobre su lengua.
+
+                                                                                                    En el capítulo 2, Fonología, se describe el sistema fonológico de la lengua
+                                                                                                y la manera como está estructurado. Se presentan los fonemas consonánticos
+                                                                                                y los fonemas vocálicos con la ilustración de las oposiciones y las reglas
+                                                                                                de realización. Igualmente, la sílaba, su estructura y la distribución de los
+                                                                                                fonemas en ella. Se agrega información sobre procesos morfofonológicos
+                                                                                                y se presenta el sistema de escritura de la lengua, que corresponde a la
+                                                                                                ortografía unificada.
+
+                                                                                                    En el capítulo 3, Morfología, se describen los morfemas de la lengua, su
+                                                                                                manifestación material y su clasificación. Conjuntamente con la descripción
+                                                                                                de los morfemas se presentan los procedimientos morfológicos y una
+                                                                                                clasificación general de las palabras de la lengua.
+
+                                                                                                    En el capítulo 4, Morfosintaxis, se describen hechos en los que se da
+                                                                                                una intersección de los niveles morfológico y sintáctico: la predicación
+                                                                                                y su incidencia en la clasificación de las palabras. Se presentan aquí
+                                                                                                detalladamente las distintas clases de palabras de la lengua.
+
+                                                                                                    En el capítulo 5, Sintaxis, se presenta la oración como unidad básica
+                                                                                                de este nivel, con sus distintas clasificaciones hechas con criterio
+                                                                                                sintáctico y con criterio semántico. Se describen asimismo las diferentes
+                                                                                                funciones —sintácticas, semánticas e informativas— que se dan en el
+                                                                                                ámbito oracional.
+
+                                                                                del, Pilar, Rocío. Gramática Descriptiva Básica Del Nasa Yuwe : Lengua Indígena Colombiana, Programa Editorial Universidad Del Valle, 2019.
+                                                                                       ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+
+                                                                                Created from upenn-ebooks on 2026-05-25 09:00:35.
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.                 En el capítulo 6, Expresión de la deíxis, se describen los mecanismos
+                                                                                              lingüísticos con los que en esta lengua se expresan las categorías
+                                                                                              deícticas: la persona, el espacio y el tiempo. Este es un tema de semántica
+                                                                                              gramatical.
+
+                                                                                                                                                     12
+
+                                                                                del, Pilar, Rocío. Gramática Descriptiva Básica Del Nasa Yuwe : Lengua Indígena Colombiana, Programa Editorial Universidad Del Valle, 2019.
+                                                                                       ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+
+                                                                                Created from upenn-ebooks on 2026-05-25 09:00:35.
+Copyright © 2019. Programa Editorial Universidad Del Valle. All rights reserved.                                                    Quiero expresar toda mi gratitud a las
+                                                                                                                                    personas e instituciones que hicieron posible la
+                                                                                                                                    elaboración de este trabajo.
+                                                                                                                                    A la Universidad del Valle por haberme
+                                                                                                                                    concedido el año sabático y en particular a
+                                                                                                                                    los directivos de la Escuela de Ciencias del
+                                                                                                                                    Lenguaje y de la Facultad de Humanidades
+                                                                                                                                    por haber respaldado la propuesta.
+                                                                                                                                    A todas las personas, que son muchas, que
+                                                                                                                                    en uno u otro momento han actuado como
+                                                                                                                                    informantes en mi investigación sobre el
+                                                                                                                                    nasa yuwe a lo largo de muchos años.
+                                                                                                                                    A los maestros que me formaron y a los
+                                                                                                                                    colegas, con los que he sostenido interesantes e
+                                                                                                                                    iluminadoras discusiones en torno al objeto de
+                                                                                                                                    estudio y a la adecuada interpretación de los
+                                                                                                                                    hechos lingüísticos encontrados.
+                                                                                                                                    A mi familia por el apoyo que siempre me ha
+                                                                                                                                    brindado.
+
+                                                                                del, Pilar, Rocío. Gramática Descriptiva Básica Del Nasa Yuwe : Lengua Indígena Colombiana, Programa Editorial Universidad Del Valle, 2019.
+                                                                                       ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/upenn-ebooks/detail.action?docID=30332456.
+
+                                                                                Created from upenn-ebooks on 2026-05-25 09:00:35.
+

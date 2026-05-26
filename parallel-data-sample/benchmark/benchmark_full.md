@@ -1,0 +1,44 @@
+# Benchmark de Traducción Nasa Yuwe → Español
+
+Total: 37 elementos, seleccionados en 5 niveles de dificultad.
+Filtrado para excluir filas con texto Nasa Yuwe contaminando la columna Español (territorios_narrados excluido por completo).
+
+| # | Nivel | Nasa Yuwe | Español (referencia) | Fuente |
+|---|-------|-----------|----------------------|--------|
+| 1 | T1: single word / lexical | jype'j-, jype'je- | mantener, criar | living_dict |
+| 2 | T1: single word / lexical | sñal (syal) | la cicatriz, marca | living_dict |
+| 3 | T1: single word / lexical | cpaawenzh- | lograr halar (v.t) | broomva_translation |
+| 4 | T1: single word / lexical | atyj tel | el telar | living_dict |
+| 5 | T1: single word / lexical | Tuçxay, çxa'y | Cuchara | kwesxyuwe_thematic |
+| 6 | T1: single word / lexical | pus-, pusúu- | fermentarse | living_dict |
+| 7 | T1: single word / lexical | wãatsja- | pellizcar | living_dict |
+| 8 | T1: single word / lexical | nasa ji'pjsa | embarazada (encinta) (adj) | broomva_translation |
+| 9 | T2: short phrase | cneeyú íts pullu | tamal de guineo | americasnlp_2024 |
+| 10 | T2: short phrase | mtee (mdee T) | donde, adonde, ¿dónde? ¿adónde? | living_dict |
+| 11 | T2: short phrase | C'hab wala kiwe | territorio de un pueblo grande | americasnlp_2024 |
+| 12 | T2: short phrase | tyaj-, tyaja-, tyaa- | poner, colocar, edificar | living_dict |
+| 13 | T2: short phrase | h'ukaysa ya'c'hác'hawa' mhi wala kuki'n'i | hacer del gran trabajo para el fortalecimiento general | americasnlp_2024 |
+| 14 | T2: short phrase | pytjaa pang-, aca cnay- | sufrir dolor (v.t) | broomva_translation |
+| 15 | T3: short sentence | wẽsẽ'jçxa', judiuwe'sx pkhaakhenite u'psa' wala ũusaçxana, | Cuando oyeron esto, todos los que estaban en la sinagoga se enfurecieron. | bible_nt |
+| 16 | T3: short sentence | Txã'wẽ ewmée yũuwa'jçxá's yaakxni's nvxihtçxa, Dxusa's mneewe'we. Txã'wẽ yũute', peltunaĩwáana. | ¡Arrepiéntete de tu mal camino! Ora al Señor y pídele perdón por pensar de esta manera. | bible_nt |
+| 17 | T3: short sentence | Txãa e'su' Siria vxite' Cilicia kiwenthu u'j. | Luego fui a Siria y a Cilicia. | bible_nt |
+| 18 | T3: short sentence | Txãa pa'ga kim yuhwa txã'wẽ Pablo yase's kxsusçxa bautisãynith jĩya' ãjameetxna. | así que nadie puede decir que fue bautizado en mi nombre. | bible_nt |
+| 19 | T3: short sentence | nawa kim yuhtxwa pta'sxkaahme' nuykatxhisa kimtewa. | pero les ordenó que no dijeran quién era él. | broomva_instruct |
+| 20 | T3: short sentence | Ãçxha' yakhthẽ'jwe'sxtxi pta'sxi'th Dxus luuçx Macedonia kiwesuwe'sxa' pu'çxwa'ja's ãate kaavxya'ja'jtx Dxus kaayaki'the. | Ahora, hermanos, queremos que os enteréis de la gracia que Dios les ha dado a las iglesias de Macedonia. | broomva_instruct |
+| 21 | T3: short sentence | Txã'wẽme', txã'wẽ seena' kastigãywa'j en ãjk, aça' ¿kim kxte' wantãyya' ãjãkx? jĩ'tx. | porque ha llegado el gran día del castigo! ¿Quién podrá mantenerse en pie?» | broomva_instruct |
+| 22 | T3: short sentence | Santafé de Bogotá, Septiembre a'te, 1993te | Santafé de Bogotá, Septiembre de 1993 | americasnlp_2024 |
+| 23 | T3: short sentence | Ec Ne'hwe's'su hiisa's k'tey kyu'hu'kan npicthé'we's ki'pn'i | persona sabia en leyes nombrada por las autoridades para hacerlas cumplir | americasnlp_2024 |
+| 24 | T4: medium sentence | Nawa Akaya kiwete ne'jwe'sx Galión ensu' judiuwe'sxa' Pablo's ahçeçxa khuẽs tasxte jxũna u'jtx. | Sin embargo, cuando Galión se convirtió en el gobernante de Acaya, los judíos se unieron para atacar a Pablo y lo llevaron ante la corte. | bible_nt |
+| 25 | T4: medium sentence | Nawa Herodesa' nwẽesẽ'jepkaçxte jweeíiçxáak thaakwe ewmée yũu, Juana's karcelte kaakxuupha'jna. Jesus ya'bautisãyni (Mt 3.13-17; Mr 1.9-11) | entonces Herodes agregó un crimen más sobre sí enviando a Juan a la cárcel. | bible_nt |
+| 26 | T4: medium sentence | Aça' Jesusa' yu'te ya'bautisãyçxa kasejeçpkaçxha', cielu' phaatek, aça' Jesusa' uyku Dxus Espiritu tub çxihme na'wẽsa txajx kajkwete kĩjaçte. | Justo después de haber sido bautizado, Jesús salió del agua. Los cielos se abrieron y él vio al Espíritu de Dios como una paloma que descendía, posándose sobre él. | bible_nt |
+| 27 | T4: medium sentence | Txã'wẽ kxteeçxah utxaapa'ga ew jiyute yu' i'kwe'sxa' yat na'wẽsa i'kwe: yata's nyafxte' kwet yakhku ya'kaaçxida'ja', aça' txãa kaaçxida'jnisa yu' Jesukristo'. Txã'wẽ yuuna mjĩiya' takhsa' Dxusna selpisaawe'sx vxite' Jesus jxkaahnisawe'sxtxi yu'. | que está siendo edificada sobre el fundamento de los apóstoles y profetas, del cual Cristo es la piedra angular. | bible_nt |
+| 28 | T4: medium sentence | Txajũ' Jesusa' txãa yakh u'jusawe'sxtxi barkote yaçte kaakh, sa' txãa yu' kxtee neeyũuk nasa txuteena u'jsatx weçxana. | En seguida Jesús hizo que los discípulos subieran a la barca y se adelantaran al otro lado mientras él despedía a la multitud. | broomva_instruct |
+| 29 | T4: medium sentence | Adxa' Tata tasxu kasehçxa, naa kiwete yuwe'th, sa' ãçxha' naa kiwe's nvxihtçxa ki' u'jweçthu adx Tata tasxna jĩte', | Salí del Padre y vine al mundo; ahora dejo de nuevo el mundo y vuelvo al Padre». | broomva_instruct |
+| 30 | T4: medium sentence | ¿Kĩh yũukahnki'k txã'wẽ vxyaa? sũhna Pedro u'ppkaçxha', Kornelio kaahnisa' pa'jtx Simon yata's paapẽjxna. | Pedro no acertaba a explicarse cuál podría ser el significado de la visión. Mientras tanto, los hombres enviados por Cornelio, que estaban preguntando por la casa de Simón, se presentaron a la puerta. | broomva_instruct |
+| 31 | T4: medium sentence | F'i'n'i pe'la 18. Nasa' peek' úuste ma'we yaak'n'i' yuuwemesa'. Kimyuhapa kihysu pekhakhena u'hupa'ka huunayuu pkhakh kaakwede'n'i u'hu hi'pme'. | Artículo 18. Se garantiza la libertad de conciencia. Nadie será molestado por razón de sus convicciones o creencias ni compelido a revelarlas ni obligado a actuar contra su conciencia | americasnlp_2024 |
+| 32 | T4: medium sentence | F'i'n'i pe'la 12. Kimyuhpa nasa nwe's'a's huuna' uwec'a í'suthya' ewumena, pk'uya', pápaya', kyac'hi'ya', ithaakwe kuk'the' yuuna, kaythameya' ewumena. | Artículo 12. Nadie será sometido a desaparición forzada, a torturas ni a tratos o penas crueles, inhumanos o degradantes. | americasnlp_2024 |
+| 33 | T5: long / complex | Adx yakhthẽ'jwe'sxtxi neewe'we'th: Dxusa' txakwe wala peeygãapa'ga, ãçxha' i'kwe'sx ĩtxi fxi'zeni petx kakweyã'jçxa jxuka kĩh pkal yuhwa ji'phmée txajx kuseteçxaçxáa ya'mdukhwe, Dxusa's yuuçxáa selpiina fxi'zeya'. Dxusa' txã'wẽ yũuni'sku jxthãasu' naa pa'ga kxtey yuuwa'j ji'ptha'w. | Así que yo los animo, mis hermanos y hermanas, por la compasión de Dios por ustedes, que dediquen sus cuerpos como una ofrenda viva que es santa y agradable a Dios. Esta es la manera lógica de adorar. | bible_nt |
+| 34 | T5: long / complex | Nawa txãa piçthẽ'ja' nasa jxukaysatx pta'sxku, Jesus ma'wẽ yũuni'swa jxuka. Txãa pa'gaçxáa Jesusa' maa çxhabte yuhwa ãate pa'jya' ãjãmeeçxa', çxhab ekaju nasa meesuçxáak u'ju'. Makwe txã'wẽ yũutewa, txajx tasxte yu' majũwe'sxwa pa'jna nestxi yu'. < 1 > | Pero el hombre que había sido sanado se fue y le contó a todos lo que había ocurrido. Como resultado de ello, Jesús ya no podía ir más a las ciudades abiertamente, sino que tenía que quedarse en el campo, donde las personas venían a buscarlo desde todas partes. < 1 > | bible_nt |
+| 35 | T5: long / complex | Txajũ ki' kasehçxa vxite enkhẽ' Kío kiwe pukasutha'w skhẽw. Sa' vxite enkhẽ' Samos kiwetek barko' dudte utxaa. Txajũ ki' u'jçxa', teeçx ahte Trogilio yaasesate pa'jçxatha'w jxkaase. Txajũ' vxite enkhẽ' ki' u'jçxa' Mileto çxhabte pa'tha'w. | Desde allí zarpamos al día siguiente y llegamos frente a Quío. Al otro día cruzamos en dirección a Samos, y un día después llegamos a Mileto. | broomva_instruct |
+| 36 | T5: long / complex | Txãa pa'ga mkaah pedaní kafxte wala ew aphkahn tekh entepkaçx. Txã'wẽ yũumeete', txãa yakh u'jusawe'sxa' kus pa'jçxa kakwe's pesweetxna, sa' e'suyã'ja' na'jĩna we'wetxna nasatx: Uuçxawa ki' ĩtxi yuuga jĩtxna. Aça' txã'wẽ yũuçxa ĩsxiini' nyafxíi ĩsxiinite thaakwesa yuuna jĩte', | Por eso, ordena que se selle el sepulcro hasta el tercer día, no sea que vengan sus discípulos, roben el cuerpo y digan al pueblo que ha resucitado. Ese último engaño sería peor que el primero. | broomva_instruct |
+| 37 | T5: long / complex | Naa mhiyu' kwe's'ti walayuh wec'ayuhsayu'k.Nasasawe's'a' we's'me sena k'ac'hwe's'sa ác'pa v'itu v'itume c'hác'ha ústeyu' kwe's't'ipa sena wec'ayuhsa', naa kiwete ác'a eenkayu' maasapa d'i' u'se pakwena ústa' puuk' ha'dac'ah;sa' naa d'i' u'se's yahk'c'a d'ik'thete weh'kwe d'iite u'kawa'ha'stha'w itháasu'.Sa' h'ukaysatti wala wec'a'th. | Para nosotros este trabajo fue una experiencia muy satisfactoria. Muy satisfactorio también sentir la vitalidad de estos pueblos antiguos, emprendiendo nuevos caminos de entendimiento del mundo de hoy, que sean a la vez nuevos caminos de profundización de su memoria. A todos muchas gracias. | americasnlp_2024 |

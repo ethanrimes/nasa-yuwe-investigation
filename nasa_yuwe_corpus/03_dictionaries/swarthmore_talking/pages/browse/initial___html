@@ -1,0 +1,787 @@
+<!DOCTYPE HTML>
+<html lang="es">
+
+<head>
+	<title>Diccionario hablado de nasa yuwe</title>
+	<meta name="description" content="A searchable Nasa yuwe-English lexicon." />
+    <meta name="keywords" content="Nasa yuwe, Páez, paez, dictionary, lexicon, english" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/dictionaries/default/styles/webfonts.css?v=2.3.1" rel="stylesheet" type="text/css" />
+    	<link href="/dictionaries/default/styles/style.css?v=2.4.0" rel="stylesheet" type="text/css"
+media="only screen and (min-width : 481px), projection" />
+	<link href="/dictionaries/default/styles/handheld.css?v=2.4.0" rel="stylesheet"
+type="text/css" media="handheld, only screen and (max-device-width:
+480px),only screen and (min-device-width: 768px) and
+(max-device-width: 1024px), only screen and (min-device-width: 600px)
+and (max-device-width: 1024px),only screen and (min-width : 320px) and
+(max-width : 480px)" />
+
+	<meta name="twitter:widgets:csp" content="on">
+
+	<link rel="SHORTCUT ICON" href="" />
+	<script src="/dictionaries/default/scripts/jquery-3.6.0.min.js" type="text/javascript"></script>
+	<script src="/dictionaries/default/scripts/funcs.js?v=3.0.2" type="text/javascript"></script>
+	<script type="text/javascript">
+	var dictSettings = {
+	'GAacct': 'UA-29195701-1',
+	'GA4MeasurementID': 'G-91TVK07EE3',
+	};
+	</script>
+</head>
+<body>
+
+	<div id="header">
+	<a href="./?lang=en" class="trans-link">english</a>
+	<div id="titleText">
+    	<img id="logo"  class="flagThumb" src="/dictionaries/paez/images/paez.png" alt="diccionario hablado de nasa yuwe" />
+		<div style="clear:right;">
+			<h1>Nasa yuwe</h1>
+			<!-- <h1>Nasa yuwe <img class="trans-arrow" src="/dictionaries/paez/images/translate-logo.png" alt=" - " /> inglés</h1>-->
+		</div>
+		<h2>diccionario hablado</h2>
+	    <h3>lanzado en 1.0, 9.2012</h3>
+	</div>
+	<div style="clear:both"></div>
+</div>
+		<div id="content" onload="document.search.q.focus();">
+
+			<div id="searchContainer" class="searchbox">
+	<div><form name="search" id="search" method="GET" class="chunky" action="/paez/" accept-charset="utf-8">
+		 <p id="dropdown">
+		 	<label for="fields">Busca:</label>
+    		<select name="fields" id="fields" tabindex="1">
+<option value="all">el diccionario entero</option>
+<option value="lang" selected="selected">palabras en nasa yuwe</option>
+<option value="es_gloss">palabras en español</option>
+<option value="ipa">guía de pronunciación de nasa yuwe</option>
+			</select>
+		</p>
+		<p id="semantic_domains">
+			<label for="semantic_ids">Dominios semánticos:</label>
+			<select name="semantic_ids" id="semantic_ids" tabindex="2">
+    			<option value="">[todo]</option>
+<option value="animal">animal</option>
+<option value="birds">aves</option>
+<option value="human">human</option>
+<option value="insects">insectos</option>
+<option value="mammals">mamíferos</option>
+<option value="plants">plantas</option>
+			</select>
+		</p>
+
+		<div id="q">
+			<label for="searchtext">Busca:</label>
+			<input type="text" name="q" id="searchtext"  value=""  tabindex="3" />
+		</div>
+
+		<div class="toggle_div">
+			<a href="#" id="palette_toggle" title="cambiar de teclado"><span style="display:none">mostrar el teclado &#x25B8;</span><span>ocultar el teclado &#x25BE;</span></a>
+		</div>
+		<div id="character_palette" ><ul title="Haga clic en la letra para utilizarla en la búsqueda."><li>Todas las letras:</li><li><span>'</span></li><li><span>a</span></li><li><span>á</span></li><li><span>ã</span></li><li><span>b</span></li><li><span>c</span></li><li><span>d</span></li><li><span>e</span></li><li><span>ẽ</span></li><li><span>f</span></li><li><span>g</span></li><li><span>h</span></li><li><span>i</span></li><li><span>ĩ</span></li><li><span>í</span></li><li><span>j</span></li><li><span>l</span></li><li><span>m</span></li><li><span>n</span></li><li><span>ñ</span></li><li><span>o</span></li><li><span>ó</span></li><li><span>p</span></li><li><span>q</span></li><li><span>s</span></li><li><span>t</span></li><li><span>u</span></li><li><span>ú</span></li><li><span>ũ</span></li><li><span>v</span></li><li><span>w</span></li><li><span>y</span></li><li><span>z</span></li></ul></div>		<p id="submit">
+    		<input type="submit" value="Busca" tabindex="4" />
+    </p>
+		<div class="specialsearchcontainer">
+  		  	  			<a class="specialsearch imagegallery" href="./?gallery&amp;images&page=1" title="Mostrar entradas con imagenes" tabindex="6">galería de imágenes</a>
+  		  		<a class="specialsearch random" href="./?random" title="display a random entry" tabindex="7">¡Sorprendeme!</a>
+  		<a class="specialsearch reduplication" href="./?fields=all&amp;q=*&amp;reduplicated=2" title="show reduplicated words" tabindex="8">reduplicación</a>
+  	</div>
+ 	</form>
+  
+	
+		<div id="paged_browsing" >
+							<span>buscar el diccionario</span>&emsp;
+						<ul class="pages"  title="browse dictionary by Nasa yuwe words">
+
+				
+					<li>
+												<a href="?initial=b&amp;page=1" class="page">b</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=e&amp;page=1" class="page">e</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=f&amp;page=1" class="page">f</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=j&amp;page=1" class="page">j</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=k&amp;page=1" class="page">k</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=l&amp;page=1" class="page">l</a>
+					</li>
+
+				
+					<li>
+													<span class="page_turn">
+								<a href="?initial=m&amp;page=1" id="prev_page">&#x25C0;</a>
+							</span>
+												<a href="?initial=m&amp;page=1" class="prev_page">m</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=%C3%B1&amp;page=1" class="this_page">ñ</a>
+					</li>
+
+				
+					<li>
+													<span class="page_turn">
+								<a href="?initial=p&amp;page=1" id="next_page">&#x25B6</a>
+							</span>
+												<a href="?initial=p&amp;page=1" class="next_page">p</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=q&amp;page=1" class="page">q</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=s&amp;page=1" class="page">s</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=t&amp;page=1" class="page">t</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=v&amp;page=1" class="page">v</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=w&amp;page=1" class="page">w</a>
+					</li>
+
+				
+					<li>
+												<a href="?initial=y&amp;page=1" class="page">y</a>
+					</li>
+
+				
+			</ul>
+
+			
+				<br />
+				<ul class="page_numbers">
+
+					
+						<li>
+							<a href="?initial=%C3%B1&amp;page=1" class="this_page">1</a>
+						</li>
+
+					
+						<li>
+							<a href="?initial=%C3%B1&amp;page=2" class="next_page">2</a>
+						</li>
+
+					
+						<li>
+							<a href="?initial=%C3%B1&amp;page=3" class="prev_page">3</a>
+						</li>
+
+					
+				</ul>
+
+			
+		</div>
+
+	
+
+
+ 	</div>
+
+</div>
+<div id="results">
+
+<p id="paged_alert" class="resultsReturned">This page ha encontrado <strong>53</strong> entradas</p>
+<div class="entry " id="entry2061">
+	<h3  >
+ña (yã)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la yuca (planta, de raíz comestible)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2061" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry1008">
+	<h3  >
+ña chachay	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">yuca viche</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=1008" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2062">
+	<h3  >
+ña ej	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el yucal</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2062" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2063">
+	<h3  >
+ña ũ&#8217;we	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">harina de yuca</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2063" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry84">
+	<h3  >
+ña, yã	</h3>
+<img class="imgExample entry_img" src="/media/paez/pix/manihotesculenta_reunionisland-scaled.jpg" alt="ña, yã" loading="lazy"/>	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">yuca</span></p>
+<p><span class="notes caption">Ejemplo: Unprocessed cassava roots. Photo by David Monniaux via Wikimedia. CC BY-SA 3.0  <span class="via">vía <a href="http://en.wikipedia.org/wiki/File:Manihot_esculenta_dsc07325.jpg" target="_blank">Wikipedia</a></span></span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=84" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2064">
+	<h3  >
+ñaja- (yãja-)	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2064"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_515punzar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">chuzar, punzar </span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2064" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2066">
+	<h3  >
+ñaña	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adjetivo</span> 
+<span class="gloss">desdentado</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2066" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2065">
+	<h3  >
+ñandy (yãndy)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el nevado (ej. Nevado de Huila)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2065" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry74">
+	<h3  >
+ñauñú	</h3>
+<img class="imgExample entry_img" src="/media/paez/pix/Curuba_fibonacci-scaled.jpg" alt="ñauñú" loading="lazy"/>	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">curuba</span></p>
+<p><span class="notes caption">Ejemplo: Two curubas (banana passionfruit), one of them longitudinally cut to show the edible pulp in which the seeds are embedded. Photo by Fibonacci via Wikimedia. CC BY-SA 3.0  <span class="via">vía <a href="http://en.wikipedia.org/wiki/File:Curuba.jpg" target="_blank">Wikipedia</a></span></span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=74" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2067">
+	<h3  >
+ñauñú	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la curuba (fruta)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2067" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2068">
+	<h3  >
+ñavytuć	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2068"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_23Jul2013_037coral.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la coral (culebra)</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2068" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2069">
+	<h3  >
+ñeese-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">tener &#8217;sensaciones&#8217; en el cuerpo</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2069" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2070">
+	<h3  >
+ñiñ	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2070"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_250grano.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el grano, la pepita</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2070" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2071">
+	<h3  >
+ñiñ acj-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">echar grano, cargar</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2071" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2072">
+	<h3  >
+ñiñ-, ñiñi-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">prender (candela)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2072" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry46">
+	<h3  >
+ñu&#8217;py le&#8217;ch	</h3>
+<img class="imgExample entry_img" src="/media/paez/pix/aguti_colon-scaled.jpg" alt="ñu&#8217;py le&#8217;ch" loading="lazy"/>	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">agutí</span></p>
+<p><span class="notes caption">Ejemplo: Photo by Claudia Grant via Flickr. CC BY-SA 2.0.  <span class="via">vía <a href="http://www.flickr.com/photos/pcppire/5557933524/" target="_blank">Flickr</a></span></span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=46" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2103">
+	<h3  >
+ñu&#8217;py le&#8217;chcue	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">agutí, guatín (mamífero roedor)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2103" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry47">
+	<h3  >
+ñu&#8217;py wala	</h3>
+<img class="imgExample entry_img" src="/media/paez/pix/agouti_leticia-scaled.jpg" alt="ñu&#8217;py wala" loading="lazy"/>	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">paca, guagua</span></p>
+<p><span class="notes caption">Ejemplo: Photo by Brodie Ferguson via Flickr. CC BY-SA 2.0.  <span class="via">vía <a href="http://www.flickr.com/photos/anthrotect/3517208654/" target="_blank">Flickr</a></span></span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=47" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2104">
+	<h3  >
+ñu&#8217;py wala	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">guagua, paca (mamífero roedor)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2104" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2105">
+	<h3  >
+ñu&#8217;wẽ- (yũ&#8217;wẽ-)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">tener sed</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2105" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2073">
+	<h3  >
+ñucue	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el tío (hermano del papá)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2073" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2074">
+	<h3  >
+ñujne	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la sala</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2074" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2075">
+	<h3  >
+ñun (yũn)	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2075"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_402fruta.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la fruta</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2075" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2076">
+	<h3  >
+ñun-, ñunu- (yũn-)	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2076"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_25Jul2013_634darfruto.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">dar fruto, cargar</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2076" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2077">
+	<h3  >
+ñunda (yunda)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">pajonal, sabana </span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2077" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2078">
+	<h3  >
+ñunda alcu (T)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el zorro (mamífero)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2078" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2079">
+	<h3  >
+ñunz (yujnz)	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2079"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_26Jul2013_839aguja.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la aguja</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2079" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2080">
+	<h3  >
+ñunz cafy	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2080"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_26Jul2013_948ojodeaguja.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el ojo de la aguja</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2080" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2081">
+	<h3  >
+ñunz vits	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2081"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_26Jul2013_841puntadelaaguja.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la punta de la aguja</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2081" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2082">
+	<h3  >
+ñus (yũs)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adverbio</span> 
+<span class="gloss">triste</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2082" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry714">
+	<h3  >
+ñus cnay-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">experimentar tristeza</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=714" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2085">
+	<h3  >
+ñus cnay-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">padecer</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2085" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2086">
+	<h3  >
+ñus pu&#8217;ch-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">condolerse, compartir la flicción de otro</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2086" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2084">
+	<h3  >
+ñus-, ñusu- (yũs-)	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">estar triste, entristecerse, afligirse</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2084" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2091">
+	<h3  >
+ñusha	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2091"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_232dulce.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">adjetivo</span> 
+<span class="gloss">dulce (sabor) </span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2091" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2092">
+	<h3  >
+ñusha	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la caña de azúcar (planta)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2092" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry323">
+	<h3  >
+ñusha beca	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">chicga de caña, guarapo</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=323" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2093">
+	<h3  >
+ñusha beca	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2093"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_403guarapo.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el guarapo, chicha de caña de azúcar </span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2093" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2094">
+	<h3  >
+ñusha cja&#8217;ty	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2094"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_306bagazo.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">bagazo </span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2094" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2095">
+	<h3  >
+ñusha ej	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2095"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_307canaduzal.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">cañaduzal</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2095" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2096">
+	<h3  >
+ñusha jypa&#8217;gasa	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2096"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_432elquerecibecanaeneneltrapiche.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el que recibe cañaen el trapiche </span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2096" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry1815">
+	<h3  >
+ñusha mil	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">miel de caña</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span>,<br /><span class="dialect">dialecto / variante: Spanish loanword</ span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=1815" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2097">
+	<h3  >
+ñusha puutssa	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2097"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_433elquemetelacana.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el que mete la caña en el otro lado del trapiche</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2097" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2098">
+	<h3  >
+ñusha tel	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2098"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_434trapichedemano.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el trapiche de mano</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2098" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2099">
+	<h3  >
+ñusha&#8217;j-, ñusha&#8217;ja-	</h3>
+	<div class="insides">
+<span class="audio" id="audio_2099"><a href="/media/paez/aud/NasaYuwe_FrancyYaneth_24Jul2013_308endulzar.mp3" class="audio-file" target="_blank" title="clic para escucharlo "><span>Escuchalo</span><span style="display:none">cargando</span><span style="display:none">Sonando</span></a></span>		<p>
+<span class="pos">verb transitive</span> 
+<span class="gloss">endulzar</span></p>
+<p class="metadata"><span class="authority">Hablante: Francy Yanet</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2099" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2087">
+	<h3  >
+ñusna ũs-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">estar triste</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2087" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2083">
+	<h3  >
+ñusñus	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adverbio</span> 
+<span class="gloss">muy triste</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2083" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2088">
+	<h3  >
+ñuspa&#8217;	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">adverbio</span> 
+<span class="gloss">agradable, apetecible</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2088" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2089">
+	<h3  >
+ñussa	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la tristeza, angustia</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2089" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2090">
+	<h3  >
+ñusu en	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">la desgracia</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2090" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2100">
+	<h3  >
+ñuty	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">moco </span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2100" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2101">
+	<h3  >
+ñutyji-	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">verb intransitive</span> 
+<span class="gloss">moquear</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2101" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+<div class="entry " id="entry2102">
+	<h3  >
+ñuwe	</h3>
+	<div class="insides">
+		<p>
+<span class="pos">sustantivo</span> 
+<span class="gloss">el palo del telar (lanzadera)</span></p>
+<p class="metadata"><span class="authority">Hablante: Gerdel and Slocum, 1983.</span></p><span class="bookmark permalink"><a class="oid permalink" href="./?entry=2102" rel="bookmark" title="registro">registro</a></span>	</div>
+	<div style="clear:both;"></div>
+</div>
+</div>
+<div id="footer">
+    <p>
+    	<a href="about">Sobre el diccionario</a> &emsp;
+				    </p>    
+    
+
+	<p id="total_entries" class="not_small">
+		Actualmente hay <strong>3934</strong> entradas, <strong>1002</strong> archivos de audio, y <strong>88</strong> imágenes.
+    </p>
+    
+    <p id="copyright">
+	    Todo el contenido es el derecho &copy; de la communidad nasa yuwe. (2012).<br/>
+	    El diccionario hablado fue producido por Jairo Arias, Loly Colderón, Yesena Rincón Jiménez, Ananía Piñacue, Prof. Pedro Marín Silva, K. David Harrison y Jeremy Fahringer (2012).<br />
+    	Todos los derechos reservados. Se prohibe distribuir o reproducir sin permiso.<br />
+	    <span class="reference"><strong>cómo citar:</strong>
+	    2012. 
+ <i>Nasa yuwe Talking Dictionary.</i>
+ <span class="hyphenate">http://www.talkingdictionary.org/paez</span>
+		</span>
+    </p>
+   
+    <p id="credits">
+    Interfaz y diseño de base de datos bajo la dirección de <a href="http://jeremyfahringer.com" target="_blank">Jeremy Fahringer</a> y <a href="https://www.swarthmore.edu/its" target="_blank">Swarthmore College ITS</a>.
+    </p>  
+    <p id="supported_by">
+    	<strong>Apoyado por</strong><br />
+    	<a href="http://www.caroycuervo.gov.co" target="_blank"><img src="/dictionaries/default/images/caro_y_cuervo.png" alt="Caro y Cuervo logo"  /></a>
+    	<a href="http://www.livingtongues.org" target="_blank"><img src="/dictionaries/default/images/livingtongueslogo-2012.gif" alt="Living Tongues Institute logo"  /></a>
+    	<br />
+    	<a href="https://www.nationalgeographic.org/archive/projects/enduring-voices/expeditions/" target="_blank"><img src="/dictionaries/default/images/nglogo-2012.gif" alt="National Geographic Society logo" /></a>
+    	<a href="http://www.swarthmore.edu"><img src="/dictionaries/default/images/swarthmorelogo-2012.gif" alt="Swarthmore College logo" /></a>
+	</p>
+    
+</div>
+		</div>
+
+	
+</body>
+</html>
+

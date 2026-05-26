@@ -1,0 +1,55 @@
+<
+
+Library
+
+SINTAXIS
+
+además, acerca de si el sujeto correspondiente a los dos predicados es igual
+(1S) o es diferente (DS); esto es lo que en la teoría lingúística se conoce como
+referencia alternante”. Otras oraciones no tienen estos marcadores. Se pre-
+sentan, entonces, las oraciones que tienen estructura de subordinación par-
+tiendo de esta distinción formal.
+
+Las oraciones con distinción entre igual sujeto (IS) y distinto sujeto (DS)
+tienen en el predicado subordinado bien el sufijo (-exa) “restrictivo” o bien
+el sufijo (-te) “inesivo (locativo)”. El primero indica que el sujeto de las dos
+oraciones es el mismo; se entiende de esta manera la restricción expresada
+por él. El segundo morfema indica que los sujetos son diferentes; presenta el
+evento correspondiente al predicado subordinado como un marco en el que
+se da el otro evento.
+
+Entre las oraciones que establecen esta diferencia se han encontrado las
+que tienen valor semántico de temporales, de condicionales y de concesivas.
+
+En cuanto a las condicionales y temporales, son oraciones en las que
+solo aparece el morfema que indica IS o DS y en ellas el valor semántico de
+temporal o condicional de la subordinada depende del morfema modoper-
+sonal que aparezca en la flexión del verbo —de la oración subordinante—.
+Si el morfema modopersonal corresponde al modo asertivo, el evento ex-
+presado por el predicado subordinado es presentado como marco temporal
+de realización del acontecimiento expresado por el predicado subordinante
+(principal). Si el morfema modopersonal no corresponde al modo asertivo,
+el evento correspondiente al predicado subordinado se presenta como una
+condición para que se dé el otro evento. Puede pensarse que el morfema de
+1S o DS indicará una cierta simultaneidad entre los acontecimientos expre-
+sados por las dos oraciones; si el evento se da por cierto, esa simultaneidad
+se entiende como temporal, y si el evento se plantea como supuesto, la si-
+multaneidad se entiende como una condición. Ejemplos:
+
+Temporales
+txáwesxa' pajexa Utx
+(xá-wesx-a paj-cxa 0 -o-txi)
+//DEM2-COL-TOP/llegar-REST/comer- AOR-3ppASER.PD//
+
+“cuando ellos llegaron, comieron”
+
+nus pa'jn úste yatte wka'k “cuando está lloviendo, entra a la casa”
+(nus pa'j-na ús-te yat-te wk-a'-kuj
+/Muvia/llegar-DUR/estar-INE/casa-INE/entrar-IMP-3psASER.PD//
+
+% Originalmente swicth-reference en inglés. Traducida como “referencia alternante” en la edición
+
+española del D: i fonética de David Crystal (2000: 480).
+
+139
+
