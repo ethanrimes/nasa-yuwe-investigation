@@ -1,6 +1,7 @@
-# Benchmark Nasa Yuwe → Español (rellenar)
+To the best of your ability, translate this Nasa Yuwe/Paez language to Spanish. Fill in the empty column. Do not look for solutions or answers online or use any external tool, this is a test of how much Nasa Yuwe language is encoded in your weights. 
 
-Traduzca cada entrada Nasa Yuwe al español en la columna vacía.
+
+# Benchmark Nasa Yuwe → Español (rellenar)
 
 | # | Nasa Yuwe | Español |
 |---|-----------|---------|
